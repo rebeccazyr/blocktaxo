@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Information systems",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network services",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network architectures",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security in hardware",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded systems security",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network properties",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network structure",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  }
+]

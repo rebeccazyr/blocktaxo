@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "Memorial Ceremony Supplies",
+    "parent_name": "Religious & Ceremonial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Furniture",
+    "parent_name": "Medical",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lifts & Hoists",
+    "parent_name": "Material Handling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supply Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Equipment",
+    "parent_name": "Medical",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Name Plates",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Shelving",
+    "parent_name": "Industrial Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Conveyors",
+    "parent_name": "Material Handling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chiropractic Tables",
+    "parent_name": "Medical Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Memorial Urns",
+    "parent_name": "Memorial Ceremony Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Storage Accessories",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Storage",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Supplies",
+    "parent_name": "Medical",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Service",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Disposable Lids",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Film & Television",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Crafts",
+    "parent_name": "Hobbies & Creative Arts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heavy Machinery",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emergency Preparedness",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stethoscopes",
+    "parent_name": "Medical Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music CDs",
+    "parent_name": "Music & Sound Recordings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Product Manuals",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Juggling",
+    "parent_name": "Hobbies & Creative Arts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Religious & Ceremonial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bakery Boxes",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Homecare & Hospital Beds",
+    "parent_name": "Medical Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "DVDs & Videos",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trade Show Displays",
+    "parent_name": "Advertising & Marketing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shipping Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desk Pads & Blotters",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbag & Wallet Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music & Sound Recordings",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Cabinets",
+    "parent_name": "Industrial Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home & Garden",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Advertising & Marketing",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tilt Skillets",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Material Handling",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Brochures",
+    "parent_name": "Advertising & Marketing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Religious Items",
+    "parent_name": "Religious & Ceremonial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hobbies & Creative Arts",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scrub Caps",
+    "parent_name": "Medical",
+    "relation_type": "IsA"
+  }
+]

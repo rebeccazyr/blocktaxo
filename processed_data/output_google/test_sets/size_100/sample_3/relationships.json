@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Bookcases & Standing Shelves",
+    "parent_name": "Shelving",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Pumps",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beds & Bed Frames",
+    "parent_name": "Beds & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Snacks",
+    "parent_name": "Baby & Toddler Food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras & Optics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "File Folders",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Messenger Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Motors",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optic Accessories",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Software",
+    "parent_name": "Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Construction",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tables",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Health",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Transport Accessories",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles",
+    "parent_name": "Vehicles & Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Room Dividers",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Solar Energy Kits",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shopping Totes",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys & Games",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carts & Islands",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cosmetic & Toiletry Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Recreation",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Folders & Report Covers",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desk Organizers",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Drinks",
+    "parent_name": "Baby & Toddler Food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Table Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Card Sleeves",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Benches",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biochemicals",
+    "parent_name": "Science & Laboratory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Science & Laboratory",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Educational Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Automation Kits",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nasal Aspirators",
+    "parent_name": "Baby Health",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Specialty Electrical Switches & Relays",
+    "parent_name": "Electrical Switches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breast Pumps",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Utility Carts",
+    "parent_name": "Office Carts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Car Seat Accessories",
+    "parent_name": "Baby Transport Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power & Electrical Supplies",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing Pillows",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Wires & Cable",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mining & Quarrying",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handheld & PDA Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Switches",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Chair Accessories",
+    "parent_name": "Office Furniture Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sofa Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mail Sorters",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pacifier Clips & Holders",
+    "parent_name": "Baby Health",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fanny Packs",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sewing Machine Tables",
+    "parent_name": "Tables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swaddling & Receiving Blankets",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor Games",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Carrier Accessories",
+    "parent_name": "Baby Transport Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carbon Brushes",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desk Pads & Blotters",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cabinets & Storage",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breast Milk Storage Containers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool, Fountain & Pond Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Filing & Organization",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Cereal",
+    "parent_name": "Baby & Toddler Food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Finance & Insurance",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Food",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Carts",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nightstands",
+    "parent_name": "Tables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Entertainment Centers & TV Stands",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Converters",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business Card Books",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futon Pads",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futon Frames",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motor Vehicles",
+    "parent_name": "Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "File Cabinets",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Janitorial Carts & Caddies",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beds & Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Stroller Accessories",
+    "parent_name": "Baby Transport Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Books",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing & Feeding",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carpentry & Woodworking Project Plans",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Application Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dry Boxes",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Games",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shelving",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Carts",
+    "parent_name": "Office Carts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Utility Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bottle Warmers & Sterilizers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Outlets & Sockets",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Train Cases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ballasts & Starters",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  }
+]

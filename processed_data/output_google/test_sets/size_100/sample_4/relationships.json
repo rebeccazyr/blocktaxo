@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Brooches & Lapel Pins",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vibration Exercise Machines",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laboratory Chemicals",
+    "parent_name": "Science & Laboratory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Policy Signs",
+    "parent_name": "Signage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inversion Tables & Systems",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera Parts & Accessories",
+    "parent_name": "Camera & Optic Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skirts",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Storage",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Service",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras & Optics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optic Accessories",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stopwatches",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Traditional & Ceremonial Clothing",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Binding Supplies",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signage",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laboratory Specimens",
+    "parent_name": "Science & Laboratory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Construction",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Transport Accessories",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security Signs",
+    "parent_name": "Signage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skorts",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watch Bands",
+    "parent_name": "Watch Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Name Plates",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera Stabilizers & Supports",
+    "parent_name": "Camera Parts & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chalkboards",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Umbrella Sleeves & Cases",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ab Wheels & Rollers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dirndls",
+    "parent_name": "Traditional & Ceremonial Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hairdressing Capes & Neck Covers",
+    "parent_name": "Hairdressing & Cosmetology",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Transport",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Uniforms",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Presentation Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Model & Toys Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Science & Laboratory",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yukata",
+    "parent_name": "Traditional & Ceremonial Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automation Control Components",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tacks & Pushpins",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sports Uniforms",
+    "parent_name": "Uniforms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Staples",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home & Garden",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wrestling Uniforms",
+    "parent_name": "Sports Uniforms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Equipment",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Disposable Serveware",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Easel Pads",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lap Desks",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impulse Sealers",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bulletin Board Accessories",
+    "parent_name": "Display Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Card Files",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watch Accessories",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plate & Dish Warmers",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Carriers",
+    "parent_name": "Baby Transport",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Check Presenters",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Earrings",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Product Manuals",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor Games",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Carrier Accessories",
+    "parent_name": "Baby Transport Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "DVDs & Videos",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Push Up & Pull Up Bars",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Foam Rollers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watch Winders",
+    "parent_name": "Watch Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mounting Boards",
+    "parent_name": "Display Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Filing & Organization",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Finance & Insurance",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire Partitions, Enclosures & Doors",
+    "parent_name": "Industrial Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bullion",
+    "parent_name": "Finance & Insurance",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General Office Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Carts",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paper Handling",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outerwear",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rings",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shopping Cart & High Chair Covers",
+    "parent_name": "Baby Transport Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transparencies",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Books",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Foam Boards",
+    "parent_name": "Display Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bracelets",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chaps",
+    "parent_name": "Outerwear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watches",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Car Seats",
+    "parent_name": "Baby Transport",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laboratory Supplies",
+    "parent_name": "Science & Laboratory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graduated Cylinders",
+    "parent_name": "Laboratory Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concession Food Containers",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Display Boards",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parasols & Rain Umbrellas",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tilt Skillets",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hairdressing & Cosmetology",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise & Fitness",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Instruments",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Aerobic Steps",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless Presenters",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Binding Combs & Spines",
+    "parent_name": "Binding Supplies",
+    "relation_type": "IsA"
+  }
+]

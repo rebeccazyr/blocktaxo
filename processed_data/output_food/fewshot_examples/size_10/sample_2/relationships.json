@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "stringozzi",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mezzelune",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bigoli",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corzetti",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "anellini",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pasta",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "occhi di lupo",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "garganelli",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fuži",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  }
+]

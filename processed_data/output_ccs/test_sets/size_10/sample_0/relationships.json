@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Mobile networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network measurement",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance evaluation",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network types",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packet-switching networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance analysis",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very large scale integration design",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  }
+]

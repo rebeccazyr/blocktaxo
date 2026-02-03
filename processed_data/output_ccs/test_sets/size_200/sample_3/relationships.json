@@ -1,0 +1,997 @@
+[
+  {
+    "child_name": "Mathematical software",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design rule checking",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI packaging",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Analog and mixed-signal circuit optimization",
+    "parent_name": "Analog and mixed-signal circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network mobility",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process management",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document preparation",
+    "parent_name": "Document management and text processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation languages",
+    "parent_name": "Simulation support systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proteomics",
+    "parent_name": "Genetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decision analysis",
+    "parent_name": "Operations research",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design for debug",
+    "parent_name": "Post-manufacture validation and debug",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Static timing analysis",
+    "parent_name": "Timing analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Economics of chip design and manufacturing",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Project management techniques",
+    "parent_name": "Project and people management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise data management",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network algorithms",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Operations research",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical synthesis",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire routing",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network privacy and anonymity",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-organizational business processes",
+    "parent_name": "Business process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "World Wide Web (network structure)",
+    "parent_name": "Overlay and other logical network structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer forensics",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web services",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Applied computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proof complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packaging",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Side-channel analysis and countermeasures",
+    "parent_name": "Hardware attacks and countermeasures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software reliability",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Testing with distributed and parallel systems",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hybrid symbolic-numeric methods",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation theory",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing occupations",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile ad hoc networks",
+    "parent_name": "Ad hoc networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical sciences and engineering",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts and humanities",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network range",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer-managed instruction",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware attacks and countermeasures",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Project and people management",
+    "parent_name": "Management of computing and information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software creation and management",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design rules",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Timing analysis",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marketing",
+    "parent_name": "Operations research",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Post-manufacture validation and debug",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Education",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Genetics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Analog and mixed-signal circuits",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Compact delay models",
+    "parent_name": "Timing analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design and analysis of algorithms",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and energy",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Board- and system-level test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware reliability screening",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visibility",
+    "parent_name": "Rendering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General literature",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise application integration",
+    "parent_name": "Enterprise interoperability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation evaluation",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crowdsourcing",
+    "parent_name": "Web applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Statistical software",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-computing tools and techniques",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bioinformatics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory and algorithms for application domains",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing theory, concepts and paradigms",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collision detection",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise interoperability",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation support systems",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrent computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Management of computing and information systems",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Solvers",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very long-range networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information system economics",
+    "parent_name": "Management of computing and information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network design principles",
+    "parent_name": "Network architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and simulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless local area networks",
+    "parent_name": "Wireless access networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Archaeology",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image compression",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Metropolitan area networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational complexity and cryptography",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information systems",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printers",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing education",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "In-network processing",
+    "parent_name": "Network services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web applications",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise computing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete calculus algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wide area networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic design automation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network structure",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptographic protocols",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business-IT alignment",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing and business",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Layering",
+    "parent_name": "Network design principles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Linear algebra algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software system structures",
+    "parent_name": "Software organization and properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Extra-functional properties",
+    "parent_name": "Software organization and properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed circuit boards",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Short-range networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clock generation and timing",
+    "parent_name": "Analog and mixed-signal circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System management",
+    "parent_name": "Management of computing and information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Life and medical sciences",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ad hoc networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impact on the environment",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social and professional topics",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "K-12 education",
+    "parent_name": "Computing education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Genomics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network architectures",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "History of computing",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animation",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media arts",
+    "parent_name": "Arts and humanities",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network reliability",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation types and techniques",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware test",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search-based software engineering",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware validation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biographies",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Economic impact",
+    "parent_name": "Computing and business",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing methodologies",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical-level simulation",
+    "parent_name": "Timing analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System forensics",
+    "parent_name": "Computer forensics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software fault tolerance",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical design (EDA)",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business rules",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interoperability",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "E-learning",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document types",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software performance",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health informatics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network properties",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Engineering",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantum mechanic simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "World Wide Web",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network dynamics",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software organization and properties",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wired access networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic algorithms",
+    "parent_name": "Symbolic and algebraic manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rendering",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data center networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design for testability",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Performing arts",
+    "parent_name": "Arts and humanities",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical foundations of cryptography",
+    "parent_name": "Cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electromagnetic interference and compatibility",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Privacy protections",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Funding",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Procedural animation",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accreditation",
+    "parent_name": "Computing education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "PCB design and layout",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Radio frequency and wireless circuits",
+    "parent_name": "Analog and mixed-signal circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems biology",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic manipulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer graphics",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Event-driven architectures",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless devices",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Implementation management",
+    "parent_name": "Management of computing and information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing profession",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer-assisted instruction",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptography",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication hardware, interfaces and storage",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shape modeling",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing / technology policy",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless access networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chemistry",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Professional topics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Model development and analysis",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Local area networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and thermal analysis",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Programming interfaces",
+    "parent_name": "Network architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network services",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete-event simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algebraic algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Massively parallel and high-performance simulations",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document management and text processing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network management",
+    "parent_name": "Network services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physics",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Overlay and other logical network structures",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human and societal aspects of security and privacy",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very large scale integration design",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tactile and hand-based interfaces",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical software performance",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security in hardware",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network economics",
+    "parent_name": "Network algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Approximation algorithms analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network types",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packet-switching networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  }
+]

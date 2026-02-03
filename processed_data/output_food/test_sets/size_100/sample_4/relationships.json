@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "chistorra",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cheonsachae",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ontbijtkoek",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fideo",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "likëngë",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vlaai",
+    "parent_name": "tart",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "siskonmakkara",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cake",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sushi",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eccles cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "upside-down cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "alheira",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tamarind",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "morteau sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate covered fruit",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakery",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liquor",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oxford sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bratwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tart",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dip",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "butter cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "torta caprese",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oranges",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nădlac sausages",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sausage",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "game cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate truffles",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bánh bó",
+    "parent_name": "fruit cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "savory",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caramel tart",
+    "parent_name": "tart",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meatcake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "licorice",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babacos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "weckewerk",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sour cream",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fresh meat",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lane cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tofu",
+    "parent_name": "soy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lollipops",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "stonner kebab",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ice cream cones",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "trdelník",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gummy sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "side dishes",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mamey",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "passion fruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "feijoas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ahle wurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kek lapis sarawak",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pastries",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "torta alla monferrina",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "butter and margarine",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "persimmons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "metworst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ryynimakkara",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggnog",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sorrel",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy canes",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "deli meats",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kinnathappam",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee brittle",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "garak guksu",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "herb",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cotechino modena",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "st. honoré cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pastiera",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rambutans",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shrimp roe noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wacky cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "breakfast sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sage",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "heavy cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "merguez",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chipa guasu",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pain d'épices",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sapodillo",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taffy",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mangosteens",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jelly beans",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beverage",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chiffon cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "torta tre monti",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frankfurter würstchen",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "esterházy torte",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  }
+]

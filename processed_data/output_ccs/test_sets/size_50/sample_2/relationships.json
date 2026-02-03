@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "Wireless integrated network sensors",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Full-custom circuits",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI packaging",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Usability in security and privacy",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic design automation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electromagnetic interference and compatibility",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Privacy protections",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network properties",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "PCB design and layout",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Browser security",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic circuits",
+    "parent_name": "Integrated circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Standard cell libraries",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and parameter extraction",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical analysis",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Performance",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic manipulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated circuits",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless devices",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed circuit boards",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multi-chip modules",
+    "parent_name": "VLSI packaging",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication hardware, interfaces and storage",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Package-level interconnect",
+    "parent_name": "VLSI packaging",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-computing tools and techniques",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sensor devices and platforms",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information flow control",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Noise reduction",
+    "parent_name": "Signal processing systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation theory",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application specific instruction set processors",
+    "parent_name": "Application-specific VLSI designs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human and societal aspects of security and privacy",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very large scale integration design",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrent computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tactile and hand-based interfaces",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing methodologies",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application-specific VLSI designs",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI design manufacturing considerations",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signal processing systems",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and simulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance evaluation",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning algorithms",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "On-chip sensors",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  }
+]

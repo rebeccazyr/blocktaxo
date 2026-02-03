@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Laminating Film, Pouches & Sheets",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hanging Chair Replacement Parts",
+    "parent_name": "Chair Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Accessories",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vibration Exercise Machines",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Replacement Shelves",
+    "parent_name": "Shelving Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbags, Wallets & Cases",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gaiters",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crib & Toddler Bed Accessories",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras & Optics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Messenger Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optic Accessories",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boot Liners",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Field Hockey & Lacrosse",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Balls",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vanities",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cash Boxes",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mounting Putty",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ironing Centers",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "File Boxes",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Training Aids",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture Sets",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kitchen Islands",
+    "parent_name": "Carts & Islands",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costume Capes",
+    "parent_name": "Costume Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Room Dividers",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "China Cabinets & Hutches",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costumes & Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crib Conversion Kits",
+    "parent_name": "Crib & Toddler Bed Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Name Plates",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carts & Islands",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suitcases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dressers",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desk Organizers",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Table Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Card Sleeves",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Athletics",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shipping Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Optics",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sofas",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suspension Trainers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Goals",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Field Hockey Balls",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pen & Pencil Cases",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lap Desks",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impulse Sealers",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Equipment Sets",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Card Files",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sofa Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erasers",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Brass Fasteners",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Seating",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tennis",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costume Tobacco Products",
+    "parent_name": "Costume Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costumes",
+    "parent_name": "Costumes & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Recipe Card Boxes",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futons",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costume Accessories",
+    "parent_name": "Costumes & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cabinets & Storage",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Soccer",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Filing & Organization",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speed & Resistance Parachutes",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chair Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garment Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General Office Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Calendars, Organizers & Planners",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Monoculars",
+    "parent_name": "Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Masks",
+    "parent_name": "Costumes & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Room Divider Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scopes",
+    "parent_name": "Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "File Cabinets",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beds & Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pencil Sharpeners",
+    "parent_name": "Office Instruments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Tape",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Workstations & Cubicles",
+    "parent_name": "Office Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Foam Roller Accessories",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Armoires & Wardrobes",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Covers",
+    "parent_name": "Book Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shelving Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Tables",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bedroom Furniture Sets",
+    "parent_name": "Furniture Sets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packing Tape",
+    "parent_name": "Shipping Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Cameras",
+    "parent_name": "Cameras",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fencing",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture Sets",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoes",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Address Books",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Instruments",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise & Fitness",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  }
+]

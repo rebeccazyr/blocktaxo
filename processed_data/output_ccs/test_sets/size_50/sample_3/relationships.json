@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "Wireless integrated network sensors",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI packaging",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human computer interaction (HCI)",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Models of computation",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Branch-and-bound",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graph algorithms analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Economics of chip design and manufacturing",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Finite Model Theory",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thermal issues",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design and analysis of algorithms",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and energy",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Standard cell libraries",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robustness",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Timed and hybrid models",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Constructive mathematics",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Constraint and logic programming",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shortest paths",
+    "parent_name": "Graph algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scanners",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication hardware, interfaces and storage",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Energy generation and storage",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility systems and tools",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive systems and tools",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backtracking",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Divide and conquer",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social and professional topics",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sensor devices and platforms",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Noise reduction",
+    "parent_name": "Signal processing systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Temperature monitoring",
+    "parent_name": "Thermal issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in HCI",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very large scale integration design",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrent computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tactile and hand-based interfaces",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Preconditioning",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing methodologies",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithm design techniques",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semantics and reasoning",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signal processing systems",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Programming logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Separation logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parameterized complexity and exact algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hoare logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete mathematics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Full-custom circuits",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  }
+]

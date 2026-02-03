@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Memory and dense storage"
+  },
+  {
+    "name": "Automatic programming"
+  },
+  {
+    "name": "Application layer protocols"
+  },
+  {
+    "name": "VLSI packaging"
+  },
+  {
+    "name": "Causal reasoning and diagnostics"
+  },
+  {
+    "name": "Nonmonotonic, default reasoning and belief revision"
+  },
+  {
+    "name": "Business process management"
+  },
+  {
+    "name": "Men"
+  },
+  {
+    "name": "Student assessment"
+  },
+  {
+    "name": "Document management"
+  },
+  {
+    "name": "Learning settings"
+  },
+  {
+    "name": "Enterprise data management"
+  },
+  {
+    "name": "User characteristics"
+  },
+  {
+    "name": "Standard cell libraries"
+  },
+  {
+    "name": "Human-centered computing"
+  },
+  {
+    "name": "Empirical studies in ubiquitous and mobile computing"
+  },
+  {
+    "name": "General and reference"
+  },
+  {
+    "name": "Cross-layer protocols"
+  },
+  {
+    "name": "Storage management"
+  },
+  {
+    "name": "Integrated circuits"
+  },
+  {
+    "name": "Machine learning"
+  },
+  {
+    "name": "Knowledge representation and reasoning"
+  },
+  {
+    "name": "IT governance"
+  },
+  {
+    "name": "Design for manufacturability"
+  },
+  {
+    "name": "Bug fixing (hardware)"
+  },
+  {
+    "name": "Representation of mathematical functions"
+  },
+  {
+    "name": "Security and privacy"
+  },
+  {
+    "name": "Chip-level power issues"
+  },
+  {
+    "name": "Network performance analysis"
+  },
+  {
+    "name": "Point-based models"
+  },
+  {
+    "name": "Computer vision"
+  },
+  {
+    "name": "Censorship"
+  },
+  {
+    "name": "Web services"
+  },
+  {
+    "name": "Applied computing"
+  },
+  {
+    "name": "Text editing"
+  },
+  {
+    "name": "Simulation theory"
+  },
+  {
+    "name": "Computer algebra systems"
+  },
+  {
+    "name": "Safety critical systems"
+  },
+  {
+    "name": "Transport protocols"
+  },
+  {
+    "name": "Government technology policy"
+  },
+  {
+    "name": "Consumer health"
+  },
+  {
+    "name": "Fault models and test metrics"
+  },
+  {
+    "name": "Metabolomics / metabonomics"
+  },
+  {
+    "name": "Arts and humanities"
+  },
+  {
+    "name": "Application-specific VLSI designs"
+  },
+  {
+    "name": "Test-pattern generation and fault simulation"
+  },
+  {
+    "name": "Online advertising"
+  },
+  {
+    "name": "Graphics systems and interfaces"
+  },
+  {
+    "name": "Network types"
+  },
+  {
+    "name": "Software creation and management"
+  },
+  {
+    "name": "Cognitive robotics"
+  },
+  {
+    "name": "Logic families"
+  },
+  {
+    "name": "Process variations"
+  },
+  {
+    "name": "Hardware"
+  },
+  {
+    "name": "Post-manufacture validation and debug"
+  },
+  {
+    "name": "Software design engineering"
+  },
+  {
+    "name": "Evaluation"
+  },
+  {
+    "name": "Walkthroughs"
+  },
+  {
+    "name": "Power and energy"
+  },
+  {
+    "name": "Web mining"
+  },
+  {
+    "name": "Search methodologies"
+  },
+  {
+    "name": "Hardware reliability screening"
+  },
+  {
+    "name": "Empirical studies"
+  },
+  {
+    "name": "Ontology engineering"
+  },
+  {
+    "name": "Simulation evaluation"
+  },
+  {
+    "name": "Batch learning"
+  },
+  {
+    "name": "Visualization techniques"
+  },
+  {
+    "name": "Software notations and tools"
+  },
+  {
+    "name": "Network performance modeling"
+  },
+  {
+    "name": "Cross-computing tools and techniques"
+  },
+  {
+    "name": "Fault tree analysis"
+  },
+  {
+    "name": "Distributed computing methodologies"
+  },
+  {
+    "name": "Empirical software validation"
+  },
+  {
+    "name": "Collision detection"
+  },
+  {
+    "name": "Spintronics and magnetic technologies"
+  },
+  {
+    "name": "Pair programming"
+  },
+  {
+    "name": "Simulation support systems"
+  },
+  {
+    "name": "Data extraction and integration"
+  },
+  {
+    "name": "Concurrent computing methodologies"
+  },
+  {
+    "name": "Representation of polynomials"
+  },
+  {
+    "name": "Modeling and simulation"
+  },
+  {
+    "name": "Ubiquitous and mobile computing systems and tools"
+  },
+  {
+    "name": "Image compression"
+  },
+  {
+    "name": "Functional verification"
+  },
+  {
+    "name": "Software verification and validation"
+  },
+  {
+    "name": "Network protocols"
+  },
+  {
+    "name": "Energy distribution"
+  },
+  {
+    "name": "Information systems"
+  },
+  {
+    "name": "Design"
+  },
+  {
+    "name": "On-chip resource management"
+  },
+  {
+    "name": "Emerging optical and photonic technologies"
+  },
+  {
+    "name": "Computing education"
+  },
+  {
+    "name": "Ubiquitous and mobile computing"
+  },
+  {
+    "name": "Enterprise computing"
+  },
+  {
+    "name": "Business process modeling"
+  },
+  {
+    "name": "Formal software verification"
+  },
+  {
+    "name": "Active learning settings"
+  },
+  {
+    "name": "Philosophical/theoretical foundations of artificial intelligence"
+  },
+  {
+    "name": "Electronic design automation"
+  },
+  {
+    "name": "Plasmonics"
+  },
+  {
+    "name": "Software and its engineering"
+  },
+  {
+    "name": "Control methods"
+  },
+  {
+    "name": "Import / export controls"
+  },
+  {
+    "name": "Computational thinking"
+  },
+  {
+    "name": "Cyber-physical networks"
+  },
+  {
+    "name": "Printed circuit boards"
+  },
+  {
+    "name": "Experimentation"
+  },
+  {
+    "name": "Application specific integrated circuits"
+  },
+  {
+    "name": "Energy generation and storage"
+  },
+  {
+    "name": "Life and medical sciences"
+  },
+  {
+    "name": "Computing Classification System"
+  },
+  {
+    "name": "Heat maps"
+  },
+  {
+    "name": "Impact on the environment"
+  },
+  {
+    "name": "Social and professional topics"
+  },
+  {
+    "name": "Renewable energy"
+  },
+  {
+    "name": "Empirical studies in visualization"
+  },
+  {
+    "name": "Bug detection, localization and diagnosis"
+  },
+  {
+    "name": "History of computing"
+  },
+  {
+    "name": "Animation"
+  },
+  {
+    "name": "Commerce policy"
+  },
+  {
+    "name": "Computing education programs"
+  },
+  {
+    "name": "Networks"
+  },
+  {
+    "name": "VLSI system specification and constraints"
+  },
+  {
+    "name": "Designing software"
+  },
+  {
+    "name": "Gender"
+  },
+  {
+    "name": "Volumetric models"
+  },
+  {
+    "name": "Validation"
+  },
+  {
+    "name": "Hardware test"
+  },
+  {
+    "name": "Cross-validation"
+  },
+  {
+    "name": "Web data description languages"
+  },
+  {
+    "name": "Search-based software engineering"
+  },
+  {
+    "name": "Digital switches"
+  },
+  {
+    "name": "Hardware validation"
+  },
+  {
+    "name": "Health care information systems"
+  },
+  {
+    "name": "Computing methodologies"
+  },
+  {
+    "name": "Network measurement"
+  },
+  {
+    "name": "Network simulations"
+  },
+  {
+    "name": "Software development techniques"
+  },
+  {
+    "name": "Yield and cost modeling"
+  },
+  {
+    "name": "Emerging technologies"
+  },
+  {
+    "name": "Network performance evaluation"
+  },
+  {
+    "name": "Health informatics"
+  },
+  {
+    "name": "Age"
+  },
+  {
+    "name": "Reusable energy storage"
+  },
+  {
+    "name": "Logic synthesis"
+  },
+  {
+    "name": "Sexual orientation"
+  },
+  {
+    "name": "World Wide Web"
+  },
+  {
+    "name": "Wired access networks"
+  },
+  {
+    "name": "Assertion checking"
+  },
+  {
+    "name": "Probabilistic reasoning"
+  },
+  {
+    "name": "Cultural characteristics"
+  },
+  {
+    "name": "Visualization"
+  },
+  {
+    "name": "Data center networks"
+  },
+  {
+    "name": "Information storage systems"
+  },
+  {
+    "name": "Design for testability"
+  },
+  {
+    "name": "Physical verification"
+  },
+  {
+    "name": "Electromagnetic interference and compatibility"
+  },
+  {
+    "name": "Reasoning about belief and knowledge"
+  },
+  {
+    "name": "Artificial intelligence"
+  },
+  {
+    "name": "PCB design and layout"
+  },
+  {
+    "name": "Modeling and parameter extraction"
+  },
+  {
+    "name": "Robustness"
+  },
+  {
+    "name": "Systems biology"
+  },
+  {
+    "name": "Document metadata"
+  },
+  {
+    "name": "Symbolic and algebraic manipulation"
+  },
+  {
+    "name": "Computer graphics"
+  },
+  {
+    "name": "Online auctions policy"
+  },
+  {
+    "name": "Reversible logic"
+  },
+  {
+    "name": "Software and application security"
+  },
+  {
+    "name": "Learning paradigms"
+  },
+  {
+    "name": "Shape modeling"
+  },
+  {
+    "name": "Computing / technology policy"
+  },
+  {
+    "name": "Model development and analysis"
+  },
+  {
+    "name": "Professional topics"
+  },
+  {
+    "name": "Web log analysis"
+  },
+  {
+    "name": "Universal Description Discovery and Integration (UDDI)"
+  },
+  {
+    "name": "Power and thermal analysis"
+  },
+  {
+    "name": "Error handling and recovery"
+  },
+  {
+    "name": "IT architectures"
+  },
+  {
+    "name": "Biology-related information processing"
+  },
+  {
+    "name": "Network services"
+  },
+  {
+    "name": "Traceability"
+  },
+  {
+    "name": "Mathematics of computing"
+  },
+  {
+    "name": "Learning from demonstrations"
+  },
+  {
+    "name": "Parallel computing methodologies"
+  },
+  {
+    "name": "Circuits power issues"
+  },
+  {
+    "name": "Document management and text processing"
+  },
+  {
+    "name": "Development frameworks and environments"
+  },
+  {
+    "name": "Power estimation and optimization"
+  },
+  {
+    "name": "Very large scale integration design"
+  },
+  {
+    "name": "Hate speech"
+  },
+  {
+    "name": "Reusability"
+  },
+  {
+    "name": "Sequential synthesis"
+  },
+  {
+    "name": "Process validation"
+  },
+  {
+    "name": "Software configuration management and version control systems"
+  },
+  {
+    "name": "Link-layer protocols"
+  },
+  {
+    "name": "People with disabilities"
+  },
+  {
+    "name": "Packet-switching networks"
+  },
+  {
+    "name": "Technology-mapping"
+  },
+  {
+    "name": "Representation of mathematical objects"
+  }
+]

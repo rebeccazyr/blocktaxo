@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Pipeline computing",
+    "parent_name": "Serial architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interconnection architectures",
+    "parent_name": "Parallel architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Maintainability and maintenance",
+    "parent_name": "Dependable and fault-tolerant systems and networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Architectures",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dependable and fault-tolerant systems and networks",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded and cyber-physical systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Serial architectures",
+    "parent_name": "Architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer systems organization",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parallel architectures",
+    "parent_name": "Architectures",
+    "relation_type": "IsA"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Lighting",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Brooches & Lapel Pins",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diapering",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Service",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bibs",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Messenger Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Charms & Pendants",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cash Boxes",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Binding Supplies",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backpacks",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fireplace & Wood Stove Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heating, Ventilation & Air Conditioning",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "File Boxes",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Olives & Capers",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tobacco Products",
+    "parent_name": "Food, Beverages & Tobacco",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vaporizers & Electronic Cigarettes",
+    "parent_name": "Tobacco Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Name Plates",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spurs",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing Repair Kits",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cosmetic & Toiletry Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliance Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Transport",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wood Stove Fans & Blowers",
+    "parent_name": "Fireplace & Wood Stove Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fireplaces",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Levelers",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Condiments & Sauces",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool & Spa",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Key Card Entry Systems",
+    "parent_name": "Locks & Keys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Night Lights & Ambient Lighting",
+    "parent_name": "Lighting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Key Blanks",
+    "parent_name": "Locks & Keys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Oil Lamp Fuel",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home & Garden",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Equipment",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Timers",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Care Timers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fireplace & Wood Stove Grates",
+    "parent_name": "Fireplace & Wood Stove Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Items",
+    "parent_name": "Food, Beverages & Tobacco",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diaper Liners",
+    "parent_name": "Diapering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing Covers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dowel Pins & Rods",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pen & Pencil Cases",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lap Desks",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bleach",
+    "parent_name": "Laundry Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Bottles",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laundry Supplies",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fanny Packs",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoelaces",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Bottle Nipples & Liners",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Locks & Latches",
+    "parent_name": "Locks & Keys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage & Organization",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swaddling & Receiving Blankets",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fencing & Barriers",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hot Dog Rollers",
+    "parent_name": "Food Service",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Firewood & Fuel",
+    "parent_name": "Fireplace & Wood Stove Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diaper Wet Bags",
+    "parent_name": "Diapering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music & Sound Recordings",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breast Milk Storage Containers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Filing & Organization",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food, Beverages & Tobacco",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing Pillow Covers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garment Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Janitorial Carts & Caddies",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business Card Stands",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Necklaces",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Timers",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laundry Wash Bags & Frames",
+    "parent_name": "Laundry Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Film & Television",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Bottle Nipples",
+    "parent_name": "Baby Bottle Nipples & Liners",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tattooing Supplies",
+    "parent_name": "Piercing & Tattooing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing & Feeding",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Agriculture",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Locks & Keys",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gates",
+    "parent_name": "Fencing & Barriers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Small Engines",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kerosene",
+    "parent_name": "Fuel",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chewing Tobacco",
+    "parent_name": "Tobacco Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing Pipes",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parasols & Rain Umbrellas",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Address Books",
+    "parent_name": "Filing & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diaper Pail Accessories",
+    "parent_name": "Diapering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Supplies",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Train Cases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Piercing & Tattooing",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lamp Post Bases",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  }
+]

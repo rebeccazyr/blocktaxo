@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Mature",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Staff & Stick Weapons",
+    "parent_name": "Weapons",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swords",
+    "parent_name": "Weapons",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gun Cases & Range Bags",
+    "parent_name": "Gun Care & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gun Care & Accessories",
+    "parent_name": "Weapons",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stun Guns & Tasers",
+    "parent_name": "Weapons",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ammunition",
+    "parent_name": "Gun Care & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gun Lights",
+    "parent_name": "Gun Care & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Weapons",
+    "parent_name": "Mature",
+    "relation_type": "IsA"
+  }
+]

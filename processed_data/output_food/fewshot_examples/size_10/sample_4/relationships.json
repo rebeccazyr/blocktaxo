@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "stringozzi",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mezzelune",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rotini",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ptitim",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sacchettoni",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rotelle",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pasta",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spaghetti",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "penne",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  }
+]

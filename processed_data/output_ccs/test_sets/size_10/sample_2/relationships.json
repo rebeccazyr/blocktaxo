@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Hardware validation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robustness",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Layout-versus-schematics",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web services",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic design automation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information systems",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "World Wide Web",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  }
+]

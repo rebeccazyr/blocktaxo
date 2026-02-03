@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Multiple instruction, single data",
+    "parent_name": "Parallel architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Single instruction, multiple data",
+    "parent_name": "Parallel architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Architectures",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded and cyber-physical systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer systems organization",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded systems",
+    "parent_name": "Embedded and cyber-physical systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systolic arrays",
+    "parent_name": "Parallel architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parallel architectures",
+    "parent_name": "Architectures",
+    "relation_type": "IsA"
+  }
+]

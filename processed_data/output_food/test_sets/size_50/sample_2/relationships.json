@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "tangerines",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "herb",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "physalis",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cooking wine",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marshmallows",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "longan",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taco soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kapusniak",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "melons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kumquats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "barley",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shambar",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pie crusts",
+    "parent_name": "dough",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup alla canavese",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dough",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rambutans",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shortening and lard",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "henan braised noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grapes",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oil noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pig's organ soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cherries",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pottage",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "amaranth",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cereals",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "limequats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grits",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cooking ingredient",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dalithoy",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gazpacho",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "atemoyas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kiwis",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pie fillings",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peaches",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jjolmyeon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chinese noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "binignit",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "crème ninon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "passion fruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  }
+]

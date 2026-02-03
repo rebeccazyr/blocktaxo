@@ -1,0 +1,97 @@
+[
+  {
+    "child_name": "VLSI packaging",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Economics of chip design and manufacturing",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Standard cell libraries",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robustness",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed circuit boards",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software notations and tools",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software creation and management",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Architecture description languages",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software maintenance tools",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very large scale integration design",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI design manufacturing considerations",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software development techniques",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emerging technologies",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System description languages",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emerging optical and photonic technologies",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  }
+]

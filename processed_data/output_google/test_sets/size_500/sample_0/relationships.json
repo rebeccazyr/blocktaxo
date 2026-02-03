@@ -1,0 +1,2497 @@
+[
+  {
+    "child_name": "Pet Supplies",
+    "parent_name": "Animals & Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lifts & Hoists",
+    "parent_name": "Material Handling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decor",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Pumps",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concrete Molds",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backrest Pillows",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Containment Systems",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Storage Accessories",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Repeaters & Transceivers",
+    "parent_name": "Networking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Messenger Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Software",
+    "parent_name": "Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Productivity Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cotton Swabs",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Covers",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chaises",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hourglasses",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suspenders",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drug Tests",
+    "parent_name": "Medical Tests",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Maternity Belts & Support Bands",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Bottles",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Plates",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Piercing Needles",
+    "parent_name": "Piercing Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Input Device Accessories",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Law Enforcement",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heating, Ventilation & Air Conditioning",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Carriers & Crates",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Putty Knives & Scrapers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Perfume & Cologne",
+    "parent_name": "Cosmetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watch Repair Kits",
+    "parent_name": "Jewelry Cleaning & Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nail Polishes",
+    "parent_name": "Nail Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Axes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reptile & Amphibian Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coat & Hat Racks",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Backplates & I/O Shields",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plants",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio & Video Splitters & Switches",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Compactors",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Solar Energy Kits",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Digital Goods & Currency",
+    "parent_name": "Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Heater Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heat Guns",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Medicine",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intercom Accessories",
+    "parent_name": "Communications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Game Controller Accessories",
+    "parent_name": "Input Device Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "USB & FireWire Hubs",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fitness & Nutrition",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Tracking Devices",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Eyeglass Lenses",
+    "parent_name": "Vision Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Two-Way Radios",
+    "parent_name": "Communication Radios",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trees",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emergency Preparedness",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Blade Server Enclosures",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry Cleaning & Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Oral Care Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Diapers",
+    "parent_name": "Dog Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Walking Aids",
+    "parent_name": "Mobility & Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cast & Bandage Protectors",
+    "parent_name": "First Aid",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Makeup",
+    "parent_name": "Cosmetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird Baths",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Traffic Cones & Barrels",
+    "parent_name": "Construction",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool & Spa Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bunion Care Supplies",
+    "parent_name": "Foot Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Components",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Restore Disks",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sprinkler, Booster & Irrigation System Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "First Aid",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Heating Pad Accessories",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Linens & Bedding",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floor & Steam Cleaner Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit Decoders & Encoders",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Control Panels",
+    "parent_name": "HVAC Controls",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicle Pet Barriers",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flood, Fire & Gas Safety",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nail Care",
+    "parent_name": "Cosmetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stereo Systems",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Cleaners",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arm Warmers & Sleeves",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pillboxes",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carving Chisels & Gouges",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Radar Detectors",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Saw Horses",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tripod & Monopod Accessories",
+    "parent_name": "Camera & Optic Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nutrition Bars",
+    "parent_name": "Fitness & Nutrition",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Manufacturing",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tripod & Monopod Heads",
+    "parent_name": "Tripod & Monopod Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gardening",
+    "parent_name": "Lawn & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Briefcases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laundry Appliances",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antennas",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cabinets & Storage",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Splitters",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool, Fountain & Pond Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Electronics",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Inlets",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Steam Mops",
+    "parent_name": "Floor & Steam Cleaners",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Appliance Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Kennel & Run Accessories",
+    "parent_name": "Dog Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Eyeglasses",
+    "parent_name": "Vision Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Icons",
+    "parent_name": "Digital Goods & Currency",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Specimen Cups",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tripod & Monopod Cases",
+    "parent_name": "Tripod & Monopod Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music Boxes",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Supports & Braces",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rocking Chairs",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fish Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Neck Gaiters",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Inverters",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Food Containers",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Food Scoops",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Speakers",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Conferencing",
+    "parent_name": "Communications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Ottomans",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floor & Steam Cleaners",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage Devices",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emergency Blankets",
+    "parent_name": "Emergency Preparedness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stair Lifts",
+    "parent_name": "Accessibility Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallpaper Steamers",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pulse Oximeters",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Radar",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Material Handling",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Snow Removal",
+    "parent_name": "Lawn & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile Phone & Tablet Tripods & Monopods",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ballasts & Starters",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobility & Accessibility",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility Equipment",
+    "parent_name": "Mobility & Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Table Legs",
+    "parent_name": "Table Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Sockets",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garden Hose Spray Nozzles",
+    "parent_name": "Watering & Irrigation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras & Optics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optic Accessories",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wax Tarts",
+    "parent_name": "Home Fragrances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Memory Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nutritional Food Purées",
+    "parent_name": "Fitness & Nutrition",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Bowl Mats",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vanities",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lawn & Garden",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garage Door Keypads & Remotes",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cutter Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coils",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Chartplotters & GPS",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor & Outdoor Plants",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motion Sensors",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Prenatal Heart Rate Monitors",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Anklets",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modulators",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Barcode Scanner Stands",
+    "parent_name": "Input Device Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shopping Totes",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crib Conversion Kits",
+    "parent_name": "Crib & Toddler Bed Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bath & Body Gift Sets",
+    "parent_name": "Cosmetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Landscape Fabric",
+    "parent_name": "Gardening",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Bowl Stands",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Components",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carts & Islands",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Umbrella Sleeves & Cases",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry Cleaning Tools",
+    "parent_name": "Jewelry Cleaning & Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nutrition Drinks & Shakes",
+    "parent_name": "Fitness & Nutrition",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Memory",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pregnancy Tests",
+    "parent_name": "Medical Tests",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Massage & Relaxation",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cuticle Cream & Oil",
+    "parent_name": "Nail Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diaper Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Arcade Cabinet Accessories",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Foot Odor Removers",
+    "parent_name": "Foot Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biometric Monitor Accessories",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dental Cement",
+    "parent_name": "Dentistry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Basketball Arcade Games",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home & Garden",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flowers",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reptile & Amphibian Food",
+    "parent_name": "Reptile & Amphibian Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Personal Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nutrition Gels & Chews",
+    "parent_name": "Fitness & Nutrition",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Timers",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power & Electrical Supplies",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "I/O Cards & Adapters",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Eyewear Accessories",
+    "parent_name": "Vision Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "HVAC Controls",
+    "parent_name": "Heating, Ventilation & Air Conditioning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Ducts",
+    "parent_name": "Heating, Ventilation & Air Conditioning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Incontinence Aids",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Blood Pressure Monitors",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fish Finders",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnetic Sweepers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Insoles & Inserts",
+    "parent_name": "Foot Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dummy Surveillance Cameras",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stock Photographs & Video Footage",
+    "parent_name": "Digital Goods & Currency",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "First Aid Kits",
+    "parent_name": "First Aid",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vitamins & Supplements",
+    "parent_name": "Fitness & Nutrition",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chairs",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tablet Computers",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Players & Recorders",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jigs",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor Games",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sundials",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Answering Machines",
+    "parent_name": "Communications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bathroom Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire Partitions, Enclosures & Doors",
+    "parent_name": "Industrial Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drawer Slides",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garment Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Changing Tables",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nail Polish Thinners",
+    "parent_name": "Nail Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Urinary Tract Infection Tests",
+    "parent_name": "Medical Tests",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Activity Monitor Accessories",
+    "parent_name": "Biometric Monitor Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Light Therapy Lamps",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication Radios",
+    "parent_name": "Communications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sunglass Lenses",
+    "parent_name": "Vision Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Live Animals",
+    "parent_name": "Animals & Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Necklaces",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Sunscreen",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signal Jammers",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security Monitors & Recorders",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Foot Care",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Files",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Agriculture",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Aquarium Fish Nets",
+    "parent_name": "Fish Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel Containers & Tanks",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wine Racks",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shower Curtain Rings",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture Sets",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Napkin Rings",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Apparel",
+    "parent_name": "Dog Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lattice",
+    "parent_name": "Fencing & Barriers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wood Stoves",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cribs & Toddler Beds",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Propane",
+    "parent_name": "Fuel",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Power Equipment",
+    "parent_name": "Lawn & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Muscle Stimulators",
+    "parent_name": "Occupational & Physical Therapy Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Piercing & Tattooing",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vents & Flues",
+    "parent_name": "Heating, Ventilation & Air Conditioning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Massage Tables",
+    "parent_name": "Massage & Relaxation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vision Care",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fertility Monitors and Ovulation Tests",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dentistry",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Conveyors",
+    "parent_name": "Material Handling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnetizers & Demagnetizers",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dried Flowers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Well Pumps & Systems",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wall Socket Controls & Sensors",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Growth Charts",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Leash Extensions",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crib & Toddler Bed Accessories",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hearing Aids",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garden & Stepping Stones",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accelerometers",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Construction",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Carrier & Crate Accessories",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Protective Aprons",
+    "parent_name": "Work Safety Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliances",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Fragrances",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rain Chains",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Deodorant & Anti-Perspirant",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flameless Candles",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Driver Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Audio & Video Receivers",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printer, Copier, & Fax Machine Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pallets & Loading Platforms",
+    "parent_name": "Material Handling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lip Makeup",
+    "parent_name": "Makeup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Cards & Adapters",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tanning Beds",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cosmetics",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallets & Money Clips",
+    "parent_name": "Handbags, Wallets & Cases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pickup Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lathes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spurs",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Decor Decals",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intercoms",
+    "parent_name": "Communications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Deburrers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Safety Gloves",
+    "parent_name": "Work Safety Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Grinder Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toll Collection Devices",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Identification Tags & Jewelry",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Balaclavas",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Slipcovers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Abrasive Blaster Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Voltage Transformers & Regulators",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desktop Computer & Server Cases",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signal Boosters",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Hats",
+    "parent_name": "Baby & Toddler Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automation Control Components",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Workstation & Cubicle Accessories",
+    "parent_name": "Office Furniture Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Bells & Charms",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Tool Chargers",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Educational Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Oil Lamp Fuel",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bassinet & Cradle Accessories",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Strollers",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enema Kits & Supplies",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Blank Media",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry Steam Cleaners",
+    "parent_name": "Jewelry Cleaning & Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heating Radiator Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pipe & Bar Benders",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Piercing Supplies",
+    "parent_name": "Piercing & Tattooing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fertility Tests & Monitors",
+    "parent_name": "Fertility Monitors and Ovulation Tests",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plungers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tweezers",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graphic Design & Illustration Software",
+    "parent_name": "Multimedia & Design Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Back Scratchers",
+    "parent_name": "Massage & Relaxation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chimney Brushes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sewing Machine Tables",
+    "parent_name": "Tables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Finials",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wheelchairs",
+    "parent_name": "Accessibility Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Welding Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fencing & Barriers",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bath Mats & Rugs",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communications",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bandanas & Headties",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Safety & Security Mirrors",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flashlight Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic Filters",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hooks, Buckles & Fasteners",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watering & Irrigation",
+    "parent_name": "Lawn & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Home Security",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "TV Tuner Cards & Adapters",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kitchen & Dining Room Chairs",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Navigation Systems",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climate Control Appliances",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sharpeners",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Massage Oil",
+    "parent_name": "Massage & Relaxation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Room Divider Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sound Editing Software",
+    "parent_name": "Multimedia & Design Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hoists, Cranes & Trolleys",
+    "parent_name": "Lifts & Hoists",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile Phone Jammers",
+    "parent_name": "Signal Jammers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Janitorial Carts & Caddies",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transfer Boards & Sheets",
+    "parent_name": "Accessibility Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fragrance Oil",
+    "parent_name": "Home Fragrances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Work Safety Protective Gear",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tattooing Supplies",
+    "parent_name": "Piercing & Tattooing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heavy Machinery",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antiseptics & Cleaning Supplies",
+    "parent_name": "First Aid",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Occupational & Physical Therapy Equipment",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Condoms",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stump Shrinkers",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Software",
+    "parent_name": "Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tube Feeding Supplements",
+    "parent_name": "Fitness & Nutrition",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry Cleaning Solutions & Polishes",
+    "parent_name": "Jewelry Cleaning & Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flashlights & Headlamps",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Personal Lubricants",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gas Hoses",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Servers",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Arcade Cabinets",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ottoman Cushions",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Clothing Accessories",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Train Cases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Duffel Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riveting Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallpaper",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multimedia & Design Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbags, Wallets & Cases",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Storage",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tools",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Variable Frequency & Adjustable Speed Drives",
+    "parent_name": "Automation Control Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Therapeutic Swings",
+    "parent_name": "Occupational & Physical Therapy Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optic Replacement Cables",
+    "parent_name": "Camera & Optic Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "CD Players & Recorders",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dictionary & Translation Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Makeup Finishing Sprays",
+    "parent_name": "Makeup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Leis",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Storage Boxes",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Voice Recorders",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breathalyzers",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mailbox Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wedge Tools",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliance Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Picture Lights",
+    "parent_name": "Lighting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tables",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hubs & Switches",
+    "parent_name": "Networking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive Kiosks",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networking",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Contraceptive Cases",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clock Parts",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Conductivity Gels & Lotions",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speed Radars",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Tests",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Houses",
+    "parent_name": "Dog Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rain Barrels",
+    "parent_name": "Gardening",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Folding Chairs & Stools",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spermicides",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Furniture Sets",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hanging Chairs",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Belt Buckles",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biometric Monitors",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Duct Heaters",
+    "parent_name": "Climate Control Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Contact Lens Care",
+    "parent_name": "Vision Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliance Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sunglasses",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Prophy Paste",
+    "parent_name": "Dentistry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Threading Machines",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Protective Masks",
+    "parent_name": "Work Safety Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Table Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wristbands",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Springs",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document Templates",
+    "parent_name": "Digital Goods & Currency",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Living",
+    "parent_name": "Lawn & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tripods & Monopods",
+    "parent_name": "Camera & Optic Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Compilers & Programming Tools",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bullet Proof Vests",
+    "parent_name": "Work Safety Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fish Feeders",
+    "parent_name": "Fish Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heating Radiator Reflectors",
+    "parent_name": "Heating Radiator Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pipe Brushes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Phone & Data Jacks",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Fixtures",
+    "parent_name": "Lighting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Button Studs",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Walking Aid Accessories",
+    "parent_name": "Mobility & Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Back Care",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suncatchers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Consoles",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cholesterol Analyzers",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Thermometers",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mining & Quarrying",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computers",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carpet Steamers",
+    "parent_name": "Floor & Steam Cleaners",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Alarm Systems",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lawn Vacuums",
+    "parent_name": "Outdoor Power Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Planes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Vitamins & Supplements",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Aquatic Plants",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit Boards & Components",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Bowls",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bassinets & Cradles",
+    "parent_name": "Baby & Toddler Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watch Accessories",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Component Connectors",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pinball Machines",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shipping Containers",
+    "parent_name": "Industrial Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Building Materials",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Activity Tables",
+    "parent_name": "Tables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cache Memory",
+    "parent_name": "Memory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riser Cards",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pulleys, Blocks & Sheaves",
+    "parent_name": "Lifts & Hoists",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Eye Drops & Lubricants",
+    "parent_name": "Vision Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird & Wildlife Houses",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Interface Cards & Adapters",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vase Fillers & Table Scatters",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crib Bumpers & Liners",
+    "parent_name": "Crib & Toddler Bed Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Forestry & Logging",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Activity Monitors",
+    "parent_name": "Biometric Monitors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hinges",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed Circuit Boards",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Artwork",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Magnets",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Medical Collars",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air & Filter Dryers",
+    "parent_name": "Heating, Ventilation & Air Conditioning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Body Makeup",
+    "parent_name": "Makeup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility Equipment Accessories",
+    "parent_name": "Mobility & Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Treats",
+    "parent_name": "Dog Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Caulking Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Flea & Tick Control",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Soap Dishes & Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Respiratory Care",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lawn Mowers",
+    "parent_name": "Outdoor Power Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Radios",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antivirus & Security Software",
+    "parent_name": "Computer Software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Tables",
+    "parent_name": "Outdoor Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dog Kennels & Runs",
+    "parent_name": "Dog Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Leashes",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nail Polish Drying Drops & Sprays",
+    "parent_name": "Nail Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Aquatic Plant Fertilizers",
+    "parent_name": "Fish Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shelving",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gear Ties",
+    "parent_name": "Hooks, Buckles & Fasteners",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Heating Pads",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Massage Stone Warmers",
+    "parent_name": "Massage & Relaxation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Back & Lumbar Support Cushions",
+    "parent_name": "Back Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility Furniture & Fixtures",
+    "parent_name": "Mobility & Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Bed Accessories",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nail Art Kits & Accessories",
+    "parent_name": "Nail Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arcade Equipment",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tablet Computer Parts",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Bowls, Feeders & Waterers",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Steam Inhalers",
+    "parent_name": "Respiratory Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Karaoke Systems",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crutches",
+    "parent_name": "Walking Aids",
+    "relation_type": "IsA"
+  }
+]

@@ -1,0 +1,4997 @@
+[
+  {
+    "child_name": "Empirical studies in accessibility",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless integrated network sensors",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical software",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symmetric cryptography and hash functions",
+    "parent_name": "Cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Telecommunications",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Content match advertising",
+    "parent_name": "Online advertising",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Models of computation",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data scans",
+    "parent_name": "Data access methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proteomics",
+    "parent_name": "Genetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sketching and sampling",
+    "parent_name": "Streaming, sublinear and near linear time algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation languages",
+    "parent_name": "Simulation support systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sorting and searching",
+    "parent_name": "Data structures design and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distance learning",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database query languages (principles)",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Equational logic and rewriting",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Publish-subscribe / event-based architectures",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Key-value stores",
+    "parent_name": "Parallel and distributed DBMSs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Agent / discrete models",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Classification and regression trees",
+    "parent_name": "Machine learning approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network algorithms",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithmic game theory",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage management",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in ubiquitous and mobile computing",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise architecture frameworks",
+    "parent_name": "Enterprise architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rule learning",
+    "parent_name": "Machine learning approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Peer-to-peer retrieval",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Process management",
+    "parent_name": "Operating systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modules / packages",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exploratory data analysis",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information integration",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer forensics",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computations on matrices",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multivariate statistics",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integration frameworks",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proof complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Text editing",
+    "parent_name": "Document management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational geometry",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query operators",
+    "parent_name": "Database query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bloom filters and hashing",
+    "parent_name": "Streaming, sublinear and near linear time algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Testing with distributed and parallel systems",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hybrid symbolic-numeric methods",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packing and covering problems",
+    "parent_name": "Approximation algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed database recovery",
+    "parent_name": "Distributed database transactions",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stochastic differential equations",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laboratory experiments",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transport protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Consumer health",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage architectures",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fault models and test metrics",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Waterfall model",
+    "parent_name": "Software development methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distribution functions",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parallel and distributed DBMSs",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Object oriented constructs",
+    "parent_name": "Program constructs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Measurement",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Orchestration languages",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning algorithms",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exact arithmetic algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Caching and paging algorithms",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Planning and scheduling",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online social networks",
+    "parent_name": "Overlay and other logical network structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document collection models",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network attached storage",
+    "parent_name": "Storage network architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data types and structures",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Streaming, sublinear and near linear time algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Middle boxes / network appliances",
+    "parent_name": "Network components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software design engineering",
+    "parent_name": "Designing software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Object oriented architectures",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Triggers and rules",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Education",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Board- and system-level test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hash functions and message authentication codes",
+    "parent_name": "Symmetric cryptography and hash functions",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and energy",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "File system security",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sponsored search advertising",
+    "parent_name": "Online advertising",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Direct attached storage",
+    "parent_name": "Storage network architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spatial-temporal systems",
+    "parent_name": "Information systems applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document representation",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Language features",
+    "parent_name": "General programming languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulator / interpreter",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document scripting languages",
+    "parent_name": "Document preparation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Directory structures",
+    "parent_name": "Record storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation evaluation",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrency",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Crowdsourcing",
+    "parent_name": "Web applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed storage",
+    "parent_name": "Storage architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database views",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Process calculi",
+    "parent_name": "Concurrency",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mashups",
+    "parent_name": "Web interfaces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Variational methods",
+    "parent_name": "Probabilistic reasoning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backtracking",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Management and querying of encrypted data",
+    "parent_name": "Database and storage security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Record storage alternatives",
+    "parent_name": "Record storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search engine architectures and scalability",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hypertext / hypermedia creation",
+    "parent_name": "Document preparation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very high level languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inductive inference",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bayesian nonparametric models",
+    "parent_name": "Nonparametric representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ultra-large-scale systems",
+    "parent_name": "Software system structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Relational parallel and distributed DBMSs",
+    "parent_name": "Parallel and distributed DBMSs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation support systems",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semi-supervised learning",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Searching with auxiliary databases",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data extraction and integration",
+    "parent_name": "Web mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hybrid networks",
+    "parent_name": "Network topology types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flowcharts",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Polymorphism",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database utilities and tools",
+    "parent_name": "Database administration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very long-range networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Facility location and clustering",
+    "parent_name": "Approximation algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Management of computing and information systems",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Linked lists",
+    "parent_name": "Record storage alternatives",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image compression",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network domains",
+    "parent_name": "Logical nodes",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network protocols",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Public key (asymmetric) techniques",
+    "parent_name": "Cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Supervised learning by regression",
+    "parent_name": "Supervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System description languages",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printers",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information retrieval diversity",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete mathematics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data structures",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Record layout alternatives",
+    "parent_name": "Record storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database management system engines",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Presentation of retrieval results",
+    "parent_name": "Evaluation of retrieval results",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nonlinear equations",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile platform security",
+    "parent_name": "Operating systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database activity monitoring",
+    "parent_name": "Database and storage security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Economics of security and privacy",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web applications",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Numeric approximation algorithms",
+    "parent_name": "Approximation algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated and visual development environments",
+    "parent_name": "Development frameworks and environments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "RESTful web services",
+    "parent_name": "Web services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Virtual machines",
+    "parent_name": "Software infrastructure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software infrastructure",
+    "parent_name": "Contextual software domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic design automation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signaling protocols",
+    "parent_name": "Network layer protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Language types",
+    "parent_name": "General programming languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database design and models",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Site wrapping",
+    "parent_name": "Web mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive games",
+    "parent_name": "Virtual worlds software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network structure",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Q-learning",
+    "parent_name": "Dynamic programming for Markov decision processes",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Supervised learning by classification",
+    "parent_name": "Supervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Military",
+    "parent_name": "Computers in other domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business-IT alignment",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Performance",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Renewal theory",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data structures design and analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrity checking",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Layering",
+    "parent_name": "Network design principles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software system structures",
+    "parent_name": "Software organization and properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Analog, mixed-signal and radio frequency test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chat",
+    "parent_name": "Internet communications tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Error-correcting codes",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data integration",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Unsupervised learning",
+    "parent_name": "Learning paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Feature selection",
+    "parent_name": "Machine learning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Predecessor queries",
+    "parent_name": "Data structures design and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Experimentation",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Life and medical sciences",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electro-mechanical devices",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireframes",
+    "parent_name": "Systems and tools for interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ad hoc networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnetic tapes",
+    "parent_name": "Information storage technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Markov-chain Monte Carlo methods",
+    "parent_name": "Probabilistic reasoning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social and professional topics",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Random order and robust communication complexity",
+    "parent_name": "Streaming, sublinear and near linear time algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Just-in-time compilers",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network architectures",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stochastic processes",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Relevance assessment",
+    "parent_name": "Evaluation of retrieval results",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Law",
+    "parent_name": "Law, social and behavioral sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animation",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Buses and high-speed links",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded systems security",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Point lookups",
+    "parent_name": "Data access methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transducers",
+    "parent_name": "Automata extensions",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network reliability",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Retrieval efficiency",
+    "parent_name": "Evaluation of retrieval results",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System modeling languages",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pointing devices",
+    "parent_name": "Interaction devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software implementation planning",
+    "parent_name": "Designing software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Markov-chain Monte Carlo convergence measures",
+    "parent_name": "Markov-chain Monte Carlo methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel-based energy",
+    "parent_name": "Energy generation and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing methodologies",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software fault tolerance",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Abstract data types",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Randomness, geometry and discrete structures",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive whiteboards",
+    "parent_name": "Ubiquitous and mobile devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computers in other domains",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinatorial optimization",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automated static analysis",
+    "parent_name": "Formal methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document types",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Market equilibria",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Retrieval models and ranking",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document topic models",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise modeling",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data encoding and canonicalization",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Program reasoning",
+    "parent_name": "Semantics and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software performance",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health informatics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heuristic evaluations",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query suggestion",
+    "parent_name": "Information retrieval query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vulnerability management",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "World Wide Web",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Topic modeling",
+    "parent_name": "Unsupervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spectral methods",
+    "parent_name": "Machine learning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational advertising",
+    "parent_name": "Information systems applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantum communication complexity",
+    "parent_name": "Quantum computation theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Verification",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of database privacy and security",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Source separation",
+    "parent_name": "Unsupervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing theory, concepts and paradigms",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Record and buffer management",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automated reasoning",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Retargetable compilers",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social media networks",
+    "parent_name": "Overlay and other logical network structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rendering",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Usability in security and privacy",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling methodologies",
+    "parent_name": "Model development and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cognitive radios",
+    "parent_name": "Wireless access points, base stations and infrastructure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Unidimensional range search",
+    "parent_name": "Data access methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical foundations of cryptography",
+    "parent_name": "Cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed transaction monitors",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Geographic information systems",
+    "parent_name": "Spatial-temporal systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Link and co-citation analysis",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Abstract machines",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proof theory",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Expert search",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Temperature simulation and estimation",
+    "parent_name": "Thermal issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mixture modeling",
+    "parent_name": "Unsupervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Numerical differentiation",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and parameter extraction",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Variable length attributes",
+    "parent_name": "Record layout alternatives",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Command and control languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Object-relational mapping facilities",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer graphics",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software usability",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Implementation management",
+    "parent_name": "Management of computing and information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing organizations",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptography",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thin provisioning",
+    "parent_name": "Storage management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning paradigms",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shape modeling",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Seniors",
+    "parent_name": "Age",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Middleware for databases",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless access networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chemistry",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete-event simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algebraic algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Traceability",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Imperative languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Point-in-time copies",
+    "parent_name": "Storage replication",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bayesian analysis",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software as a service orchestration system",
+    "parent_name": "Development frameworks and environments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning from demonstrations",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic and databases",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multidimensional range search",
+    "parent_name": "Data access methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Development frameworks and environments",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Relational storage",
+    "parent_name": "Record storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Message queues",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage class memory",
+    "parent_name": "Information storage technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human and societal aspects of security and privacy",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dynamic graph algorithms",
+    "parent_name": "Graph algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Specification languages",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Programming logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interconnect power issues",
+    "parent_name": "Power estimation and optimization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motion processing",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Block and stream ciphers",
+    "parent_name": "Symmetric cryptography and hash functions",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Evaluation of retrieval results",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multi-task learning",
+    "parent_name": "Learning paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Link-layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing design and evaluation methods",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thesauri",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Page and site ranking",
+    "parent_name": "Web search engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Requirements analysis",
+    "parent_name": "Designing software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinational synthesis",
+    "parent_name": "Logic synthesis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pointing",
+    "parent_name": "Interaction techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query log analysis",
+    "parent_name": "Information retrieval query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algebraic complexity theory",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document management",
+    "parent_name": "Document management and text processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning settings",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web searching and information discovery",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous mathematics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing industry",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web search engines",
+    "parent_name": "Web searching and information discovery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Statistical graphics",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combination, fusion and federated search",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Record storage systems",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sequential Monte Carlo methods",
+    "parent_name": "Probabilistic reasoning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document searching",
+    "parent_name": "Document management and text processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Astronomy",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Anomaly detection",
+    "parent_name": "Unsupervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network monitoring",
+    "parent_name": "Network services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Protocol testing and verification",
+    "parent_name": "Protocol correctness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online learning algorithms",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network File System (NFS) protocol",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Supervised learning",
+    "parent_name": "Learning paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database performance evaluation",
+    "parent_name": "Database administration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information visualization",
+    "parent_name": "Visualization application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query learning",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image processing",
+    "parent_name": "Image manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrency control",
+    "parent_name": "Process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General programming languages",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network privacy and anonymity",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "V-model",
+    "parent_name": "Software development methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inheritance",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dictionaries",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Patterns",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web services",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Complexity classes",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Side-channel analysis and countermeasures",
+    "parent_name": "Hardware attacks and countermeasures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Psychology",
+    "parent_name": "Law, social and behavioral sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social media",
+    "parent_name": "Collaborative and social computing theory, concepts and paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation theory",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Virtualization and security",
+    "parent_name": "Operating systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing occupations",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "End nodes",
+    "parent_name": "Network components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Preconditioning",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Random walks and Markov chains",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sparsification and spanners",
+    "parent_name": "Graph algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multi / mixed media creation",
+    "parent_name": "Document preparation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Expander graphs and randomness extractors",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online advertising",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Entity relationship models",
+    "parent_name": "Database design and models",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Service discovery and interfaces",
+    "parent_name": "Web services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing design and evaluation methods",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ray tracing",
+    "parent_name": "Rendering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Adversarial retrieval",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information integration and interoperability",
+    "parent_name": "Enterprise interoperability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptographic primitives",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "3-tier architectures",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Branch-and-bound",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dynamic compilers",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic algorithms",
+    "parent_name": "Symbolic and algebraic manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shape analysis",
+    "parent_name": "Shape modeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automatic differentiation",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query languages",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Compilers",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Finite Model Theory",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data access methods",
+    "parent_name": "Data structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Walkthroughs",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Presentation protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Temperature control",
+    "parent_name": "Thermal issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design and analysis of algorithms",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social advertising",
+    "parent_name": "Online advertising",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Instance-based learning",
+    "parent_name": "Machine learning approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computations in finite fields",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Adversary models",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process monitoring",
+    "parent_name": "Business process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Entity resolution",
+    "parent_name": "Information integration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Statistical relational learning",
+    "parent_name": "Logical and relational learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Control structures",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network games",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Synchronization",
+    "parent_name": "Correctness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multi-agent learning",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational pricing and auctions",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semi-supervised learning settings",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Runtime environments",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded middleware",
+    "parent_name": "Middleware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory and algorithms for application domains",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Constraints",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design patterns",
+    "parent_name": "Software development methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automata over infinite objects",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pseudorandomness and derandomization",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in HCI",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrent computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Verification by model checking",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous functions",
+    "parent_name": "Continuous mathematics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and simulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "HCI design and evaluation methods",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational complexity and cryptography",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decision diagrams",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed computing models",
+    "parent_name": "Concurrency",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational transcriptomics",
+    "parent_name": "Computational biology",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Partial differential equations",
+    "parent_name": "Differential equations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Display advertising",
+    "parent_name": "Online advertising",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Representations of games and their complexity",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Random number generation",
+    "parent_name": "Probabilistic reasoning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Operating systems",
+    "parent_name": "Contextual software domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinatoric problems",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise computing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Novelty in information retrieval",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal software verification",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functionality",
+    "parent_name": "Correctness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Traffic analysis",
+    "parent_name": "Web mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graph algorithms analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical topologies",
+    "parent_name": "Network structure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Philosophical/theoretical foundations of artificial intelligence",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network components",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intermediate nodes",
+    "parent_name": "Network components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Regret bounds",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise architecture management",
+    "parent_name": "Enterprise architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database query processing",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Operating systems security",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pattern matching",
+    "parent_name": "Data structures design and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Density estimation",
+    "parent_name": "Probabilistic inference problems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Constraint and logic programming",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Equation and inequality solving algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed circuit boards",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System management",
+    "parent_name": "Management of computing and information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptanalysis and other attacks",
+    "parent_name": "Cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information retrieval",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database administration",
+    "parent_name": "Data management systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antialiasing",
+    "parent_name": "Image manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Specialized information retrieval",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Join algorithms",
+    "parent_name": "Database query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Statistical paradigms",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise computing infrastructures",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reflectance modeling",
+    "parent_name": "Rendering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic algorithms",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Personal computers and PC applications",
+    "parent_name": "Computers in other domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Policy iteration",
+    "parent_name": "Dynamic programming for Markov decision processes",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "API languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document filtering",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless access points, base stations and infrastructure",
+    "parent_name": "Network components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Documentation",
+    "parent_name": "Software post-development issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Malicious design modifications",
+    "parent_name": "Hardware attacks and countermeasures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Texturing",
+    "parent_name": "Image manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Aerospace",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Service-oriented architectures",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data dictionaries",
+    "parent_name": "Database administration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Test collections",
+    "parent_name": "Evaluation of retrieval results",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search-based software engineering",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scheduling",
+    "parent_name": "Process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transaction logging",
+    "parent_name": "Database transaction processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Recognition of genes and regulatory elements",
+    "parent_name": "Computational biology",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative learning",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network simulations",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database interoperability",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed systems organizing principles",
+    "parent_name": "Software system structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nearest neighbor algorithms",
+    "parent_name": "Streaming, sublinear and near linear time algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Age",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic synthesis",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithmic game theory and mechanism design",
+    "parent_name": "Theory and algorithms for application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Unsupervised learning and clustering",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quality of equilibria",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware security implementation",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Association rules",
+    "parent_name": "Data mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human computer interaction (HCI)",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dynamic analysis",
+    "parent_name": "Formal methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data center networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scripting languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handheld game consoles",
+    "parent_name": "Ubiquitous and mobile devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information storage systems",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of randomized search heuristics",
+    "parent_name": "Theory and algorithms for application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design for testability",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Completeness",
+    "parent_name": "Correctness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cloud based storage",
+    "parent_name": "Storage architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electromagnetic interference and compatibility",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Null values in records",
+    "parent_name": "Record layout alternatives",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Autonomous database administration",
+    "parent_name": "Database administration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Privacy protections",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graph-based database models",
+    "parent_name": "Database design and models",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web Services Description Language (WSDL)",
+    "parent_name": "Web services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document metadata",
+    "parent_name": "Document management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic manipulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Artificial immune systems",
+    "parent_name": "Intrusion detection systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage network architectures",
+    "parent_name": "Storage architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software post-development issues",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process management systems",
+    "parent_name": "Business process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization systems and tools",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Generative and developmental approaches",
+    "parent_name": "Bio-inspired approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software evolution",
+    "parent_name": "Software post-development issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proximity search",
+    "parent_name": "Data access methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Model development and analysis",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Error handling and recovery",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nonparametric representations",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simple Object Access Protocol (SOAP)",
+    "parent_name": "Web services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Local area networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Programming interfaces",
+    "parent_name": "Network architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility technologies",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal methods and theory of security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parallel computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Architecture description languages",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software verification",
+    "parent_name": "Formal methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web crawling",
+    "parent_name": "Web search engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Version management",
+    "parent_name": "Storage management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning theory",
+    "parent_name": "Theory and algorithms for application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Programming by example",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power estimation and optimization",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Column based storage",
+    "parent_name": "Relational storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer games",
+    "parent_name": "Personal computers and PC applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Retrieval tasks and goals",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tactile and hand-based interfaces",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Adolescents",
+    "parent_name": "Age",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise application integration tools",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Higher order logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative content creation",
+    "parent_name": "Collaborative and social computing theory, concepts and paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ordinary differential equations",
+    "parent_name": "Differential equations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Slotted pages",
+    "parent_name": "Block / page strategies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "RAID",
+    "parent_name": "Storage replication",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Repeaters",
+    "parent_name": "Physical links",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rasterization",
+    "parent_name": "Rendering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software configuration management and version control systems",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithmic mechanism design",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parameterized complexity and exact algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network types",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Linear logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packet-switching networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hierarchical data models",
+    "parent_name": "Graph-based database models",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Block / page strategies",
+    "parent_name": "Record storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automatic programming",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction techniques",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Random network models",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network mobility",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functional constructs",
+    "parent_name": "Program constructs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search engine indexing",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information storage technologies",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sample complexity and generalization bounds",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise data management",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network manageability",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical links",
+    "parent_name": "Network components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interface definition languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rounding techniques",
+    "parent_name": "Approximation algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "State based definitions",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Testing, certification and licensing",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data encryption",
+    "parent_name": "Data layout",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User characteristics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visual languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boolean algebra algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query intent",
+    "parent_name": "Information retrieval query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Peer-to-peer protocols",
+    "parent_name": "Application layer protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile phones",
+    "parent_name": "Ubiquitous and mobile devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive proof systems",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Session protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction devices",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-organizational business processes",
+    "parent_name": "Business process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algebraic language theory",
+    "parent_name": "Formalisms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communications management",
+    "parent_name": "Operating systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise architectures",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image manipulation",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative search",
+    "parent_name": "Users and interactive retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Equational models",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tamper-proof and tamper-resistant designs",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Temperature monitoring",
+    "parent_name": "Thermal issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hypothesis testing and confidence interval computation",
+    "parent_name": "Probabilistic inference problems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Number-theoretic computations",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Convergence and learning in games",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic inference problems",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backup procedures",
+    "parent_name": "Software post-development issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online learning settings",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise ontologies, taxonomies and vocabularies",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data mining",
+    "parent_name": "Information systems applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer-managed instruction",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multimedia streaming",
+    "parent_name": "Multimedia information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Switching devices power issues",
+    "parent_name": "Power estimation and optimization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General conference proceedings",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed database transactions",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graphics systems and interfaces",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Topology analysis and generation",
+    "parent_name": "Network structure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software functional properties",
+    "parent_name": "Software organization and properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search index compression",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise architecture modeling",
+    "parent_name": "Enterprise architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data layout",
+    "parent_name": "Data structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Timing analysis",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Public Internet",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Summarization",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sensor applications and deployments",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Differential equations",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in collaborative and social computing",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Non-photorealistic rendering",
+    "parent_name": "Rendering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Procedures, functions and subroutines",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software safety",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automata extensions",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web mining",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visibility",
+    "parent_name": "Rendering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Structured outputs",
+    "parent_name": "Supervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web interfaces",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General literature",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theorem proving algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ensemble methods",
+    "parent_name": "Machine learning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization techniques",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Regularization",
+    "parent_name": "Machine learning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-computing tools and techniques",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image composition",
+    "parent_name": "Document preparation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Type theory",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Email",
+    "parent_name": "Internet communications tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Law, social and behavioral sciences",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Main memory engines",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical software validation",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collision detection",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise interoperability",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data locking",
+    "parent_name": "Database transaction processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "XML query languages",
+    "parent_name": "Query languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pair programming",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online test and diagnostics",
+    "parent_name": "Design for testability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Approximation",
+    "parent_name": "Functional analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graphics file formats",
+    "parent_name": "Graphics systems and interfaces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Record and block layout",
+    "parent_name": "Data layout",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal languages and automata theory",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Language models",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network design principles",
+    "parent_name": "Network architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless local area networks",
+    "parent_name": "Wireless access networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Representation of polynomials",
+    "parent_name": "Representation of mathematical objects",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Metropolitan area networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Regression analysis",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database transaction processing",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hoare logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Smartphones",
+    "parent_name": "Ubiquitous and mobile devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Investigation techniques",
+    "parent_name": "Computer forensics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboards",
+    "parent_name": "Interaction devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic representations",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "K-server algorithms",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process modeling",
+    "parent_name": "Business process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tape libraries",
+    "parent_name": "Information storage technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Domain specific languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information systems applications",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Protocol correctness",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Browser security",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Survival analysis",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems theory",
+    "parent_name": "Simulation theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cyber-physical networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Acceptance testing",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Grammars and context-free languages",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Extra-functional properties",
+    "parent_name": "Software organization and properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Energy generation and storage",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Anthropology",
+    "parent_name": "Law, social and behavioral sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System administration",
+    "parent_name": "Software post-development issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Correctness",
+    "parent_name": "Software functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Open source model",
+    "parent_name": "Collaboration in software development",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Platform power issues",
+    "parent_name": "Power estimation and optimization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Divide and conquer",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Renewable energy",
+    "parent_name": "Energy generation and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in visualization",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Incomplete, inconsistent, and uncertain databases",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decision support systems",
+    "parent_name": "Information systems applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database web servers",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query reformulation",
+    "parent_name": "Information retrieval query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical data models",
+    "parent_name": "Database design and models",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Designing software",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software testing and debugging",
+    "parent_name": "Software defect analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Volumetric models",
+    "parent_name": "Shape modeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation types and techniques",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Source code generation",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data management systems",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Programmable networks",
+    "parent_name": "Network services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Content ranking",
+    "parent_name": "Web searching and information discovery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biographies",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Use cases",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Perceptron algorithm",
+    "parent_name": "Learning linear models",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Process control systems",
+    "parent_name": "Information systems applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithm design techniques",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinatorics",
+    "parent_name": "Discrete mathematics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business rules",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interoperability",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data streaming",
+    "parent_name": "Spatial-temporal systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance evaluation",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Similarity measures",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reusable energy storage",
+    "parent_name": "Energy generation and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motif discovery",
+    "parent_name": "Unsupervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data anonymization and sanitization",
+    "parent_name": "Database and storage security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Engineering",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaboration in software development",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mutual exclusion",
+    "parent_name": "Process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Extensible languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Walkthrough evaluations",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information accountability and usage control",
+    "parent_name": "Database and storage security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spline models",
+    "parent_name": "Nonparametric representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Procedural animation",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network forensics",
+    "parent_name": "Computer forensics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Artificial intelligence",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database recovery",
+    "parent_name": "Database transaction processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network experimentation",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems biology",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social aspects of security and privacy",
+    "parent_name": "Human and societal aspects of security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software design techniques",
+    "parent_name": "Software implementation planning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Recursion",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transfer learning",
+    "parent_name": "Multi-task learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application servers",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational biology",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer-assisted instruction",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reference works",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Top-k retrieval in databases",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Near-duplicate and plagiarism detection",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Maintaining software",
+    "parent_name": "Software post-development issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication hardware, interfaces and storage",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing devices",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database theory",
+    "parent_name": "Theory and algorithms for application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal security models",
+    "parent_name": "Formal methods and theory of security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Universal Description Discovery and Integration (UDDI)",
+    "parent_name": "Web services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "IT architectures",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information flow control",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization toolkits",
+    "parent_name": "Visualization systems and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nonparametric statistics",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Massively parallel and high-performance simulations",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security requirements",
+    "parent_name": "Formal methods and theory of security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document management and text processing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software development methods",
+    "parent_name": "Software development process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Layered systems",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network management",
+    "parent_name": "Network services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Malware and its mitigation",
+    "parent_name": "Intrusion/anomaly detection and malware mitigation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kalman filters and hidden Markov models",
+    "parent_name": "Probabilistic reasoning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Max marginal computation",
+    "parent_name": "Probabilistic inference problems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical software performance",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Abstraction, modeling and modularity",
+    "parent_name": "Software system structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Process validation",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed systems security",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web indexing",
+    "parent_name": "Web search engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sequential synthesis",
+    "parent_name": "Logic synthesis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computation of transforms",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document structure",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Classes and objects",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Representation of mathematical objects",
+    "parent_name": "Symbolic and algebraic manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dynamic programming for Markov decision processes",
+    "parent_name": "Machine learning algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time systems software",
+    "parent_name": "Software system structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous models",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coroutines",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document preparation",
+    "parent_name": "Document management and text processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functional languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process management",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Microcomputers",
+    "parent_name": "Personal computers and PC applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Risk management",
+    "parent_name": "Software development process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application specific development environments",
+    "parent_name": "Development frameworks and environments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Generating random combinatorial structures",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thermal issues",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discretization",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multimedia databases",
+    "parent_name": "Multimedia information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Models of learning",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Assembly languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Routing and network design problems",
+    "parent_name": "Approximation algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software libraries and repositories",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer vision tasks",
+    "parent_name": "Computer vision",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Timed and hybrid models",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shortest paths",
+    "parent_name": "Graph algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical simulation",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization application domains",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gestural input",
+    "parent_name": "Interaction techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance analysis",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Maximum likelihood estimation",
+    "parent_name": "Probabilistic inference problems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Solution concepts in game theory",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer vision",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "World Wide Web (network structure)",
+    "parent_name": "Overlay and other logical network structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal methods",
+    "parent_name": "Software functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Oracles and decision trees",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spam detection",
+    "parent_name": "Web search engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multimedia information systems",
+    "parent_name": "Information systems applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Applied computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Contextual software domains",
+    "parent_name": "Software organization and properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "HCI theory, concepts and models",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software reliability",
+    "parent_name": "Extra-functional properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Memory test and repair",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical sciences and engineering",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Public key encryption",
+    "parent_name": "Public key (asymmetric) techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tightly coupled architectures",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Regular languages",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Metabolomics / metabonomics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network range",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semantics and reasoning",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware attacks and countermeasures",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Program schemes",
+    "parent_name": "Program constructs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic retrieval models",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage replication",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network adapters",
+    "parent_name": "End nodes",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning approaches",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnetic disks",
+    "parent_name": "Information storage technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information lifecycle management",
+    "parent_name": "Storage management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinatorics on words",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software creation and management",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formalisms",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ethnography",
+    "parent_name": "Anthropology",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning under covariate shift",
+    "parent_name": "Multi-task learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information-theoretic techniques",
+    "parent_name": "Cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Object oriented languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lower bounds and information complexity",
+    "parent_name": "Streaming, sublinear and near linear time algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network formation",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Random search heuristics",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Object oriented development",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "External storage",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coding theory",
+    "parent_name": "Information theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic blackboards",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Genetics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data federation tools",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Macro languages",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Complexity theory and logic",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Methodologies for EDA",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive learning environments",
+    "parent_name": "Education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Test data compression",
+    "parent_name": "Design for testability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical analysis",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Middleware",
+    "parent_name": "Software infrastructure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Format and notation",
+    "parent_name": "Document preparation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware reliability screening",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantile regression",
+    "parent_name": "Density estimation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database constraints theory",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Operational analysis",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scanners",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Batch learning",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interval arithmetic",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Statistical software",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software notations and tools",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance modeling",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Contingency table analysis",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fault tree analysis",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intrusion/anomaly detection and malware mitigation",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functional analysis",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software design tradeoffs",
+    "parent_name": "Designing software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intrusion detection systems",
+    "parent_name": "Intrusion/anomaly detection and malware mitigation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data assimilation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software maintenance tools",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mesh geometry models",
+    "parent_name": "Shape modeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bagging",
+    "parent_name": "Ensemble methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in interaction design",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Message oriented middleware",
+    "parent_name": "Middleware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database query processing and optimization (theory)",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Causal networks",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantum information theory",
+    "parent_name": "Quantum computation theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing systems and tools",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parametric curve and surface models",
+    "parent_name": "Shape modeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing standards, RFCs and guidelines",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trust frameworks",
+    "parent_name": "Formal methods and theory of security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software verification and validation",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transcriptomics",
+    "parent_name": "Genetics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Program verification",
+    "parent_name": "Program reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Active learning",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flash memory",
+    "parent_name": "Storage class memory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Peer-to-peer networks",
+    "parent_name": "Overlay and other logical network structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information systems",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Users and interactive retrieval",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window managers",
+    "parent_name": "Context specific languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software architectures",
+    "parent_name": "Software system structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reflective middleware",
+    "parent_name": "Middleware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information retrieval query processing",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantum computation theory",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete calculus algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility design and evaluation methods",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logical nodes",
+    "parent_name": "Network components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software version control",
+    "parent_name": "Software post-development issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dynamic programming",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software defect analysis",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rank aggregation",
+    "parent_name": "Retrieval models and ranking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Global positioning systems",
+    "parent_name": "Spatial-temporal systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reference models",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image-based rendering",
+    "parent_name": "Image manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mesh generation",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptographic protocols",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "W hierarchy",
+    "parent_name": "Parameterized complexity and exact algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Type structures",
+    "parent_name": "Program constructs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Program analysis",
+    "parent_name": "Program reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Queueing theory",
+    "parent_name": "Statistical paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kernel density estimators",
+    "parent_name": "Nonparametric representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote replication",
+    "parent_name": "Storage replication",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal language definitions",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Streaming models",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cooperating communicating processes",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network servers",
+    "parent_name": "End nodes",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational advertising theory",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Short-range networks",
+    "parent_name": "Network range",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Built-in self-test",
+    "parent_name": "Design for testability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information theory",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query optimization",
+    "parent_name": "Database query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exact and approximate computation of equilibria",
+    "parent_name": "Algorithmic game theory and mechanism design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hierarchical storage management",
+    "parent_name": "Storage management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Assistive technologies",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Random projections and metric embeddings",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility systems and tools",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impact on the environment",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trust",
+    "parent_name": "Crowdsourcing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems and tools for interaction design",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wrappers (data mining)",
+    "parent_name": "Information integration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Routing protocols",
+    "parent_name": "Network layer protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Program constructs",
+    "parent_name": "Semantics and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Genomics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantum query complexity",
+    "parent_name": "Quantum computation theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Geographic visualization",
+    "parent_name": "Visualization application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed simulation",
+    "parent_name": "Simulation types and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Auditory feedback",
+    "parent_name": "Interaction techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query representation",
+    "parent_name": "Information retrieval query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Value iteration",
+    "parent_name": "Dynamic programming for Markov decision processes",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online analytical processing",
+    "parent_name": "Decision support systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Translator writing systems and compiler generators",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware test",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-validation",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web data description languages",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bio-inspired approaches",
+    "parent_name": "Machine learning approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrent programming structures",
+    "parent_name": "Language features",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interpolation",
+    "parent_name": "Numerical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health care information systems",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Checkpoint / restart",
+    "parent_name": "Software fault tolerance",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic reasoning algorithms",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "System forensics",
+    "parent_name": "Computer forensics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logical and relational learning",
+    "parent_name": "Machine learning approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Relational database model",
+    "parent_name": "Database design and models",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database and storage security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software development techniques",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software development process management",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Browsers",
+    "parent_name": "Web interfaces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Temperature optimization",
+    "parent_name": "Thermal issues",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mirroring",
+    "parent_name": "Storage replication",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Content analysis and feature selection",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Internet communications tools",
+    "parent_name": "Web applications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tablet computers",
+    "parent_name": "Ubiquitous and mobile devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transistor-level synthesis",
+    "parent_name": "Logic synthesis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Number theory algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic computation",
+    "parent_name": "Models of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network properties",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Economics",
+    "parent_name": "Law, social and behavioral sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed data locking",
+    "parent_name": "Distributed database transactions",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sentiment analysis",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Defect-based test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network dynamics",
+    "parent_name": "Network properties",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Recommender systems",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software organization and properties",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quadrature",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage power management",
+    "parent_name": "Storage management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning linear models",
+    "parent_name": "Machine learning approaches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Context specific languages",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Differential algebraic equations",
+    "parent_name": "Differential equations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Virtual worlds software",
+    "parent_name": "Contextual software domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cell probe models and lower bounds",
+    "parent_name": "Data structures design and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cognitive science",
+    "parent_name": "Philosophical/theoretical foundations of artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantitative automata",
+    "parent_name": "Automata extensions",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning from critiques",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cost-sensitive learning",
+    "parent_name": "Supervised learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social navigation",
+    "parent_name": "Collaborative and social computing theory, concepts and paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enumeration",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data modeling",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bayesian networks",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search interfaces",
+    "parent_name": "Users and interactive retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clustering and classification",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "PCB design and layout",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Question answering",
+    "parent_name": "Retrieval tasks and goals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Codes of ethics",
+    "parent_name": "Computing profession",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Query planning",
+    "parent_name": "Database query processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Constructive mathematics",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Expert systems",
+    "parent_name": "Decision support systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rewrite systems",
+    "parent_name": "Formalisms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network protocol design",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Service buses",
+    "parent_name": "Middleware for databases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Metrics",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logical / virtual topologies",
+    "parent_name": "Network structure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing profession",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Retrieval effectiveness",
+    "parent_name": "Evaluation of retrieval results",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Problems, reductions and completeness",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed retrieval",
+    "parent_name": "Search engine architectures and scalability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boolean function learning",
+    "parent_name": "Machine learning theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pre- and post-conditions",
+    "parent_name": "Program reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web log analysis",
+    "parent_name": "Web mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Professional topics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network topology types",
+    "parent_name": "Network structure",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sociology",
+    "parent_name": "Law, social and behavioral sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network services",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation environments",
+    "parent_name": "Simulation support systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Agile software development",
+    "parent_name": "Software development methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuits power issues",
+    "parent_name": "Power estimation and optimization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Virtual worlds training simulations",
+    "parent_name": "Virtual worlds software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probability and statistics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Markov networks",
+    "parent_name": "Probabilistic representations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rapid application development",
+    "parent_name": "Software development methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surveys and overviews",
+    "parent_name": "Document types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Space-based architectures",
+    "parent_name": "Software architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Overlay and other logical network structures",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage recovery strategies",
+    "parent_name": "Storage replication",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physics",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Permutations and combinations",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tree languages",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Incremental compilers",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parsers",
+    "parent_name": "Compilers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security in hardware",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Numerical analysis",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "DBMS engine architectures",
+    "parent_name": "Database management system engines",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Separation logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Approximation algorithms analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ontologies",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Unified Modeling Language (UML)",
+    "parent_name": "System description languages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing most probable explanation",
+    "parent_name": "Probabilistic inference problems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data flow languages",
+    "parent_name": "Language types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network economics",
+    "parent_name": "Network algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile devices",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Religious orientation",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data structures and algorithms for data management",
+    "parent_name": "Database theory",
+    "relation_type": "IsA"
+  }
+]

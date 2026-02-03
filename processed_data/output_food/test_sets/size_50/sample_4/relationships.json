@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "tortillas",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "uirō",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marble cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "paris buns",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "unni appam",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "layer cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "memela",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wanko soba",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fudge",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yaki udon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salt",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rye",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kue keranjang",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rum baba",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cupcone",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "red velvet cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jook-sing noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "depression cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cake",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tempeh",
+    "parent_name": "soy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "happy cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cereals",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cellophane noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rab cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babka",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seeds",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bánh tét",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seafood",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "turrón",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "granola",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "calas",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakery",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bundt cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "otak-otak",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tart",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pie",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coffee cakes",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "instant noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kakara pitha",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kinnathappam",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "king cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "muskazine",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mi san dao",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "basbousa",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  }
+]

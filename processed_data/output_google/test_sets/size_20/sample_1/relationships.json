@@ -1,0 +1,97 @@
+[
+  {
+    "child_name": "Spermicides",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biometric Monitors",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surgical Lubricants",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Live Animals",
+    "parent_name": "Animals & Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Benches",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Occupational & Physical Therapy Equipment",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shelving Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Condoms",
+    "parent_name": "Health Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spray Tanning Tents",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Deodorant & Anti-Perspirant",
+    "parent_name": "Personal Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Personal Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Room Dividers",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  }
+]

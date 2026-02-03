@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "hors d'oeuvres",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caruso sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "longan",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ragù",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "khrenovina sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pasta sauces",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "unflavored gelatine",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chancaca",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cream",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "food colouring",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "floss sugar",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rouille",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cherimoyas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liquor",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bread crumbs",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cashews",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate assortments",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugar apples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mangos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "guavas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "papayas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen seafood",
+    "parent_name": "seafood",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "infusion",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "melons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beurre noisette",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soursops",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cider",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanut butter cups",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pique verde boricua",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peach sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pecel",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rântaş",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wine",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomato paste",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "almonds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "figs",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pomegranates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "powdered beverage mixes",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lollipops",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shredded coconut",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peaches",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "whisky",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lemons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gummy sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ogbono nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cooking wine",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "physalis",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coffee creamer",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wow-wow sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "horseradish sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "feijoas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beer",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marshmallows",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salad dressings",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "milk",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "baking chocolate",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy corn",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "butter and margarine",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "worcestershire sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "persimmons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seeds",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cottage cheese",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "homli fruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "powdered tea",
+    "parent_name": "infusion",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vodka",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce ravigote",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pie fillings",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "baking soda",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned seafood",
+    "parent_name": "seafood",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dough",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "loquats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gumdrops",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nectarines",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chewing gum",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "plumcots",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cooking ingredient",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seafood",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taffy",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "edible baking decoration",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "katara",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tequilaseed",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "scorcolga",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beverage",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chestnuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "condiment",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coconuts",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prickly pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pesto",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cheese",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  }
+]

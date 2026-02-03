@@ -1,0 +1,2497 @@
+[
+  {
+    "child_name": "cheonsachae",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caruso sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit-flavoured drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "longan",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pumpkin seeds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "houmous",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "celery roots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "squashes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cardoon",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "duck soup noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hogao",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honeycomb",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grits",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "floss sugar",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shanghai fried noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "just right",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "non-dairy frozen dessert",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "red wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "henan braised noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yucca root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "flour",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "močnik",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bun rieu",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "golden crisp",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beetroots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lai fun",
+    "parent_name": "chinese noodles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice vermicelli",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "thenthuk",
+    "parent_name": "noodle soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cornmeal",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kumquats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frying pan dinners",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cider",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "licorice",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oil noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tkemali",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "broccoli",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cellophane noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "turnips",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "harissa",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "artificial sweeteners",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pickles and relishes",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coconut milk",
+    "parent_name": "non-dairy milk",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apricots",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned meat",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork jowl",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "black soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "whisky",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "millet",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "buckwheat",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kharcho",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fennel bulbs",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lotus roots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gummy sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ogbono nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot chocolate",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marshmallows",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ground and whole bean coffee",
+    "parent_name": "coffee",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "milk",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yaki udon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lasagnette",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "timbits",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "non-alcoholic beer",
+    "parent_name": "beer",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gobo root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "henan braised noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sprinkle spangles",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "baking powder",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "macadamia nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hemp milk",
+    "parent_name": "non-dairy milk",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mala sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cabbage",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cherries",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "green sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beetroot greens",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cröonchy stars",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "worcestershire sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seeds",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tripoline",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "asparagus",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "homli fruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vodka",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chard",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "psarosoupa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spätzle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "espagnole sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "raisin wheats",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mujdei",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "energy drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "under cover bears instant oatmeal",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "biángbiáng noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shrimp roe noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sunny boy cereal",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ogi",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dessert toppings",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jook-sing noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nintendo cereal system",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit chews",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pepper",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "evaporated milk",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nougat",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cooking ingredient",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen meat",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "youmian",
+    "parent_name": "chinese noodles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "walnuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tom kha kai",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kasha",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sapote",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shredded wheat",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jjolmyeon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jelly beans",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "consommé",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prickly pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hard sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "celery",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ciauscolo",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rum",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fideo",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn pops",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "all-bran",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugar cane",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caramels",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "supreme",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "blush wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chancaca",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "she-crab soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dandan noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brazil nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vinegar drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "port",
+    "parent_name": "dessert wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "food colouring",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rouille",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ginger root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "disney hunny b's honey-graham",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kohlrabi",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "xo sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate assortments",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liverwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "korean noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candle salad",
+    "parent_name": "fruit salad",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugar apples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sausage",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jerusalem artichokes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "body buddies",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boerewors",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boiled sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taro root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ponzu",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "water chestnuts",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jelly doughnut",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rhubarb",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pie crusts",
+    "parent_name": "dough",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey smacks",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "paradise nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cauliflower",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grapes",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice noodle roll",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kesme",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sundae cones",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chicory",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peach sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dried beans",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beans",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bean pastes",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tofu",
+    "parent_name": "soy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rântaş",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "white wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanut sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomato paste",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "potatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kitchen bouquet",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "instant noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "figs",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "smorz",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "styrian sour soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kale",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fritelli",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dotori guksu",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rutabagas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dessert",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mamey",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wonton noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "physalis",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wow-wow sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "doughnut",
+    "parent_name": "dough",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "quinoa",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "red-eye gravy",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakmi",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marshmallow sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spinach",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "porridge",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy corn",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey dew donuts",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dragon beard noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocos",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "curry ketchup",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "aubergines",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "persimmons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oatibix",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kola nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "curry sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coulis",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggnog",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brown bobby",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cookie crisp",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pillus",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cumian",
+    "parent_name": "chinese noodles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "breton sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey nut clusters",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "baking soda",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "herb",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salsa",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pine nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cotechino modena",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "reese's puffs",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pistou",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "velouté sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oyster sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sopa teologa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "almond extract",
+    "parent_name": "baking extracts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nantua sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salad mixes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nectarines",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cracklin' oat bran",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat patties",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "plumcots",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lettuce",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "golden nuggets",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cruncheroos",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "merguez",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meunière sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "powdered milk",
+    "parent_name": "milk",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yeast",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "product 19",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot dry noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lychees",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "alfalfa sprouts",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate covered nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "korean noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tequilaseed",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "phu quoc fish sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "condiment",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "janggukjuk",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "juice",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "potage",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pho",
+    "parent_name": "noodle soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "loose tea leaves",
+    "parent_name": "infusion",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pickled pigs feet",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soubise sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wanko soba",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "romesco",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mead",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "greens",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sevai",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pizza sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wheatgrass",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweet potatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "amaranth",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugar puffs",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fish sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liquor",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bananas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rømmegrøt",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "carne de chango",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "onions",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dip",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "booyah",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tucupi",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "binignit",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coffee",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yu choy",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "aioli",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "weetabix",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cucumbers",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "artichokes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brown sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "batter and coating mixes",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "béchamel sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "arracachas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "duckefett",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soursops",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shortening and lard",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "quisp",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "baking extracts",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanut butter cups",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fish tea",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sour cream doughnut",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fiddlehead ferns",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "drunken noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cereals",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yam",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nali sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit salad",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peaches",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pumpkins",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lemons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bitters",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "crème ninon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boston cream doughnut",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cooking wine",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frosted mini-wheats",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wheat",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "horseradish sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "schupfnudel",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pancake and maple syrup",
+    "parent_name": "syrup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bolognese sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "uncle sam cereal",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "non-dairy milk",
+    "parent_name": "milk",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mohnnudel",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "suckers",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "baking chocolate",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle with tomato egg sauce",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gai choi",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bean sprouts",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn syrup",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "udon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brandy",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey garlic sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "flavoured malt drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shahe fen",
+    "parent_name": "chinese noodles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pozole",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "satay sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babi panggang",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rassolnik",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "neapolitan ragù",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chick peas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "banh canh",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dough",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "loquats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "waffle crisp",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "petit salé",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "popsicles",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "okra",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "choi sum",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sparkling wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ga'at",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jicama",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taffy",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liqueurs",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pineapples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sangria",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "katara",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chinese noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pesto",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "garlic",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ragù",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "snow cone syrup",
+    "parent_name": "syrup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ready brek",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "instant coffee",
+    "parent_name": "coffee",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ganache",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tuscan cabbage",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "watercress",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kreple",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "unflavored gelatine",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "borage",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "buttermilk",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "molasses",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice krispies",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vegetable",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tamarind",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate covered fruit",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "alpha-bits",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cocktail mixes",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rocket",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "starfruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dessert wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chutney",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "skilandis",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "black noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "morning funnies",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "smultring",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oranges",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit 'n fibre",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "guavas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mangos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bow wow sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "papayas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ice cream",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugar",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beurre blanc",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "infusion",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mustard",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate truffles",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beurre noisette",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shirataki noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babacos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "horseradish root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "silver needle noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rosã© wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lamian",
+    "parent_name": "chinese noodles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "parsnips",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "leeks",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wine",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sorbet",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn flakes",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "french onion soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "scott's porage oats",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "powdered beverage mixes",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chinkiang pot cover noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "complete wheat bran flakes",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "starter cultures",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cream cheese",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mamoncillo nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "passion fruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "malangas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen yoghurt",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beer",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "feijoas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gomguk",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salad dressings",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bordelaise sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "thuringian sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup alla canavese",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tangelos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salt pork",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "french toast crunch",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rocky road cereal",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tahini",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "saang mein",
+    "parent_name": "chinese noodles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "helmipuuro",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jeonbokjuk",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sunflower seeds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vegetable dip",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot and sour soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "okroshka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cheez whiz",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mint sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ciambella",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frosted flakes",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot dogs",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cumberland sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce ravigote",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugo all'amatriciana",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pie fillings",
+    "parent_name": "cooking ingredient",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kuy teav",
+    "parent_name": "noodle soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy canes",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "carrots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee brittle",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce lyonnaise",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mămăligă",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tangerines",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "syrup",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ajoblanco",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "siemieniotka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sfenj",
+    "parent_name": "doughnut",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "100% bran",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hidden treasures",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pistachios",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tartar sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cactus leaves",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vietnamese noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brussels sprouts",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "café de paris sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "singapore style noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sherbet",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chewing gum",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ok sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mafalde",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "non-alcoholic wine",
+    "parent_name": "wine",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "breakfast cereal",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce gribiche",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beer soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sapodillo",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "barley gruel",
+    "parent_name": "porridge",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "scorcolga",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beverage",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yi mein",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coconuts",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rye",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  }
+]

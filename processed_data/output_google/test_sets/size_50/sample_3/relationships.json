@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "Decor",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flag & Windsock Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thermoses",
+    "parent_name": "Food & Beverage Carriers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallpaper",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trunks",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Button Studs",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Butterfly Houses",
+    "parent_name": "Bird & Wildlife Houses",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music Boxes",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys & Games",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Piggy Banks & Money Jars",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Seasonal & Holiday Decorations",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lawn Ornaments & Garden Sculptures",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Belt Buckles",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Growth Charts",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sunglasses",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flasks",
+    "parent_name": "Food & Beverage Carriers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mirrors",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garden & Stepping Stones",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Bells",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emergency Preparedness",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mailboxes",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Figurines",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food & Beverage Carriers",
+    "parent_name": "Kitchen & Dining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Slipcovers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lawn & Garden",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Picture Frames",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emergency Blankets",
+    "parent_name": "Emergency Preparedness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Holiday Stocking Hangers",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rain Chains",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coolers",
+    "parent_name": "Food & Beverage Carriers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Seasonal Village Sets & Accessories",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Valances & Cornices",
+    "parent_name": "Window Treatments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Treatments",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home & Garden",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floating & Submersible Lights",
+    "parent_name": "Lighting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Napkin Rings",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Christmas Tree Stands",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kitchen & Dining",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food, Beverages & Tobacco",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird & Wildlife Houses",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Snow Removal",
+    "parent_name": "Lawn & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speed Radars",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Easter Egg Decorating Kits",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  }
+]

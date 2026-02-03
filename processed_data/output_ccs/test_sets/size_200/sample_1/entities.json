@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Estimation"
+  },
+  {
+    "name": "Hypergraphs"
+  },
+  {
+    "name": "Algebraic complexity theory"
+  },
+  {
+    "name": "VLSI packaging"
+  },
+  {
+    "name": "Models of computation"
+  },
+  {
+    "name": "Learning settings"
+  },
+  {
+    "name": "Medical technologies"
+  },
+  {
+    "name": "Generating random combinatorial structures"
+  },
+  {
+    "name": "Search engine indexing"
+  },
+  {
+    "name": "Computing industry"
+  },
+  {
+    "name": "Thermal issues"
+  },
+  {
+    "name": "Multimedia databases"
+  },
+  {
+    "name": "Combination, fusion and federated search"
+  },
+  {
+    "name": "Human-centered computing"
+  },
+  {
+    "name": "General and reference"
+  },
+  {
+    "name": "Machine learning"
+  },
+  {
+    "name": "Peer-to-peer retrieval"
+  },
+  {
+    "name": "Design for manufacturability"
+  },
+  {
+    "name": "Interactive proof systems"
+  },
+  {
+    "name": "Security and privacy"
+  },
+  {
+    "name": "Platform-based design"
+  },
+  {
+    "name": "Fault tolerance"
+  },
+  {
+    "name": "Multivariate statistics"
+  },
+  {
+    "name": "Censorship"
+  },
+  {
+    "name": "Multimedia information systems"
+  },
+  {
+    "name": "Image manipulation"
+  },
+  {
+    "name": "Circuit complexity"
+  },
+  {
+    "name": "Applied computing"
+  },
+  {
+    "name": "Program semantics"
+  },
+  {
+    "name": "Complexity classes"
+  },
+  {
+    "name": "Temperature monitoring"
+  },
+  {
+    "name": "Simulation theory"
+  },
+  {
+    "name": "Algebraic semantics"
+  },
+  {
+    "name": "Government technology policy"
+  },
+  {
+    "name": "Online learning settings"
+  },
+  {
+    "name": "Regular languages"
+  },
+  {
+    "name": "Metabolomics / metabonomics"
+  },
+  {
+    "name": "Logic"
+  },
+  {
+    "name": "VLSI design manufacturing considerations"
+  },
+  {
+    "name": "Semantics and reasoning"
+  },
+  {
+    "name": "Sustainability"
+  },
+  {
+    "name": "Application-specific VLSI designs"
+  },
+  {
+    "name": "Random walks and Markov chains"
+  },
+  {
+    "name": "Probabilistic retrieval models"
+  },
+  {
+    "name": "Project and people management"
+  },
+  {
+    "name": "Machine learning approaches"
+  },
+  {
+    "name": "Medical information policy"
+  },
+  {
+    "name": "Measurement"
+  },
+  {
+    "name": "Machine learning algorithms"
+  },
+  {
+    "name": "On-chip sensors"
+  },
+  {
+    "name": "Search index compression"
+  },
+  {
+    "name": "Adversarial retrieval"
+  },
+  {
+    "name": "Software maintenance"
+  },
+  {
+    "name": "Cryptographic primitives"
+  },
+  {
+    "name": "Hardware"
+  },
+  {
+    "name": "Aging of circuits and systems"
+  },
+  {
+    "name": "Evaluation"
+  },
+  {
+    "name": "Design reuse and communication-based design"
+  },
+  {
+    "name": "Systems analysis and design"
+  },
+  {
+    "name": "Model verification and validation"
+  },
+  {
+    "name": "Power and energy"
+  },
+  {
+    "name": "Graph theory"
+  },
+  {
+    "name": "General literature"
+  },
+  {
+    "name": "Simulation evaluation"
+  },
+  {
+    "name": "Batch learning"
+  },
+  {
+    "name": "Semi-supervised learning settings"
+  },
+  {
+    "name": "Software selection and adaptation"
+  },
+  {
+    "name": "Network science"
+  },
+  {
+    "name": "Cross-computing tools and techniques"
+  },
+  {
+    "name": "Search engine architectures and scalability"
+  },
+  {
+    "name": "Theory and algorithms for application domains"
+  },
+  {
+    "name": "Distributed computing methodologies"
+  },
+  {
+    "name": "Type theory"
+  },
+  {
+    "name": "Collision detection"
+  },
+  {
+    "name": "Automata over infinite objects"
+  },
+  {
+    "name": "Privacy policies"
+  },
+  {
+    "name": "Simulation support systems"
+  },
+  {
+    "name": "Searching with auxiliary databases"
+  },
+  {
+    "name": "Application specific instruction set processors"
+  },
+  {
+    "name": "Concurrent computing methodologies"
+  },
+  {
+    "name": "Management of computing and information systems"
+  },
+  {
+    "name": "Formal languages and automata theory"
+  },
+  {
+    "name": "Modeling and simulation"
+  },
+  {
+    "name": "Trees"
+  },
+  {
+    "name": "Computing standards, RFCs and guidelines"
+  },
+  {
+    "name": "Image compression"
+  },
+  {
+    "name": "Functional verification"
+  },
+  {
+    "name": "Program verification"
+  },
+  {
+    "name": "Hardware reliability"
+  },
+  {
+    "name": "Computational complexity and cryptography"
+  },
+  {
+    "name": "Network operations"
+  },
+  {
+    "name": "Hoare logic"
+  },
+  {
+    "name": "Theory of computation"
+  },
+  {
+    "name": "Information systems"
+  },
+  {
+    "name": "Discrete mathematics"
+  },
+  {
+    "name": "Design"
+  },
+  {
+    "name": "Information retrieval diversity"
+  },
+  {
+    "name": "Action semantics"
+  },
+  {
+    "name": "Combinatoric problems"
+  },
+  {
+    "name": "Information retrieval query processing"
+  },
+  {
+    "name": "Probabilistic representations"
+  },
+  {
+    "name": "Information systems applications"
+  },
+  {
+    "name": "History of software"
+  },
+  {
+    "name": "Rank aggregation"
+  },
+  {
+    "name": "Health information exchanges"
+  },
+  {
+    "name": "Categorical semantics"
+  },
+  {
+    "name": "Cryptographic protocols"
+  },
+  {
+    "name": "Program analysis"
+  },
+  {
+    "name": "Random graphs"
+  },
+  {
+    "name": "Yield and cost optimization"
+  },
+  {
+    "name": "Modal and temporal logics"
+  },
+  {
+    "name": "Soft intellectual property"
+  },
+  {
+    "name": "Constraint and logic programming"
+  },
+  {
+    "name": "Database protection laws"
+  },
+  {
+    "name": "System management"
+  },
+  {
+    "name": "Energy generation and storage"
+  },
+  {
+    "name": "Life and medical sciences"
+  },
+  {
+    "name": "Information retrieval"
+  },
+  {
+    "name": "Computing Classification System"
+  },
+  {
+    "name": "Specialized information retrieval"
+  },
+  {
+    "name": "Social and professional topics"
+  },
+  {
+    "name": "Program constructs"
+  },
+  {
+    "name": "Assertions"
+  },
+  {
+    "name": "History of computing"
+  },
+  {
+    "name": "Animation"
+  },
+  {
+    "name": "Equivalence checking"
+  },
+  {
+    "name": "Value iteration"
+  },
+  {
+    "name": "VLSI system specification and constraints"
+  },
+  {
+    "name": "Paths and connectivity problems"
+  },
+  {
+    "name": "Retrieval efficiency"
+  },
+  {
+    "name": "History of computing theory"
+  },
+  {
+    "name": "Massively multiplayer online games"
+  },
+  {
+    "name": "Simulation types and techniques"
+  },
+  {
+    "name": "Cross-validation"
+  },
+  {
+    "name": "Hardware validation"
+  },
+  {
+    "name": "Health care information systems"
+  },
+  {
+    "name": "Fuel-based energy"
+  },
+  {
+    "name": "Combinatorics"
+  },
+  {
+    "name": "Communication complexity"
+  },
+  {
+    "name": "Computing methodologies"
+  },
+  {
+    "name": "Software management"
+  },
+  {
+    "name": "Process control systems"
+  },
+  {
+    "name": "Database and storage security"
+  },
+  {
+    "name": "Surveillance"
+  },
+  {
+    "name": "Randomness, geometry and discrete structures"
+  },
+  {
+    "name": "Combinatorial optimization"
+  },
+  {
+    "name": "Document types"
+  },
+  {
+    "name": "Retrieval models and ranking"
+  },
+  {
+    "name": "Program reasoning"
+  },
+  {
+    "name": "Biological networks"
+  },
+  {
+    "name": "Probabilistic computation"
+  },
+  {
+    "name": "Sequencing and genotyping technologies"
+  },
+  {
+    "name": "World Wide Web"
+  },
+  {
+    "name": "Operational semantics"
+  },
+  {
+    "name": "Verification"
+  },
+  {
+    "name": "Automated reasoning"
+  },
+  {
+    "name": "Usability in security and privacy"
+  },
+  {
+    "name": "Interactive computation"
+  },
+  {
+    "name": "Link and co-citation analysis"
+  },
+  {
+    "name": "Physical verification"
+  },
+  {
+    "name": "Enumeration"
+  },
+  {
+    "name": "Denotational semantics"
+  },
+  {
+    "name": "Abstract machines"
+  },
+  {
+    "name": "Proof theory"
+  },
+  {
+    "name": "Robustness"
+  },
+  {
+    "name": "Systems biology"
+  },
+  {
+    "name": "Constructive mathematics"
+  },
+  {
+    "name": "Computer graphics"
+  },
+  {
+    "name": "Die and wafer stacking"
+  },
+  {
+    "name": "Computational biology"
+  },
+  {
+    "name": "Reference works"
+  },
+  {
+    "name": "Corporate surveillance"
+  },
+  {
+    "name": "Top-k retrieval in databases"
+  },
+  {
+    "name": "Retrieval effectiveness"
+  },
+  {
+    "name": "Problems, reductions and completeness"
+  },
+  {
+    "name": "Learning paradigms"
+  },
+  {
+    "name": "Computing / technology policy"
+  },
+  {
+    "name": "Model development and analysis"
+  },
+  {
+    "name": "Professional topics"
+  },
+  {
+    "name": "Mathematics of computing"
+  },
+  {
+    "name": "Simulation environments"
+  },
+  {
+    "name": "Graph enumeration"
+  },
+  {
+    "name": "Parallel computing methodologies"
+  },
+  {
+    "name": "Circuits power issues"
+  },
+  {
+    "name": "Matroids and greedoids"
+  },
+  {
+    "name": "Probability and statistics"
+  },
+  {
+    "name": "Permutations and combinations"
+  },
+  {
+    "name": "Power estimation and optimization"
+  },
+  {
+    "name": "Human and societal aspects of security and privacy"
+  },
+  {
+    "name": "Very large scale integration design"
+  },
+  {
+    "name": "Tree languages"
+  },
+  {
+    "name": "Learning latent representations"
+  },
+  {
+    "name": "Patents"
+  },
+  {
+    "name": "Programming logic"
+  },
+  {
+    "name": "Intellectual property"
+  },
+  {
+    "name": "Higher order logic"
+  },
+  {
+    "name": "Motion processing"
+  },
+  {
+    "name": "Evaluation of retrieval results"
+  },
+  {
+    "name": "History of programming languages"
+  },
+  {
+    "name": "Dynamic programming for Markov decision processes"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "pici",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gemelli",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fagottini",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cannelloni",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pasta",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spaghetti",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "occhi di lupo",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fusilli",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bavette",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  }
+]

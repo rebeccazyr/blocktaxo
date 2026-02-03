@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Other architectures",
+    "parent_name": "Architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time system specification",
+    "parent_name": "Real-time systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Architectures",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded and cyber-physical systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer systems organization",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time languages",
+    "parent_name": "Real-time systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Optical computing",
+    "parent_name": "Other architectures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quantum computing",
+    "parent_name": "Other architectures",
+    "relation_type": "IsA"
+  }
+]

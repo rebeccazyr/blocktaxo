@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Erotic Games",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erotic DVDs & Videos",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mature",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erotic Books",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pole Dancing Kits",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erotic Magazines",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erotic Food & Edibles",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erotic",
+    "parent_name": "Mature",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erotic Clothing",
+    "parent_name": "Erotic",
+    "relation_type": "IsA"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "casoncelli",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rotini",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ptitim",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "passatelli",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "campanelle",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "macaroni",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pasta",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spaghetti",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lanterne",
+    "parent_name": "pasta",
+    "relation_type": "IsA"
+  }
+]

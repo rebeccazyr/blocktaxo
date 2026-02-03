@@ -1,0 +1,997 @@
+[
+  {
+    "child_name": "Memory and dense storage",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automatic programming",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI packaging",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Causal reasoning and diagnostics",
+    "parent_name": "Knowledge representation and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nonmonotonic, default reasoning and belief revision",
+    "parent_name": "Knowledge representation and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process management",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Men",
+    "parent_name": "Gender",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Student assessment",
+    "parent_name": "Computing education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document management",
+    "parent_name": "Document management and text processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning settings",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise data management",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User characteristics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Standard cell libraries",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in ubiquitous and mobile computing",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage management",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated circuits",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Machine learning",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Knowledge representation and reasoning",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "IT governance",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design for manufacturability",
+    "parent_name": "Robustness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bug fixing (hardware)",
+    "parent_name": "Post-manufacture validation and debug",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Representation of mathematical functions",
+    "parent_name": "Representation of mathematical objects",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chip-level power issues",
+    "parent_name": "Power estimation and optimization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance analysis",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Point-based models",
+    "parent_name": "Shape modeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer vision",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Censorship",
+    "parent_name": "Computing / technology policy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web services",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Applied computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Text editing",
+    "parent_name": "Document management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation theory",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer algebra systems",
+    "parent_name": "Symbolic and algebraic manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Safety critical systems",
+    "parent_name": "Robustness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Transport protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Government technology policy",
+    "parent_name": "Computing / technology policy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Consumer health",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fault models and test metrics",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Metabolomics / metabonomics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts and humanities",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application-specific VLSI designs",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Test-pattern generation and fault simulation",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online advertising",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graphics systems and interfaces",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network types",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software creation and management",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cognitive robotics",
+    "parent_name": "Knowledge representation and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic families",
+    "parent_name": "Digital switches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Process variations",
+    "parent_name": "Design for manufacturability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Post-manufacture validation and debug",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software design engineering",
+    "parent_name": "Designing software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Evaluation",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Walkthroughs",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and energy",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web mining",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search methodologies",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware reliability screening",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ontology engineering",
+    "parent_name": "Knowledge representation and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation evaluation",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Batch learning",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization techniques",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software notations and tools",
+    "parent_name": "Software and its engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance modeling",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-computing tools and techniques",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fault tree analysis",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical software validation",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collision detection",
+    "parent_name": "Animation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spintronics and magnetic technologies",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pair programming",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Simulation support systems",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data extraction and integration",
+    "parent_name": "Web mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concurrent computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Representation of polynomials",
+    "parent_name": "Representation of mathematical objects",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and simulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing systems and tools",
+    "parent_name": "Ubiquitous and mobile computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Image compression",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functional verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software verification and validation",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network protocols",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Energy distribution",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information systems",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "On-chip resource management",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emerging optical and photonic technologies",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing education",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Enterprise computing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business process modeling",
+    "parent_name": "Business process management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal software verification",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Active learning settings",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Philosophical/theoretical foundations of artificial intelligence",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic design automation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plasmonics",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Control methods",
+    "parent_name": "Artificial intelligence",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Import / export controls",
+    "parent_name": "Government technology policy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational thinking",
+    "parent_name": "Computing education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cyber-physical networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed circuit boards",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Experimentation",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Application specific integrated circuits",
+    "parent_name": "Application-specific VLSI designs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Energy generation and storage",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Life and medical sciences",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heat maps",
+    "parent_name": "Visualization techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impact on the environment",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social and professional topics",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Renewable energy",
+    "parent_name": "Energy generation and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in visualization",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bug detection, localization and diagnosis",
+    "parent_name": "Post-manufacture validation and debug",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "History of computing",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animation",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Commerce policy",
+    "parent_name": "Computing / technology policy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing education programs",
+    "parent_name": "Computing education",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "VLSI system specification and constraints",
+    "parent_name": "Very large scale integration design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Designing software",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gender",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Volumetric models",
+    "parent_name": "Shape modeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Validation",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware test",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-validation",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web data description languages",
+    "parent_name": "World Wide Web",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Search-based software engineering",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Digital switches",
+    "parent_name": "Integrated circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware validation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health care information systems",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing methodologies",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network measurement",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network simulations",
+    "parent_name": "Network performance evaluation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software development techniques",
+    "parent_name": "Software creation and management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yield and cost modeling",
+    "parent_name": "Design for manufacturability",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Emerging technologies",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance evaluation",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health informatics",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Age",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reusable energy storage",
+    "parent_name": "Energy generation and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic synthesis",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sexual orientation",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "World Wide Web",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wired access networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Assertion checking",
+    "parent_name": "Functional verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probabilistic reasoning",
+    "parent_name": "Knowledge representation and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cultural characteristics",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data center networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information storage systems",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design for testability",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electromagnetic interference and compatibility",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reasoning about belief and knowledge",
+    "parent_name": "Knowledge representation and reasoning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Artificial intelligence",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "PCB design and layout",
+    "parent_name": "Printed circuit boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and parameter extraction",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robustness",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems biology",
+    "parent_name": "Life and medical sciences",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document metadata",
+    "parent_name": "Document management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic manipulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer graphics",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online auctions policy",
+    "parent_name": "Commerce policy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reversible logic",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and application security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning paradigms",
+    "parent_name": "Machine learning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shape modeling",
+    "parent_name": "Computer graphics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing / technology policy",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Model development and analysis",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Professional topics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Web log analysis",
+    "parent_name": "Web mining",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Universal Description Discovery and Integration (UDDI)",
+    "parent_name": "Web services",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and thermal analysis",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Error handling and recovery",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "IT architectures",
+    "parent_name": "Enterprise computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biology-related information processing",
+    "parent_name": "Emerging technologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network services",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Traceability",
+    "parent_name": "Process validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Learning from demonstrations",
+    "parent_name": "Learning settings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parallel computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuits power issues",
+    "parent_name": "Power estimation and optimization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document management and text processing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Development frameworks and environments",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power estimation and optimization",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Very large scale integration design",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hate speech",
+    "parent_name": "Censorship",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reusability",
+    "parent_name": "Software development techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sequential synthesis",
+    "parent_name": "Logic synthesis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Process validation",
+    "parent_name": "Software verification and validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software configuration management and version control systems",
+    "parent_name": "Software notations and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Link-layer protocols",
+    "parent_name": "Network protocols",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "People with disabilities",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packet-switching networks",
+    "parent_name": "Network types",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Technology-mapping",
+    "parent_name": "Logic synthesis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Representation of mathematical objects",
+    "parent_name": "Symbolic and algebraic manipulation",
+    "relation_type": "IsA"
+  }
+]

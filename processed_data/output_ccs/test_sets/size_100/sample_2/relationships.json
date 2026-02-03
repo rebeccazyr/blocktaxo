@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Semiconductor memory",
+    "parent_name": "Integrated circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algebraic complexity theory",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User interface programming",
+    "parent_name": "Interactive systems and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sorting and searching",
+    "parent_name": "Data structures design and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Equational logic and rewriting",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing industry",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User characteristics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document searching",
+    "parent_name": "Document management and text processing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated circuits",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online learning algorithms",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical synthesis",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive proof systems",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire routing",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hypertext / hypermedia",
+    "parent_name": "Interaction paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proof complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Applied computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational geometry",
+    "parent_name": "Randomness, geometry and discrete structures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Complexity classes",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Packaging",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical sciences and engineering",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Race and ethnicity",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts and humanities",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semantics and reasoning",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Placement",
+    "parent_name": "Physical design (EDA)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graphical user interfaces",
+    "parent_name": "Interaction paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sparsification and spanners",
+    "parent_name": "Graph algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formalisms",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User interface management systems",
+    "parent_name": "Interactive systems and tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic families",
+    "parent_name": "Digital switches",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptographic primitives",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Caching and paging algorithms",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction paradigms",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in collaborative and social computing",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design and analysis of algorithms",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Adversary models",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware reliability screening",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Management of computing and information systems",
+    "parent_name": "Professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Verification by model checking",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal languages and automata theory",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Natural language interfaces",
+    "parent_name": "Interaction paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computational complexity and cryptography",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hoare logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ubiquitous and mobile computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "K-server algorithms",
+    "parent_name": "Online algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility design and evaluation methods",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graph algorithms analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic design automation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility theory, concepts and paradigms",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Publishing",
+    "parent_name": "Computers in other domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cryptographic protocols",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Data structures design and analysis",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Analog, mixed-signal and radio frequency test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility systems and tools",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware description languages and compilation",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social and professional topics",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Divide and conquer",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware test",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Digital switches",
+    "parent_name": "Integrated circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication complexity",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithm design techniques",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical design (EDA)",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Randomness, geometry and discrete structures",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computers in other domains",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Logic synthesis",
+    "parent_name": "Electronic design automation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Engineering",
+    "parent_name": "Physical sciences and engineering",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human computer interaction (HCI)",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cultural characteristics",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design for testability",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Online algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Proof theory",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robustness",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Constructive mathematics",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Problems, reductions and completeness",
+    "parent_name": "Computational complexity and cryptography",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interactive systems and tools",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing / technology policy",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Professional topics",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility technologies",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social network analysis",
+    "parent_name": "Collaborative and social computing design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document management and text processing",
+    "parent_name": "Applied computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dynamic graph algorithms",
+    "parent_name": "Graph algorithms analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tree languages",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative interaction",
+    "parent_name": "Interaction paradigms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Separation logic",
+    "parent_name": "Logic",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing design and evaluation methods",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parameterized complexity and exact algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "People with disabilities",
+    "parent_name": "User characteristics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinational synthesis",
+    "parent_name": "Logic synthesis",
+    "relation_type": "IsA"
+  }
+]

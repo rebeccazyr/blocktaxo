@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Pet Supplies",
+    "parent_name": "Animals & Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dentistry",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Brooches & Lapel Pins",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Accessories",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Barebone Computers",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbags, Wallets & Cases",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Service",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stylus Pens",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stage Equipment",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Walkers & Entertainers",
+    "parent_name": "Baby Toys & Activity Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Bowl Mats",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vanities",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptop Replacement Speakers",
+    "parent_name": "Laptop Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signage",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard Trays & Platforms",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Input Device Accessories",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Law Enforcement",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Adapters",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptop Parts",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Advertising & Marketing",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Chartplotters & GPS",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thin Client Computers",
+    "parent_name": "Thin & Zero Clients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio & Video Splitters & Switches",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speed Radars",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desktop Computers",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallets & Money Clips",
+    "parent_name": "Handbags, Wallets & Cases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Name Plates",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Correction Fluids, Pens & Tapes",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "DJ & Specialty Audio",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless Transmitters",
+    "parent_name": "Stage Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Road & Traffic Signs",
+    "parent_name": "Signage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scanner Accessories",
+    "parent_name": "Print, Copy, Scan & Fax",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business Forms & Receipts",
+    "parent_name": "Paper Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thin & Zero Clients",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magazines & Newspapers",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sheet Music",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signal Boosters",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Components",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptops",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Print, Copy, Scan & Fax",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sticky Notes",
+    "parent_name": "Paper Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supply Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Consoles",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mining & Quarrying",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computers",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Steps & Ramps",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impulse Sealers",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Waste Bags",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cable Management",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Toys & Activity Equipment",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "3D Printers",
+    "parent_name": "Print, Copy, Scan & Fax",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Badge & Pass Holders",
+    "parent_name": "Handbags, Wallets & Cases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cables",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard & Mouse Wrist Rests",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Stands & Rests",
+    "parent_name": "Book Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rubber Bands",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paper Products",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tablet Computers",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Product Manuals",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliance Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communications",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ottomans",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cabinets & Storage",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dental Tools",
+    "parent_name": "Dentistry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptop Docking Stations",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Electronics",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General Office Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Potty Training",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio & Video Cables",
+    "parent_name": "Cables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Controls",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Public Address Systems",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Racks & Mounts",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Sunscreen",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Patch Panels",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watches",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Religious & Ceremonial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wine Racks",
+    "parent_name": "Cabinets & Storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Smart Glasses",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoes",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Index Cards",
+    "parent_name": "Paper Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage & Data Transfer Cables",
+    "parent_name": "Cables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire & Cable Identification Markers",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  }
+]

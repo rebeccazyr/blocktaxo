@@ -1,0 +1,997 @@
+[
+  {
+    "child_name": "Salad Dressing",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Supplies",
+    "parent_name": "Animals & Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Duffel Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bean Paste",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Brackets & Reinforcement Braces",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riveting Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Pumps",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnetizers & Demagnetizers",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Containment Systems",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wall Socket Controls & Sensors",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Protective Coatings & Sealants",
+    "parent_name": "Building Consumables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Leash Extensions",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tools",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pickled Fruits & Vegetables",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drain Components",
+    "parent_name": "Plumbing Fixture Hardware & Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry Holders",
+    "parent_name": "Jewelry Cleaning & Care",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Staircases",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cigars",
+    "parent_name": "Tobacco Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Staples",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Building Consumables",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Leis",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Door Accessories",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drop Cloths",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Socket Drivers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backpacks",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Freeze Sprays",
+    "parent_name": "Chemicals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Grooming Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wedge Tools",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Safety Tethers",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Driver Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coils",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chain, Wire & Rope",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Putty Knives & Scrapers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hammer Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Planers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Papayas",
+    "parent_name": "Fresh & Frozen Fruits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Olives & Capers",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paint Tool Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drain Liners",
+    "parent_name": "Drain Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tobacco Products",
+    "parent_name": "Food, Beverages & Tobacco",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise Wedges",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marking Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sport Safety Lights & Reflectors",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hummus",
+    "parent_name": "Dips & Spreads",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Juice",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Masonry Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Solar Energy Kits",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pasta Sauce",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Smoking Pipes",
+    "parent_name": "Tobacco Products",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Screwdrivers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Tool Batteries",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heat Guns",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shutters",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pickup Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Faucet Accessories",
+    "parent_name": "Plumbing Fixture Hardware & Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing Repair Kits",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ab Wheels & Rollers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Keys",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coffee",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cosmetic & Toiletry Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Milk",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ladder Carts",
+    "parent_name": "Ladders & Scaffolding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Deburrers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hot Sauce",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cheese Dips & Spreads",
+    "parent_name": "Dips & Spreads",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sunglasses",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Salsa",
+    "parent_name": "Dips & Spreads",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ladders & Scaffolding",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magazines & Newspapers",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Levelers",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry Cleaning & Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Voltage Transformers & Regulators",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Oral Care Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sugar & Sweeteners",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paint Brush Cleaning Solutions",
+    "parent_name": "Paint Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing Fixture Hardware & Parts",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Condiments & Sauces",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hammers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drains",
+    "parent_name": "Plumbing Fixture Hardware & Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Automation Kits",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "De-icers",
+    "parent_name": "Chemicals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Light Bulb Changers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Conduit & Housings",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Key Blanks",
+    "parent_name": "Locks & Keys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ground Spikes",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sprinkler, Booster & Irrigation System Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Towers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drills",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power & Electrical Supplies",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Party & Celebration",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baking Chocolate",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Items",
+    "parent_name": "Food, Beverages & Tobacco",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Wires & Cable",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pipe Brushes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Masonry Trowels",
+    "parent_name": "Masonry Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Eggnog",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cocktail Sauce",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing Wastes",
+    "parent_name": "Drain Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dowel Pins & Rods",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beverages",
+    "parent_name": "Food, Beverages & Tobacco",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Horseradish Sauce",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multifunction Power Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inspection Mirrors",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dips & Spreads",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cardio",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pipe & Bar Benders",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flour",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reamers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plungers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Waste Disposal Systems & Tools",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise Balls",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cutters",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food Coloring",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gloves & Mittens",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fanny Packs",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Candy & Chocolate",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Locks & Latches",
+    "parent_name": "Locks & Keys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jigs",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor Games",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concrete & Masonry Cleaners",
+    "parent_name": "Chemicals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carbon Brushes",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cooking Wine",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Push Up & Pull Up Bars",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire Terminals & Connectors",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mustard",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Acid Neutralizers",
+    "parent_name": "Chemicals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Building Materials",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool, Fountain & Pond Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Armatures, Rotors & Stators",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Tape",
+    "parent_name": "Building Consumables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Moving & Soundproofing Blankets & Covers",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plumbing",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Painting Consumables",
+    "parent_name": "Building Consumables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speed & Resistance Parachutes",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cooking & Baking Ingredients",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food, Beverages & Tobacco",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dessert Toppings",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Appliance Pumps",
+    "parent_name": "Hardware Pumps",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise Bands",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chemicals",
+    "parent_name": "Building Consumables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fresh & Frozen Fruits",
+    "parent_name": "Fruits & Vegetables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pasta & Noodles",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Powered Hammers",
+    "parent_name": "Hammers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Candied & Chocolate Covered Fruit",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wall Jacks & Braces",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sharpeners",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Corn Syrup",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handheld Power Mixers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Soldering Irons",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Saw Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pneumatic Hoses",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fish Supplies",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Inverters",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Food Containers",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pet Food Scoops",
+    "parent_name": "Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Generator Accessories",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ping Pong",
+    "parent_name": "Indoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electrical Conduit",
+    "parent_name": "Conduit & Housings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Timers",
+    "parent_name": "Plumbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carpentry Jointers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Post Base Plates",
+    "parent_name": "Hardware Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vinegar",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shaper Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ladders",
+    "parent_name": "Ladders & Scaffolding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Passion Fruit",
+    "parent_name": "Fresh & Frozen Fruits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Files",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel Containers & Tanks",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighters & Matches",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Locks & Keys",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire & Cable Hand Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Syrup",
+    "parent_name": "Condiments & Sauces",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbag & Wallet Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Post Hole Diggers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cement Mixers",
+    "parent_name": "Masonry Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mattocks & Pickaxes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baking Powder",
+    "parent_name": "Cooking & Baking Ingredients",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Milling Machines",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fruits & Vegetables",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise & Fitness",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Solder & Flux",
+    "parent_name": "Building Consumables",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Propane",
+    "parent_name": "Fuel",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Newspapers",
+    "parent_name": "Magazines & Newspapers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Aerobic Steps",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Work Lights",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Prepared Foods",
+    "parent_name": "Food Items",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Prepared Appetizers & Side Dishes",
+    "parent_name": "Prepared Foods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ballasts & Starters",
+    "parent_name": "Power & Electrical Supplies",
+    "relation_type": "IsA"
+  }
+]

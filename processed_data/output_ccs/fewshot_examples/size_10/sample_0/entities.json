@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Multiple instruction, single data"
+  },
+  {
+    "name": "Single instruction, multiple data"
+  },
+  {
+    "name": "Computer systems organization"
+  },
+  {
+    "name": "Architectures"
+  },
+  {
+    "name": "Embedded systems"
+  },
+  {
+    "name": "Real-time systems"
+  },
+  {
+    "name": "Systolic arrays"
+  },
+  {
+    "name": "Parallel architectures"
+  },
+  {
+    "name": "Computing Classification System"
+  },
+  {
+    "name": "Embedded and cyber-physical systems"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "Empirical studies in accessibility",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction techniques",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical software",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Models of computation",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous mathematics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thermal issues",
+    "parent_name": "Power and energy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Record storage systems",
+    "parent_name": "Information storage systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated circuits",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gestural input",
+    "parent_name": "Interaction techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User studies",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security and privacy",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction devices",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "User models",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hybrid symbolic-numeric methods",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware attacks and countermeasures",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Test-pattern generation and fault simulation",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Measurement",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exact arithmetic algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Board- and system-level test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design and analysis of algorithms",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automata extensions",
+    "parent_name": "Formal languages and automata theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and energy",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware reliability screening",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document representation",
+    "parent_name": "Information retrieval",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Graph theory",
+    "parent_name": "Discrete mathematics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Statistical software",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Optimization algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cross-computing tools and techniques",
+    "parent_name": "General and reference",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intrusion/anomaly detection and malware mitigation",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design theory, concepts and paradigms",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Intrusion detection systems",
+    "parent_name": "Intrusion/anomaly detection and malware mitigation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in interaction design",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Formal languages and automata theory",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous functions",
+    "parent_name": "Continuous mathematics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling and simulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "HCI design and evaluation methods",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functional verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information systems",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Discrete mathematics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinatoric problems",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboards",
+    "parent_name": "Interaction devices",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spectra of graphs",
+    "parent_name": "Graph theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Matchings and factors",
+    "parent_name": "Graph theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility theory, concepts and paradigms",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Walkthrough evaluations",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Experimentation",
+    "parent_name": "Cross-computing tools and techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information theory",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information retrieval",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Extremal graph theory",
+    "parent_name": "Graph theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems and tools for interaction design",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Equivalence checking",
+    "parent_name": "Functional verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networks",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paths and connectivity problems",
+    "parent_name": "Graph theory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware test",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Digital switches",
+    "parent_name": "Integrated circuits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware validation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing methodologies",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Combinatorics",
+    "parent_name": "Discrete mathematics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Database and storage security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network performance evaluation",
+    "parent_name": "Networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Number theory algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Defect-based test",
+    "parent_name": "Hardware test",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information accountability and usage control",
+    "parent_name": "Database and storage security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware security implementation",
+    "parent_name": "Security in hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human computer interaction (HCI)",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic algorithms",
+    "parent_name": "Symbolic and algebraic manipulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modeling methodologies",
+    "parent_name": "Model development and analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information storage systems",
+    "parent_name": "Information systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Artificial intelligence",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Symbolic and algebraic manipulation",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and application security",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing devices",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Model development and analysis",
+    "parent_name": "Modeling and simulation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Usability testing",
+    "parent_name": "HCI design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algebraic algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility technologies",
+    "parent_name": "Accessibility",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nonparametric statistics",
+    "parent_name": "Probability and statistics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parallel computing methodologies",
+    "parent_name": "Computing methodologies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social network analysis",
+    "parent_name": "Collaborative and social computing design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probability and statistics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Permutations and combinations",
+    "parent_name": "Combinatorics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human and societal aspects of security and privacy",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nonalgebraic algorithms",
+    "parent_name": "Symbolic and algebraic algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical software performance",
+    "parent_name": "Mathematical software",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security in hardware",
+    "parent_name": "Security and privacy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Distributed systems security",
+    "parent_name": "Systems security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing design and evaluation methods",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document structure",
+    "parent_name": "Document representation",
+    "relation_type": "IsA"
+  }
+]

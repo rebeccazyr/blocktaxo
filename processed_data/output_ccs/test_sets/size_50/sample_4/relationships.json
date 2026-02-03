@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "Wireless integrated network sensors",
+    "parent_name": "Communication hardware, interfaces and storage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quadrature",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction techniques",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human computer interaction (HCI)",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Branch-and-bound",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Streaming, sublinear and near linear time algorithms",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Continuous mathematics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Physical verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in collaborative and social computing",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software and its engineering",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Differential equations",
+    "parent_name": "Mathematical analysis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Design and analysis of algorithms",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and energy",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Human-centered computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematical analysis",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General and reference",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semi-formal verification",
+    "parent_name": "Functional verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated circuits",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Layout-versus-schematics",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization application domains",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed circuit boards",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communication hardware, interfaces and storage",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visualization systems and tools",
+    "parent_name": "Visualization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Information visualization",
+    "parent_name": "Visualization application domains",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireframes",
+    "parent_name": "Systems and tools for interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Systems and tools for interaction design",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social and professional topics",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computing / technology policy",
+    "parent_name": "Social and professional topics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Divide and conquer",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backtracking",
+    "parent_name": "Algorithm design techniques",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mathematics of computing",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power and thermal analysis",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory and algorithms for application domains",
+    "parent_name": "Theory of computation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design theory, concepts and paradigms",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Social network analysis",
+    "parent_name": "Collaborative and social computing design and evaluation methods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Probability and statistics",
+    "parent_name": "Mathematics of computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design process and methods",
+    "parent_name": "Interaction design",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Empirical studies in HCI",
+    "parent_name": "Human computer interaction (HCI)",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Interaction design",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Timing analysis and sign-off",
+    "parent_name": "Physical verification",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware validation",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Algorithm design techniques",
+    "parent_name": "Design and analysis of algorithms",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Functional verification",
+    "parent_name": "Hardware validation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Collaborative and social computing design and evaluation methods",
+    "parent_name": "Collaborative and social computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accessibility",
+    "parent_name": "Human-centered computing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Theory of computation",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  }
+]

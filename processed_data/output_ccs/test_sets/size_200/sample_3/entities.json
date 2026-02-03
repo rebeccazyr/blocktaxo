@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Mathematical software"
+  },
+  {
+    "name": "Design rule checking"
+  },
+  {
+    "name": "VLSI packaging"
+  },
+  {
+    "name": "Analog and mixed-signal circuit optimization"
+  },
+  {
+    "name": "Network mobility"
+  },
+  {
+    "name": "Business process management"
+  },
+  {
+    "name": "Document preparation"
+  },
+  {
+    "name": "Simulation languages"
+  },
+  {
+    "name": "Proteomics"
+  },
+  {
+    "name": "Decision analysis"
+  },
+  {
+    "name": "Design for debug"
+  },
+  {
+    "name": "Static timing analysis"
+  },
+  {
+    "name": "Economics of chip design and manufacturing"
+  },
+  {
+    "name": "Project management techniques"
+  },
+  {
+    "name": "Enterprise data management"
+  },
+  {
+    "name": "Network algorithms"
+  },
+  {
+    "name": "Human-centered computing"
+  },
+  {
+    "name": "General and reference"
+  },
+  {
+    "name": "Operations research"
+  },
+  {
+    "name": "Physical synthesis"
+  },
+  {
+    "name": "Wire routing"
+  },
+  {
+    "name": "Security and privacy"
+  },
+  {
+    "name": "Network privacy and anonymity"
+  },
+  {
+    "name": "Cross-organizational business processes"
+  },
+  {
+    "name": "World Wide Web (network structure)"
+  },
+  {
+    "name": "Computer forensics"
+  },
+  {
+    "name": "Circuit complexity"
+  },
+  {
+    "name": "Web services"
+  },
+  {
+    "name": "Applied computing"
+  },
+  {
+    "name": "Proof complexity"
+  },
+  {
+    "name": "Packaging"
+  },
+  {
+    "name": "Side-channel analysis and countermeasures"
+  },
+  {
+    "name": "Software reliability"
+  },
+  {
+    "name": "Testing with distributed and parallel systems"
+  },
+  {
+    "name": "Hybrid symbolic-numeric methods"
+  },
+  {
+    "name": "Simulation theory"
+  },
+  {
+    "name": "Computing occupations"
+  },
+  {
+    "name": "Mobile ad hoc networks"
+  },
+  {
+    "name": "Physical sciences and engineering"
+  },
+  {
+    "name": "Arts and humanities"
+  },
+  {
+    "name": "Network range"
+  },
+  {
+    "name": "Computer-managed instruction"
+  },
+  {
+    "name": "Hardware attacks and countermeasures"
+  },
+  {
+    "name": "Project and people management"
+  },
+  {
+    "name": "Software creation and management"
+  },
+  {
+    "name": "Design rules"
+  },
+  {
+    "name": "Timing analysis"
+  },
+  {
+    "name": "Home networks"
+  },
+  {
+    "name": "Hardware"
+  },
+  {
+    "name": "Marketing"
+  },
+  {
+    "name": "Post-manufacture validation and debug"
+  },
+  {
+    "name": "Education"
+  },
+  {
+    "name": "Genetics"
+  },
+  {
+    "name": "Analog and mixed-signal circuits"
+  },
+  {
+    "name": "Compact delay models"
+  },
+  {
+    "name": "Design and analysis of algorithms"
+  },
+  {
+    "name": "Power and energy"
+  },
+  {
+    "name": "Board- and system-level test"
+  },
+  {
+    "name": "Hardware reliability screening"
+  },
+  {
+    "name": "Visibility"
+  },
+  {
+    "name": "General literature"
+  },
+  {
+    "name": "Enterprise application integration"
+  },
+  {
+    "name": "Collaborative and social computing"
+  },
+  {
+    "name": "Simulation evaluation"
+  },
+  {
+    "name": "Crowdsourcing"
+  },
+  {
+    "name": "Statistical software"
+  },
+  {
+    "name": "Cross-computing tools and techniques"
+  },
+  {
+    "name": "Bioinformatics"
+  },
+  {
+    "name": "Distributed computing methodologies"
+  },
+  {
+    "name": "Theory and algorithms for application domains"
+  },
+  {
+    "name": "Ubiquitous and mobile computing theory, concepts and paradigms"
+  },
+  {
+    "name": "Collision detection"
+  },
+  {
+    "name": "Enterprise interoperability"
+  },
+  {
+    "name": "Simulation support systems"
+  },
+  {
+    "name": "Concurrent computing methodologies"
+  },
+  {
+    "name": "Management of computing and information systems"
+  },
+  {
+    "name": "Solvers"
+  },
+  {
+    "name": "Very long-range networks"
+  },
+  {
+    "name": "Information system economics"
+  },
+  {
+    "name": "Network design principles"
+  },
+  {
+    "name": "Modeling and simulation"
+  },
+  {
+    "name": "Wireless local area networks"
+  },
+  {
+    "name": "Archaeology"
+  },
+  {
+    "name": "Image compression"
+  },
+  {
+    "name": "Metropolitan area networks"
+  },
+  {
+    "name": "Computational complexity and cryptography"
+  },
+  {
+    "name": "Theory of computation"
+  },
+  {
+    "name": "Information systems"
+  },
+  {
+    "name": "Printers"
+  },
+  {
+    "name": "Computing education"
+  },
+  {
+    "name": "Ubiquitous and mobile computing"
+  },
+  {
+    "name": "In-network processing"
+  },
+  {
+    "name": "Web applications"
+  },
+  {
+    "name": "Enterprise computing"
+  },
+  {
+    "name": "Discrete calculus algorithms"
+  },
+  {
+    "name": "Wide area networks"
+  },
+  {
+    "name": "Electronic design automation"
+  },
+  {
+    "name": "Software and its engineering"
+  },
+  {
+    "name": "Network structure"
+  },
+  {
+    "name": "Cryptographic protocols"
+  },
+  {
+    "name": "Business-IT alignment"
+  },
+  {
+    "name": "Computing and business"
+  },
+  {
+    "name": "Layering"
+  },
+  {
+    "name": "Linear algebra algorithms"
+  },
+  {
+    "name": "Software system structures"
+  },
+  {
+    "name": "Extra-functional properties"
+  },
+  {
+    "name": "Printed circuit boards"
+  },
+  {
+    "name": "Short-range networks"
+  },
+  {
+    "name": "Clock generation and timing"
+  },
+  {
+    "name": "System management"
+  },
+  {
+    "name": "Life and medical sciences"
+  },
+  {
+    "name": "Computing Classification System"
+  },
+  {
+    "name": "Ad hoc networks"
+  },
+  {
+    "name": "Impact on the environment"
+  },
+  {
+    "name": "Social and professional topics"
+  },
+  {
+    "name": "K-12 education"
+  },
+  {
+    "name": "Genomics"
+  },
+  {
+    "name": "Network architectures"
+  },
+  {
+    "name": "History of computing"
+  },
+  {
+    "name": "Animation"
+  },
+  {
+    "name": "Media arts"
+  },
+  {
+    "name": "Networks"
+  },
+  {
+    "name": "Network reliability"
+  },
+  {
+    "name": "Simulation types and techniques"
+  },
+  {
+    "name": "Hardware test"
+  },
+  {
+    "name": "Search-based software engineering"
+  },
+  {
+    "name": "Hardware validation"
+  },
+  {
+    "name": "Biographies"
+  },
+  {
+    "name": "Economic impact"
+  },
+  {
+    "name": "Computing methodologies"
+  },
+  {
+    "name": "Electrical-level simulation"
+  },
+  {
+    "name": "System forensics"
+  },
+  {
+    "name": "Software fault tolerance"
+  },
+  {
+    "name": "Physical design (EDA)"
+  },
+  {
+    "name": "Business rules"
+  },
+  {
+    "name": "Interoperability"
+  },
+  {
+    "name": "E-learning"
+  },
+  {
+    "name": "Document types"
+  },
+  {
+    "name": "Software performance"
+  },
+  {
+    "name": "Health informatics"
+  },
+  {
+    "name": "Network properties"
+  },
+  {
+    "name": "Engineering"
+  },
+  {
+    "name": "Interactive simulation"
+  },
+  {
+    "name": "Quantum mechanic simulation"
+  },
+  {
+    "name": "World Wide Web"
+  },
+  {
+    "name": "Network dynamics"
+  },
+  {
+    "name": "Software organization and properties"
+  },
+  {
+    "name": "Wired access networks"
+  },
+  {
+    "name": "Visualization"
+  },
+  {
+    "name": "Symbolic and algebraic algorithms"
+  },
+  {
+    "name": "Rendering"
+  },
+  {
+    "name": "Data center networks"
+  },
+  {
+    "name": "Design for testability"
+  },
+  {
+    "name": "Performing arts"
+  },
+  {
+    "name": "Mathematical foundations of cryptography"
+  },
+  {
+    "name": "Physical verification"
+  },
+  {
+    "name": "Electromagnetic interference and compatibility"
+  },
+  {
+    "name": "Privacy protections"
+  },
+  {
+    "name": "Funding"
+  },
+  {
+    "name": "Procedural animation"
+  },
+  {
+    "name": "Accreditation"
+  },
+  {
+    "name": "PCB design and layout"
+  },
+  {
+    "name": "Radio frequency and wireless circuits"
+  },
+  {
+    "name": "Systems biology"
+  },
+  {
+    "name": "Symbolic and algebraic manipulation"
+  },
+  {
+    "name": "Computer graphics"
+  },
+  {
+    "name": "Event-driven architectures"
+  },
+  {
+    "name": "Wireless devices"
+  },
+  {
+    "name": "Implementation management"
+  },
+  {
+    "name": "Computing profession"
+  },
+  {
+    "name": "Computer-assisted instruction"
+  },
+  {
+    "name": "Cryptography"
+  },
+  {
+    "name": "Communication hardware, interfaces and storage"
+  },
+  {
+    "name": "Shape modeling"
+  },
+  {
+    "name": "Computing / technology policy"
+  },
+  {
+    "name": "Wireless access networks"
+  },
+  {
+    "name": "Chemistry"
+  },
+  {
+    "name": "Professional topics"
+  },
+  {
+    "name": "Model development and analysis"
+  },
+  {
+    "name": "Mathematics of computing"
+  },
+  {
+    "name": "Local area networks"
+  },
+  {
+    "name": "Power and thermal analysis"
+  },
+  {
+    "name": "Programming interfaces"
+  },
+  {
+    "name": "Network services"
+  },
+  {
+    "name": "Discrete-event simulation"
+  },
+  {
+    "name": "Algebraic algorithms"
+  },
+  {
+    "name": "Massively parallel and high-performance simulations"
+  },
+  {
+    "name": "Document management and text processing"
+  },
+  {
+    "name": "Network management"
+  },
+  {
+    "name": "Physics"
+  },
+  {
+    "name": "Overlay and other logical network structures"
+  },
+  {
+    "name": "Human and societal aspects of security and privacy"
+  },
+  {
+    "name": "Very large scale integration design"
+  },
+  {
+    "name": "Tactile and hand-based interfaces"
+  },
+  {
+    "name": "Mathematical software performance"
+  },
+  {
+    "name": "Security in hardware"
+  },
+  {
+    "name": "Network economics"
+  },
+  {
+    "name": "Approximation algorithms analysis"
+  },
+  {
+    "name": "Network types"
+  },
+  {
+    "name": "Packet-switching networks"
+  }
+]

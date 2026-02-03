@@ -1,0 +1,47 @@
+[
+  {
+    "child_name": "Maintainability and maintenance",
+    "parent_name": "Dependable and fault-tolerant systems and networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Processors and memory architectures",
+    "parent_name": "Dependable and fault-tolerant systems and networks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Architectures",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dependable and fault-tolerant systems and networks",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Embedded and cyber-physical systems",
+    "parent_name": "Computer systems organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer systems organization",
+    "parent_name": "Computing Classification System",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Real-time languages",
+    "parent_name": "Real-time systems",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fault-tolerant network topologies",
+    "parent_name": "Dependable and fault-tolerant systems and networks",
+    "relation_type": "IsA"
+  }
+]

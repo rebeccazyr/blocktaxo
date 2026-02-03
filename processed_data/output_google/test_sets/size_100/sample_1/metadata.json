@@ -1,0 +1,11 @@
+{
+  "taxonomy_id": "google_taxo_test_size100_sample1",
+  "domain": "CCS",
+  "num_nodes": 100,
+  "num_edges": 99,
+  "root_node": "GOOGLE_TAXONOMY_ROOT",
+  "root_node_name": "Google Product Taxonomy",
+  "extraction_method": "test_from_outside_pool",
+  "source_type": "google_xls",
+  "source_path": "google_product_taxonomy-with-ids.en-US.xls"
+}

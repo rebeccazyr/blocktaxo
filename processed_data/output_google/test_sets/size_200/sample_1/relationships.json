@@ -1,0 +1,997 @@
+[
+  {
+    "child_name": "Medical Furniture",
+    "parent_name": "Medical",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Burp Cloths",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Console Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laminating Film, Pouches & Sheets",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riding Toy Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dentistry",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antenna Mounts & Brackets",
+    "parent_name": "Antenna Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Educational Flash Cards",
+    "parent_name": "Educational Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Accessories",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbags, Wallets & Cases",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Educational Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Industrial Storage Accessories",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dolls, Playsets & Toy Figures",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laser Pointers",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Mounts",
+    "parent_name": "GPS Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ball Pit Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Game Timers",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skee-Ball Machines",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stylus Pens",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Caller IDs",
+    "parent_name": "Communications",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "American Football Toys",
+    "parent_name": "Sports Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Transmitters",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Memory Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Covers & Skins",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suspenders",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Accelerometers",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handheld Devices",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keychains",
+    "parent_name": "Handbag & Wallet Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Shredders",
+    "parent_name": "Office Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Furniture",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Document Cameras",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard Trays & Platforms",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Safety Rails",
+    "parent_name": "Baby Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Game Console Accessories",
+    "parent_name": "Video Game Console Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beach & Sand Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dollhouses",
+    "parent_name": "Dolls, Playsets & Toy Figures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Easels",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flying Toy Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modulators",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio & Video Splitters & Switches",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office & Chair Mats",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Radios",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise & Fitness Equipment Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Vehicle Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Name Plates",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Components",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys & Games",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antenna Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beakers",
+    "parent_name": "Laboratory Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printers, Copiers & Fax Machines",
+    "parent_name": "Print, Copy, Scan & Fax",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reading Toys",
+    "parent_name": "Educational Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Accessories",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business Card Cases",
+    "parent_name": "Handbags, Wallets & Cases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Thin & Zero Clients",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Astronomy Toys & Models",
+    "parent_name": "Educational Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boomerangs",
+    "parent_name": "Sports Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Label Makers",
+    "parent_name": "Office Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "3D Printer Accessories",
+    "parent_name": "Print, Copy, Scan & Fax",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Cabinets",
+    "parent_name": "Medical Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Karaoke System Accessories",
+    "parent_name": "Audio Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Passive Circuit Components",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Biochemicals",
+    "parent_name": "Science & Laboratory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Presentation Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ant Farms",
+    "parent_name": "Educational Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Converters",
+    "parent_name": "Converters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Science & Laboratory",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mattresses",
+    "parent_name": "Beds & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sheet Music",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Automation Control Components",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Basketball Toys",
+    "parent_name": "Sports Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shipping Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wooden & Pegged Puzzles",
+    "parent_name": "Puzzles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Basketball Arcade Games",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wedding Ceremony Supplies",
+    "parent_name": "Religious & Ceremonial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chair Mats",
+    "parent_name": "Office & Chair Mats",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Equipment",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Turntables & Record Players",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptops",
+    "parent_name": "Computers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ball Pits",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Retail",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Executive Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Print, Copy, Scan & Fax",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Cases",
+    "parent_name": "GPS Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sports Toy Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Components",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supply Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Consoles",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lap Desks",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallet Chains",
+    "parent_name": "Handbag & Wallet Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sectional Sofa Units",
+    "parent_name": "Sofa Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computers",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paper Clips & Clamps",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Book Lights",
+    "parent_name": "Book Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Bottles",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Impulse Sealers",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sports Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bug Collecting Kits",
+    "parent_name": "Educational Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical Bedding",
+    "parent_name": "Medical",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Multiplexers",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medical",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Editing Hardware & Production Equipment",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cable Management",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit Boards & Components",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sofa Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "MiniDisc Players & Recorders",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Erasers",
+    "parent_name": "General Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Building Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chairs",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gloves & Mittens",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard & Mouse Wrist Rests",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Component Connectors",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Players & Recorders",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Product Manuals",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Musical Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communications",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desk Pads & Blotters",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antennas",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Safety",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music & Sound Recordings",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Splitters",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Televisions",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breast Milk Storage Containers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptop Docking Stations",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mounting Boards",
+    "parent_name": "Display Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arm Chairs, Recliners & Sleeper Chairs",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tablet Computer Docks & Stands",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chair Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cable Tie Guns",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnet Toys",
+    "parent_name": "Executive Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hotel & Hospitality",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing Pillow Covers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paper & Magnetic Dolls",
+    "parent_name": "Dolls, Playsets & Toy Figures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Doll & Action Figure Accessories",
+    "parent_name": "Dolls, Playsets & Toy Figures",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General Office Supplies",
+    "parent_name": "Office Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Navigation Systems",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ring Pillows & Holders",
+    "parent_name": "Wedding Ceremony Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Converters",
+    "parent_name": "Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Potty Training",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Headboards & Footboards",
+    "parent_name": "Beds & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Forestry & Logging",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fitness Toys",
+    "parent_name": "Sports Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futon Pads",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed Circuit Boards",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cable Trays",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futon Frames",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic Dictionaries & Translators",
+    "parent_name": "Office Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fitness Toy Accessories",
+    "parent_name": "Sports Toy Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riding Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beds & Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Controls",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Live Animals",
+    "parent_name": "Animals & Pet Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Puzzles",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bean Bag Chairs",
+    "parent_name": "Chairs",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Gift Baskets",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Film & Television",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Racquet Sport Toys",
+    "parent_name": "Sports Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire & Cable Sleeves",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heavy Machinery",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing & Feeding",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carpentry & Woodworking Project Plans",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shelving Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laboratory Supplies",
+    "parent_name": "Science & Laboratory",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Religious & Ceremonial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Examination Chairs & Tables",
+    "parent_name": "Medical Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Vehicles",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbag & Wallet Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Display Boards",
+    "parent_name": "Presentation Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoes",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mechanical Puzzles",
+    "parent_name": "Puzzles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Material Handling",
+    "parent_name": "Business & Industrial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semiconductors",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing Pads & Shields",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boomboxes",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Resistors",
+    "parent_name": "Passive Circuit Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arcade Equipment",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Karaoke Systems",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile Phone & Tablet Tripods & Monopods",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  }
+]

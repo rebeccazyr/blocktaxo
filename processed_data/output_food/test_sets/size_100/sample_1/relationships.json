@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "nettle soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hors d'oeuvres",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ready brek",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tacacá",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rasam",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ganjang",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gulgukbap",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soyo",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dalithoy",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate covered fruit",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "just right",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate assortments",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomato soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oats",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hyderabadi marag",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "halfsies",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pea soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "body buddies",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prežganka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kapusniak",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mykyrokka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boiled sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cornmeal",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "olives and capers",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "raisin bran",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "porra antequerana",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ponzu",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "magiritsa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "licorice",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanut butter cups",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salvitxada",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peach sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mulligatawny",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "macaroni soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cereals",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pecel",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nali sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "empal gentong",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "scott's porage oats",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "black soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "buc wheats cereal",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bún bò huế",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wodzionka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cucumber soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dessert",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "béarnaise sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wheat",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tian mo",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "senate bean soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "quinoa",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marshmallow sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup alla canavese",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vori vori",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mannish water",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caldo verde",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kream krunch",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy corn",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocos",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cröonchy stars",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "curry sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sour cherry soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "draw soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gazpacho",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fanesca",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ribollita",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "suaasat",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bún mắm",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sour soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "psarosoupa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey nut clusters",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "raisin wheats",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rassolnik",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "siemieniotka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tartar sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spring soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tekwan",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "waffle crisp",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "golden nuggets",
+    "parent_name": "breakfast cereal",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nougat",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "breakfast cereal",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "leek soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tom kha kai",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taffy",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "miso soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jelly beans",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "condiment",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "consommé",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pesto",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rye",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sujebi",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rawon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  }
+]

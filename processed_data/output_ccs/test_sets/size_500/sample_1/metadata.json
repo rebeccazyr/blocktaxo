@@ -1,0 +1,11 @@
+{
+  "taxonomy_id": "ccs_test_size500_sample1",
+  "domain": "CCS",
+  "num_nodes": 500,
+  "num_edges": 499,
+  "root_node": "ccs2012",
+  "root_node_name": "Computing Classification System",
+  "extraction_method": "test_from_outside_pool",
+  "source_type": "xml",
+  "source_path": "ccs_acm_ccs2012_cleaned.xml"
+}

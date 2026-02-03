@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "yu choy",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate truffles",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen yoghurt",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caramels",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mangos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taro root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "watercress",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tangelos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rye",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "squashes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gobo root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grapes",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cabbage",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vegetable",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chewing gum",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit chews",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "popsicles",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "amaranth",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cereals",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "butter and margarine",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lunch meats",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grits",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "potatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "asparagus",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cottage cheese",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kohlrabi",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rocket",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate assortments",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit salad",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "papayas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yucca root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jelly beans",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beverage",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "carrots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oats",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prickly pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rutabagas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee brittle",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dessert",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "celery",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yoghurt",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  }
+]

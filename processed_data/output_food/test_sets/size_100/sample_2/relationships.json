@@ -1,0 +1,497 @@
+[
+  {
+    "child_name": "chistorra",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pleşcoi sausages",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lincolnshire sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kaszanka",
+    "parent_name": "black pudding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "siskonmakkara",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "regensburger wurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "restructured steak",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "alheira",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fuet",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "debrecener",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "standing rib roast",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "potatiskorv",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakery",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "starfruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bratwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "plums",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liverwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bananas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dip",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sausage",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "guavas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ice cream",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "krakowska",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "suet",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "black pudding",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jams and preserves",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boerewors",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soursops",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babacos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "weckewerk",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "diot",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lebanon bologna",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "paio",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bregenwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apricots",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pomegranates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pølser",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "atemoyas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kiwis",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "andouillette",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "stonner kebab",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "summer sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beef",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cream cheese",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frankfurter rindswurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kishka",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dessert",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mamey",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "feijoas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen yoghurt",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "madroã±o",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ahle wurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "thuringian sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bologna sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tangelos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "weisswurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "currants",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grapefruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bresaola",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mustamakkara",
+    "parent_name": "black pudding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dragonfruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seeds",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "avocados",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "češnovka",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ryynimakkara",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sobrassada",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apple butter",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "andouille",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yonezawa beef",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pistachios",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rambutans",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "secca de bœuf",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "loquats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tapenade",
+    "parent_name": "dip",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nectarines",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ciavàr",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mettwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pepper",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "popsicles",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat patties",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "limequats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gelbwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sapodillo",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kulen",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taffy",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pineapples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn dog",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "newmarket sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  }
+]

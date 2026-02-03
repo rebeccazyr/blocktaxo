@@ -1,0 +1,2497 @@
+[
+  {
+    "child_name": "Vacuum Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decor",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiards",
+    "parent_name": "Indoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backrest Pillows",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skate Helmets",
+    "parent_name": "Skateboarding Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Modem Accessories",
+    "parent_name": "Networking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medicine Cabinets",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Conditioner Covers",
+    "parent_name": "Air Conditioner Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hourglasses",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laundry Baskets",
+    "parent_name": "Laundry Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Bottles",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing Webbing",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clocks",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Input Device Accessories",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Moisture Absorbers",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard Trays & Platforms",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Homebrewing & Winemaking Supplies",
+    "parent_name": "Hobbies & Creative Arts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flag & Windsock Pole Mounting Hardware & Kits",
+    "parent_name": "Flag & Windsock Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heating, Ventilation & Air Conditioning",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ice Screws",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Putty Knives & Scrapers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Weather Vanes & Roof Decor",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Axes",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Backplates & I/O Shields",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Coat & Hat Racks",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plants",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pedal Boats",
+    "parent_name": "Boating & Rafting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Radios",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stylus Pen Nibs & Refills",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Equestrian",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Windsurfing",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Tables",
+    "parent_name": "Billiards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys & Games",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nativity Sets",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tap Reseaters",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cigar Cutters & Punches",
+    "parent_name": "Smoking Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "USB & FireWire Hubs",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Tracking Devices",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skateboarding Protective Gear",
+    "parent_name": "Skateboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Passive Circuit Components",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Athletics",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Forks",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tetherball",
+    "parent_name": "Outdoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool Cleaners & Chemicals",
+    "parent_name": "Pool & Spa Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird Baths",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Event Tickets",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motor Vehicle Trailers",
+    "parent_name": "Vehicle Storage & Cargo",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Door Hardware",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ski & Snowboard Wax",
+    "parent_name": "Skiing & Snowboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Components",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breast Pumps",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garage Floor Mats",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Goals",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Disco Balls",
+    "parent_name": "Special Effects",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Ball Racks",
+    "parent_name": "Billiards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Microphone Stands",
+    "parent_name": "Audio Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Party & Celebration",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit Prototyping",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Linens & Bedding",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floor & Steam Cleaner Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Accessories",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hobbies & Creative Arts",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flood, Fire & Gas Safety",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boxing & Martial Arts Training Equipment",
+    "parent_name": "Boxing & Martial Arts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breadboards",
+    "parent_name": "Circuit Prototyping",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Cleaners",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Cards & Adapters",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard & Mouse Wrist Rests",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Thermometers",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Industrial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Radar Detectors",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Briefcases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Row Boats",
+    "parent_name": "Boating & Rafting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Frames",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Breast Milk Storage Containers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Cleat Accessories",
+    "parent_name": "Cycling Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laptop Docking Stations",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Electronics",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit Board Accessories",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tablet Computer Docks & Stands",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Utility & Cargo Trailers",
+    "parent_name": "Motor Vehicle Trailers",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Brushes",
+    "parent_name": "Shoe Care & Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothespins",
+    "parent_name": "Laundry Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stained Glass Panels",
+    "parent_name": "Window Treatments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music Boxes",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Buoyancy Compensators",
+    "parent_name": "Diving & Snorkeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diving & Snorkeling Equipment Sets",
+    "parent_name": "Diving & Snorkeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing Harnesses",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pickleball",
+    "parent_name": "Outdoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Puzzles",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cigarette Holders",
+    "parent_name": "Smoking Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Cue Racks",
+    "parent_name": "Billiard Cue Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Gift Baskets",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Soda",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diving & Snorkeling Masks",
+    "parent_name": "Diving & Snorkeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Table Parts & Accessories",
+    "parent_name": "Billiards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Field Hockey Sticks",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallpaper Steamers",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dollies & Hand Trucks",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surfboards",
+    "parent_name": "Surfing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "MP3 Players",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fruit Flavored Drinks",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rugby Gloves",
+    "parent_name": "Rugby",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Milling Machines",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Heaters",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mobile Phone & Tablet Tripods & Monopods",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wrestling",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Keyboard Protectors",
+    "parent_name": "Electronics Films & Shields",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swimming",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Deck Shuffleboard",
+    "parent_name": "Outdoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fire Extinguishers",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tetherball Poles",
+    "parent_name": "Tetherball",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Sockets",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Windsurfing Sails",
+    "parent_name": "Windsurfing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dreamcatchers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Play Equipment",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robotic Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras & Optics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stylus Pens",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Films & Shields",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Field Hockey & Lacrosse",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Balls",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Covers & Skins",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Garage Door Keypads & Remotes",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lamp Post Mounts",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sauna Accessories",
+    "parent_name": "Pool & Spa",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Headphone Cushions & Tips",
+    "parent_name": "Headphone & Headset Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boating & Rafting",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Knives",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing Rope",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Marine Chartplotters & GPS",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor & Outdoor Plants",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surfing",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Siding",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lacrosse Training Aids",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wrestling Knee Pads",
+    "parent_name": "Wrestling Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tea & Infusions",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Barcode Scanner Stands",
+    "parent_name": "Input Device Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shopping Totes",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boxing & MMA Punch Mitts",
+    "parent_name": "Boxing & Martial Arts Training Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trunks",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spas",
+    "parent_name": "Pool & Spa",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Microcontrollers",
+    "parent_name": "Semiconductors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Umbrella Sleeves & Cases",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Cranks",
+    "parent_name": "Window Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Development Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wireless Transmitters",
+    "parent_name": "Stage Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tactile Transducers",
+    "parent_name": "Speaker Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jigsaw Puzzle Accessories",
+    "parent_name": "Puzzles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diaper Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flying Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toilet Brushes & Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antenna Rotators",
+    "parent_name": "Antenna Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Arcade Cabinet Accessories",
+    "parent_name": "Arcade Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool & Spa",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Tires",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dehumidifier Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home & Garden",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flowers",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bath Caddies",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shuffleboard Tables",
+    "parent_name": "Table Shuffleboard",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Cars",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Personal Care",
+    "parent_name": "Health & Beauty",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Cables",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lighting Timers",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "I/O Cards & Adapters",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Turntables & Record Players",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "HVAC Controls",
+    "parent_name": "Heating, Ventilation & Air Conditioning",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ball Pits",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Cue Cases",
+    "parent_name": "Billiard Cue Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boxing & Martial Arts",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Executive Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Cases",
+    "parent_name": "GPS Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fish Finders",
+    "parent_name": "Marine Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beverages",
+    "parent_name": "Food, Beverages & Tobacco",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swim Goggle & Mask Accessories",
+    "parent_name": "Swimming",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ice Climbing Tools",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Turntable Accessories",
+    "parent_name": "Audio Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Editing Hardware & Production Equipment",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware Torches",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fire Sprinklers",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Small Parts",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skiing & Snowboarding",
+    "parent_name": "Winter Sports & Activities",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Canoes",
+    "parent_name": "Boating & Rafting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shower Rods",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skateboarding",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "E-Book Reader Accessories",
+    "parent_name": "Handheld Device Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Roller Skis",
+    "parent_name": "Inline & Roller Skating",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Players & Recorders",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Storage & Organization",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor Games",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Molding",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "DVDs & Videos",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Butterfly Feeders",
+    "parent_name": "Bird & Wildlife Feeders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Soccer",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Treatment Replacement Parts",
+    "parent_name": "Window Treatment Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diodes",
+    "parent_name": "Semiconductors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bathroom Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food, Beverages & Tobacco",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bath Pillows",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Headset Parts",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Concrete Brooms",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Field Hockey Goals",
+    "parent_name": "Field Hockey & Lacrosse",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Animals & Pet Supplies",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speaker Accessories",
+    "parent_name": "Audio Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drawer & Shelf Liners",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Controls",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Photography",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Satellite LNBs",
+    "parent_name": "Antenna Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Racks & Mounts",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Plaques",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Care & Tools",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fencing Weapons",
+    "parent_name": "Fencing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Bells",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird Feeders",
+    "parent_name": "Bird & Wildlife Feeders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fountains & Ponds",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surfing Gloves",
+    "parent_name": "Surfing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pull Buoys",
+    "parent_name": "Swimming",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Security Monitors & Recorders",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dry Boxes",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Table Shuffleboard Pucks",
+    "parent_name": "Table Shuffleboard",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Religious & Ceremonial",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fuel Containers & Tanks",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Locks & Keys",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shower Curtain Rings",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Vehicles",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swim Caps",
+    "parent_name": "Swimming",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicle Storage & Cargo",
+    "parent_name": "Vehicle Parts & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Parasols & Rain Umbrellas",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sanding Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Cue Accessories",
+    "parent_name": "Billiards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Winter Sports & Activities",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wood Stoves",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Supplies",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robe Hooks",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flags & Windsocks",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Curtain & Drape Rings",
+    "parent_name": "Window Treatment Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Risers & Stands",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Holiday Stockings",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swimming Nose Clips",
+    "parent_name": "Swimming",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magnetizers & Demagnetizers",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dried Flowers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Grappling Dummies",
+    "parent_name": "Boxing & Martial Arts Training Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Seasonal & Holiday Decorations",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Brake Parts",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Growth Charts",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Quickdraws",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ponds",
+    "parent_name": "Fountains & Ponds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floor & Carpet Dryers",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Racquetball & Squash",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dancing",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Posters, Prints, & Visual Artwork",
+    "parent_name": "Artwork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Boats & Watercraft",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Smoking Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rain Chains",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliances",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Accessory Sets",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ecospheres",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Fragrances",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fire Alarms",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Driver Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Curtain Holdbacks & Tassels",
+    "parent_name": "Window Treatment Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mattock & Pickaxe Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printer, Copier, & Fax Machine Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wind Wheels & Spinners",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Spaceships",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicle Parts & Accessories",
+    "parent_name": "Vehicles & Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Saddles",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Cards & Adapters",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cheerleading",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Masonry Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kickboards",
+    "parent_name": "Swimming",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Safety Grab Bars",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycles",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Squirrel Feeders",
+    "parent_name": "Bird & Wildlife Feeders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Antenna Accessories",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fire Extinguisher & Equipment Storage",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Accessories",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Table Shuffleboard",
+    "parent_name": "Indoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Recreation",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Audio Accessories",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skate Ramps",
+    "parent_name": "Skateboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fireplaces",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toilet Brush Replacement Heads",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Cue Chalk",
+    "parent_name": "Billiard Cue Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vacuums",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hardware",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Abrasive Blaster Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Desktop Computer & Server Cases",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Heat Detectors",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skateboard Parts",
+    "parent_name": "Skateboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handheld Device Accessories",
+    "parent_name": "Computer Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tool Accessories",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Signal Boosters",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Snowboard Bindings",
+    "parent_name": "Skiing & Snowboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cardboard Cutouts",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Snowboards",
+    "parent_name": "Skiing & Snowboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Oil Lamp Fuel",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riding Scooters",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Towel Racks & Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Integrated Circuits & Chips",
+    "parent_name": "Semiconductors",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Log Splitters",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing Ascenders & Descenders",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speaker Bags, Covers & Cases",
+    "parent_name": "Speaker Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Basketball",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trampolines",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Windsurfing Boards",
+    "parent_name": "Windsurfing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multifunction Power Tools",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Satellite Radio Accessories",
+    "parent_name": "Audio Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Laundry Supplies",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tricycle Accessories",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floor Protection Films & Runners",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Finials",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rugby Balls",
+    "parent_name": "Rugby",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "General Purpose Athletic Equipment",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing Chalk Bags",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bath Mats & Rugs",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Welding Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Paddles & Oars",
+    "parent_name": "Boating & Rafting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Abrasive Blasters",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Communications",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Storage Containers",
+    "parent_name": "Storage & Organization",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Handlebar Extensions",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Safety & Security Mirrors",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Special Effects",
+    "parent_name": "Party & Celebration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speaker Stand Bags",
+    "parent_name": "Speaker Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flashlight Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronic Filters",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Christmas Tree Skirts",
+    "parent_name": "Seasonal & Holiday Decorations",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diving Belts",
+    "parent_name": "Diving & Snorkeling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Business & Home Security",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Golf",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Router Accessories",
+    "parent_name": "Tool Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "TV Tuner Cards & Adapters",
+    "parent_name": "I/O Cards & Adapters",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "GPS Navigation Systems",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Memorial Ceremony Supplies",
+    "parent_name": "Religious & Ceremonial",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fountains & Waterfalls",
+    "parent_name": "Fountains & Ponds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shower Curtains",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird & Wildlife Feeders",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riding Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Films",
+    "parent_name": "Window Treatments",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Avalanche Safety",
+    "parent_name": "Winter Sports & Activities",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motorcycle Bags & Panniers",
+    "parent_name": "Vehicle Storage & Cargo",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Hardware",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Public Address Systems",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Whitewater Rafts",
+    "parent_name": "Boating & Rafting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mailbox Posts",
+    "parent_name": "Mailbox Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Airships & Blimps",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing & Feeding",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Diving & Snorkeling",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Figurines",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Patch Panels",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inflatable Bouncer Accessories",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Musical Instruments",
+    "parent_name": "Hobbies & Creative Arts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Network Security & Firewall Devices",
+    "parent_name": "Networking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Games",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Climbing Crash Pads",
+    "parent_name": "Climbing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cycling Apparel & Accessories",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fencing",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skateboard Small Parts",
+    "parent_name": "Skateboard Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ottoman Cushions",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird & Wildlife House Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Multitrack Recorders",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Tubes",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "House Numbers & Letters",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Humidors",
+    "parent_name": "Smoking Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Unicycle Accessories",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flag & Windsock Poles",
+    "parent_name": "Flag & Windsock Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Basketball Training Aids",
+    "parent_name": "Basketball",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bathroom Accessory Mounts",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Purifier Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Stems",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tools",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Disc Golf",
+    "parent_name": "Outdoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pool & Spa Accessories",
+    "parent_name": "Pool & Spa",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stage Equipment",
+    "parent_name": "Audio",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Voice Recorders",
+    "parent_name": "Audio Players & Recorders",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mailbox Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Backpacks",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ski Binding Parts",
+    "parent_name": "Skiing & Snowboarding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rugby",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boxing Ring Parts",
+    "parent_name": "Boxing & Martial Arts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Floor Polishers & Buffers",
+    "parent_name": "Household Appliances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fabric Stain Removers",
+    "parent_name": "Laundry Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bath Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fire Alarm Control Panels",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hubs & Switches",
+    "parent_name": "Networking",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ashtrays",
+    "parent_name": "Smoking Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Networking",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baskets",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speed Radars",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tricycles",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Punching & Training Bag Accessories",
+    "parent_name": "Boxing & Martial Arts Training Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Headphone & Headset Accessories",
+    "parent_name": "Audio Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Fragrance Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Cars & Trucks",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cosmetic & Toiletry Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliance Accessories",
+    "parent_name": "Home & Garden",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Platform & Paddle Tennis",
+    "parent_name": "Outdoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lumber & Sheet Stock",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boating & Water Sports",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wrestling Protective Gear",
+    "parent_name": "Wrestling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Power Supplies",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Tire Valve Adapters",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bookends",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Child Swimming Aids",
+    "parent_name": "Swimming",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sports & Energy Drinks",
+    "parent_name": "Beverages",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cycling",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Billiard Table Lights",
+    "parent_name": "Billiards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Parts",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Treatments",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bat Houses",
+    "parent_name": "Bird & Wildlife Houses",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Conditioner Filters",
+    "parent_name": "Air Conditioner Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hand Dryer Accessories",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flat Mineral Water",
+    "parent_name": "Water",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Towed Water Sports",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Scanner Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wallyball Equipment",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer Processors",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jigsaws",
+    "parent_name": "Saws",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Candle Snuffers",
+    "parent_name": "Home Fragrance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drywall",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flag & Windsock Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Platform Tennis Balls",
+    "parent_name": "Platform & Paddle Tennis",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suncatchers",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Game Consoles",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Speaker Stands & Mounts",
+    "parent_name": "Speaker Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toothbrush Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Facial Tissue Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Candle & Oil Warmers",
+    "parent_name": "Home Fragrance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Home Alarm Systems",
+    "parent_name": "Business & Home Security",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reamers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cable Management",
+    "parent_name": "Electronics Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Circuit Boards & Components",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rain Gauges",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Computer System Cooling Parts",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Conditioner Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Plant & Herb Growing Kits",
+    "parent_name": "Plants",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skateboarding Gloves",
+    "parent_name": "Skateboarding Protective Gear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Saws",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Fresheners",
+    "parent_name": "Home Fragrances",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Building Materials",
+    "parent_name": "Hardware",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sleds",
+    "parent_name": "Winter Sports & Activities",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Video Players & Recorders",
+    "parent_name": "Video",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kitchen Linens Sets",
+    "parent_name": "Linens & Bedding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Iron Rests",
+    "parent_name": "Laundry Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "E-Book Reader Parts",
+    "parent_name": "Computer Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bird & Wildlife Houses",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Insulation",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Countertops",
+    "parent_name": "Building Materials",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stair Treads",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Chair & Sofa Cushions",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bicycle Kickstands",
+    "parent_name": "Bicycle Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mailbox Replacement Doors",
+    "parent_name": "Mailbox Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inline & Roller Skating",
+    "parent_name": "Outdoor Recreation",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Printed Circuit Boards",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Artwork",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watercraft Storage Racks",
+    "parent_name": "Boating & Water Sports",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Magnets",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Kayak Accessories",
+    "parent_name": "Boating & Rafting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Anvils",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lamp Shades",
+    "parent_name": "Lighting Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toilet Paper Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skateboard Wheels",
+    "parent_name": "Skateboard Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wire & Cable Ties",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Television Circuit Boards",
+    "parent_name": "Printed Circuit Boards",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carpentry Jointers",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Unicycles",
+    "parent_name": "Cycling",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surfboard Wax",
+    "parent_name": "Surfing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Soap Dishes & Holders",
+    "parent_name": "Bathroom Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Team Handball",
+    "parent_name": "Athletics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicle Maintenance, Care & Decor",
+    "parent_name": "Vehicle Parts & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cable Clips",
+    "parent_name": "Cable Management",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Racquetball & Squash Balls",
+    "parent_name": "Racquetball & Squash",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture Floor Protectors",
+    "parent_name": "Household Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Compressors",
+    "parent_name": "Tools",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water & Flood Detectors",
+    "parent_name": "Flood, Fire & Gas Safety",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Window Treatment Accessories",
+    "parent_name": "Decor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lawn Games",
+    "parent_name": "Outdoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Semiconductors",
+    "parent_name": "Circuit Boards & Components",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arcade Equipment",
+    "parent_name": "Electronics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fan Accessories",
+    "parent_name": "Household Appliance Accessories",
+    "relation_type": "IsA"
+  }
+]

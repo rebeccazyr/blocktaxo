@@ -1,0 +1,2497 @@
+[
+  {
+    "child_name": "schnapps",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cheonsachae",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit-flavoured drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "longan",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chipped beef",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "likëngë",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pumpkin seeds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweet and sour pork",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "blood soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "celery roots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nataing",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "squashes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "basil",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caldo de pollo",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hogao",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "restructured steak",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "imoni",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "debrecener",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cherimoyas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chilli powder",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fisherman's soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hulatang",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sponge cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "plums",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "henan braised noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yucca root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork roll",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nădlac sausages",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "far breton",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cantonese seafood soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taco shells",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hog's pudding",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kapusniak",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "whipped cream",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "savory",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mykyrokka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kumquats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frying pan dinners",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cider",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hodge-podge",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pottage",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "broccoli",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cellophane noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pecel",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "paio",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tu",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apricots",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned meat",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork jowl",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "black soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kharcho",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coffee cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gummy sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kishka",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lotus roots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "angel food cake",
+    "parent_name": "sponge cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sambal",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ogbono nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candy bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ground and whole bean coffee",
+    "parent_name": "coffee",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bouillon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rosemary",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kohlwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bouneschlupp",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oille",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "weisswurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lasagnette",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cabanossi",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gobo root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "macadamia nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cherries",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "green sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "garlic powder",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dessert bars",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beetroot greens",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seeds",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "asparagus",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "homli fruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vodka",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sobrassada",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "crépinette",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ribollita",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "šakotis",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "crenvurșt",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brési",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork tenderloin",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "basbousa",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "espagnole sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pecans",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "energy drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "agrodolce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yonezawa beef",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gin",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "manwich",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dried fruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "panada",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "solyanka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "braadworst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gumdrops",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dessert toppings",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soto ayam",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ciavàr",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mushroom gravy",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit chews",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pepper",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nougat",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate bars",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "walnuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tom kha kai",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sapote",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bak kut teh",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork ribs",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jjolmyeon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "miso soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jelly beans",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "changua",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prickly pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sujebi",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "celery",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ciauscolo",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rum",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fideo",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caramels",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tacacá",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "supreme",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hochzeitssuppe",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ukha",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "siskonmakkara",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pig's organ soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "geera pork",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sushi",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cake",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dandan noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "regensburger wurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brazil nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vinegar drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kohlrabi",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "xo sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bratwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate assortments",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cashews",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liverwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "candle salad",
+    "parent_name": "fruit salad",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "korean noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugar apples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "garbure",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tarta de santiago",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sausage",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "harira",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marinade",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "saveloy",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kupati",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boiled sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "boerewors",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taro root",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "paradise nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rhubarb",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cauliflower",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "diot",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grapes",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rice noodle roll",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kesme",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sundae cones",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chicory",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mulligatawny",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dried beans",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beans",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "escudella i carn d'olla",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "butajiru",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tofu",
+    "parent_name": "soy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanut sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kitchen bouquet",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "figs",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pomegranates",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pølser",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sopa de pata",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lollipops",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "styrian sour soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kale",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frejon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "trdelník",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rutabagas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frankfurter rindswurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dessert",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mamey",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tian mo",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakmi",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marshmallow sweets",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spinach",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "torte",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "grapefruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bresaola",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kornigou",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ding dong",
+    "parent_name": "chocolate cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dragon beard noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ajiaco",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dragonfruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "aubergines",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "persimmons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kola nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bisque",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ryynimakkara",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "honey",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "curry sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sinigang",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gazpacho",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggnog",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vallée d'aoste lard d'arnad",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "deli meats",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "crumpet",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sancocho",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pillus",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "naengguk",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "qottab",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "breton sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "herb",
+    "parent_name": "spice",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pine nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pistou",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "amsterdam ossenworst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oyster sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sopa teologa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mixed nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nantua sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salad mixes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soto",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nectarines",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oregano",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat patties",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "plumcots",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "limequats",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lychees",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot dry noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "alfalfa sprouts",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dinners",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate covered nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "korean noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chestnuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kakara pitha",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "condiment",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn dog",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soy nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "'nduja",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meat",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frankfurter würstchen",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "loose tea leaves",
+    "parent_name": "infusion",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pickled pigs feet",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "noodle",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pastirma",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "landjäger",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soubise sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wanko soba",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lincolnshire sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pan mee",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chicken soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "prepared food",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "greens",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sevai",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "knipp",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweet potatoes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soyo",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brown windsor soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup number five",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "potatiskorv",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "morteau sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liquor",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sesame seeds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tomato soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bananas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rose hip soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "red bean cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "carne de chango",
+    "parent_name": "pork",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "onions",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "booyah",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tucupi",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sfouf",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "binignit",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gulyásleves",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lolly cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coffee",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tom yum",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yu choy",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "suet",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "aioli",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cucumbers",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "taco soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "artichokes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brown sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "béchamel sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "melons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "arracachas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "magiritsa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "olives and capers",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "soup all'imperatrice",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chikhirtma",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peanut butter cups",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fish tea",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lucanica",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "drunken noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lebanon bologna",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yam",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mints",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nali sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lekach",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shchi",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "peas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "goulash",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit salad",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wodzionka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lemons",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kulajda",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "béarnaise sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "crème ninon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dessert platters",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "carbonade flamande",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "scotch broth",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ahle wurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "madroã±o",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wedding cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jagdwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mannish water",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "caldo verde",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "suckers",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sujuk",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gai choi",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bean sprouts",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bottled coffee drinks",
+    "parent_name": "coffee",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sausage making",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "udon",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "falukorv",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "brandy",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cervelat",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "talunan",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "flavoured malt drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tahinopita",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kinnathappam",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pozole",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sweets",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "corn chowder",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babi panggang",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "andouille",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "neapolitan ragù",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fudge",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "banh canh",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rambutans",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "zuppa alla modenese",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "popsicles",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "okra",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "choi sum",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "radishes",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spice",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gelbwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chorba",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jicama",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "liqueurs",
+    "parent_name": "liquor",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pineapples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "czernina",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mangosteens",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chiffon cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pesto",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kissel",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rawon",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "quince",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hors d'oeuvres",
+    "parent_name": "prepared food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "maya nuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ragù",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rasam",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "instant coffee",
+    "parent_name": "coffee",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "borscht",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "may west",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "opera cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "watercress",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "moambe",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ganjang",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ching bo leung",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "borage",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "buttermilk",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vegetable",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "apples",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tempeh",
+    "parent_name": "soy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "svartsoppa",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "rookworst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fuet",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "standing rib roast",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tamarind",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakery",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "aji",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "starfruits",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chutney",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "skilandis",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wedding soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "torta caprese",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "piti",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "oranges",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "guavas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mangos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "papayas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beutelwurst",
+    "parent_name": "black pudding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "krakowska",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "nagasari",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "infusion",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "black pudding",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate truffles",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mang tomas",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shambar",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beurre noisette",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "porra antequerana",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tallow",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "shirataki noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "meatcake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salvitxada",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "zosui",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ezogelin soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "lunch meats",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "parsnips",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "almonds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "leeks",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sorbet",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bregenwurst",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "organic beef",
+    "parent_name": "beef",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "powdered beverage mixes",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chinkiang pot cover noodles",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "buttermilk koldskål",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "andouillette",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tourin",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "instant noodle",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beef",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "passion fruit",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "miyeok guk",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "malangas",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fizzy drinks",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "feijoas",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beer",
+    "parent_name": "beverage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "salad dressings",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "thuringian sausage",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tangelos",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vori vori",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "currants",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sour rye soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "red velvet cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sunflower seeds",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot and sour soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "okroshka",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cheez whiz",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mint sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hazelnuts",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "avocados",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "buccellato",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot dogs",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "češnovka",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "gazpachuelo",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "draw soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "minestrone",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "moronga",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce ravigote",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "vichyssoise",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sugo all'amatriciana",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fanesca",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cake pop",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pork",
+    "parent_name": "meat",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "carrots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fläskkorv",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sour soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee brittle",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce lyonnaise",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bredela",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ajoblanco",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "parsley roots",
+    "parent_name": "vegetable",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "eggs",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bermuda fish chowder",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pistachios",
+    "parent_name": "seeds",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tartar sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "café de paris sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mint",
+    "parent_name": "herb",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ok sauce",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chipa guasu",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pears",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "longaniza",
+    "parent_name": "sausage",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "toffee",
+    "parent_name": "sweets",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "leek soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beer soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sorrel soup",
+    "parent_name": "soup",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sapodillo",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sauce gribiche",
+    "parent_name": "sauce",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "beverage",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "yi mein",
+    "parent_name": "noodle",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "coconuts",
+    "parent_name": "fruit",
+    "relation_type": "IsA"
+  }
+]

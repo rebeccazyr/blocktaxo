@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Mathematical software"
+  },
+  {
+    "name": "Symmetric cryptography and hash functions"
+  },
+  {
+    "name": "Data scans"
+  },
+  {
+    "name": "Content match advertising"
+  },
+  {
+    "name": "Simulation languages"
+  },
+  {
+    "name": "Constraint and logic languages"
+  },
+  {
+    "name": "Penetration testing"
+  },
+  {
+    "name": "Call level interfaces"
+  },
+  {
+    "name": "Agent / discrete models"
+  },
+  {
+    "name": "Network algorithms"
+  },
+  {
+    "name": "Human-centered computing"
+  },
+  {
+    "name": "Search results deduplication"
+  },
+  {
+    "name": "Enterprise architecture frameworks"
+  },
+  {
+    "name": "Image and video acquisition"
+  },
+  {
+    "name": "Representation of mathematical functions"
+  },
+  {
+    "name": "Security and privacy"
+  },
+  {
+    "name": "Information integration"
+  },
+  {
+    "name": "Censorship"
+  },
+  {
+    "name": "Hybrid symbolic-numeric methods"
+  },
+  {
+    "name": "Computational control theory"
+  },
+  {
+    "name": "Project and people management"
+  },
+  {
+    "name": "Measurement"
+  },
+  {
+    "name": "Machine learning algorithms"
+  },
+  {
+    "name": "Mesh models"
+  },
+  {
+    "name": "Clustering"
+  },
+  {
+    "name": "Exact arithmetic algorithms"
+  },
+  {
+    "name": "Planning and scheduling"
+  },
+  {
+    "name": "Model curricula"
+  },
+  {
+    "name": "Document collection models"
+  },
+  {
+    "name": "Governmental surveillance"
+  },
+  {
+    "name": "Triggers and rules"
+  },
+  {
+    "name": "Education"
+  },
+  {
+    "name": "Hash functions and message authentication codes"
+  },
+  {
+    "name": "Motion path planning"
+  },
+  {
+    "name": "Electromechanical systems"
+  },
+  {
+    "name": "File system security"
+  },
+  {
+    "name": "Document representation"
+  },
+  {
+    "name": "Graph theory"
+  },
+  {
+    "name": "Language features"
+  },
+  {
+    "name": "Ontology engineering"
+  },
+  {
+    "name": "Simulation evaluation"
+  },
+  {
+    "name": "Crowdsourcing"
+  },
+  {
+    "name": "Database views"
+  },
+  {
+    "name": "Record storage alternatives"
+  },
+  {
+    "name": "Mashups"
+  },
+  {
+    "name": "Management and querying of encrypted data"
+  },
+  {
+    "name": "Very high level languages"
+  },
+  {
+    "name": "Graph algorithms"
+  },
+  {
+    "name": "Simulation support systems"
+  },
+  {
+    "name": "Data extraction and integration"
+  },
+  {
+    "name": "Computer and information systems training"
+  },
+  {
+    "name": "Management of computing and information systems"
+  },
+  {
+    "name": "Database utilities and tools"
+  },
+  {
+    "name": "Flowcharts"
+  },
+  {
+    "name": "Transborder data flow"
+  },
+  {
+    "name": "Public key (asymmetric) techniques"
+  },
+  {
+    "name": "Game tree search"
+  },
+  {
+    "name": "System description languages"
+  },
+  {
+    "name": "Design"
+  },
+  {
+    "name": "Discrete mathematics"
+  },
+  {
+    "name": "Data structures"
+  },
+  {
+    "name": "Trusted computing"
+  },
+  {
+    "name": "Database management system engines"
+  },
+  {
+    "name": "Nonlinear equations"
+  },
+  {
+    "name": "Presentation of retrieval results"
+  },
+  {
+    "name": "Mobile platform security"
+  },
+  {
+    "name": "Database activity monitoring"
+  },
+  {
+    "name": "Web applications"
+  },
+  {
+    "name": "Integrated and visual development environments"
+  },
+  {
+    "name": "Systems security"
+  },
+  {
+    "name": "Security services"
+  },
+  {
+    "name": "Electronic design automation"
+  },
+  {
+    "name": "Health information exchanges"
+  },
+  {
+    "name": "Query languages for non-relational engines"
+  },
+  {
+    "name": "Language types"
+  },
+  {
+    "name": "Digital signatures"
+  },
+  {
+    "name": "Site wrapping"
+  },
+  {
+    "name": "Technology and censorship"
+  },
+  {
+    "name": "Q-learning"
+  },
+  {
+    "name": "Computational thinking"
+  },
+  {
+    "name": "Business-IT alignment"
+  },
+  {
+    "name": "Modal and temporal logics"
+  },
+  {
+    "name": "Integrity checking"
+  },
+  {
+    "name": "Database protection laws"
+  },
+  {
+    "name": "Stream management"
+  },
+  {
+    "name": "Query languages"
+  },
+  {
+    "name": "Abstraction and micro-operators"
+  },
+  {
+    "name": "Transient errors and upsets"
+  },
+  {
+    "name": "Social and professional topics"
+  },
+  {
+    "name": "Process, voltage and temperature variations"
+  },
+  {
+    "name": "Animation"
+  },
+  {
+    "name": "Commerce policy"
+  },
+  {
+    "name": "Relevance assessment"
+  },
+  {
+    "name": "Embedded systems security"
+  },
+  {
+    "name": "Point lookups"
+  },
+  {
+    "name": "System modeling languages"
+  },
+  {
+    "name": "Net neutrality"
+  },
+  {
+    "name": "Hardware validation"
+  },
+  {
+    "name": "Computing methodologies"
+  },
+  {
+    "name": "Abstract data types"
+  },
+  {
+    "name": "Surveillance"
+  },
+  {
+    "name": "Randomness, geometry and discrete structures"
+  },
+  {
+    "name": "Computers in other domains"
+  },
+  {
+    "name": "Document types"
+  },
+  {
+    "name": "Retrieval models and ranking"
+  },
+  {
+    "name": "Enterprise modeling"
+  },
+  {
+    "name": "Data encoding and canonicalization"
+  },
+  {
+    "name": "Vulnerability management"
+  },
+  {
+    "name": "World Wide Web"
+  },
+  {
+    "name": "Quantum mechanic simulation"
+  },
+  {
+    "name": "Algebraic topology"
+  },
+  {
+    "name": "Spectral methods"
+  },
+  {
+    "name": "Computational advertising"
+  },
+  {
+    "name": "Verification"
+  },
+  {
+    "name": "Symbolic and algebraic algorithms"
+  },
+  {
+    "name": "Rendering"
+  },
+  {
+    "name": "Record and buffer management"
+  },
+  {
+    "name": "Systems development"
+  },
+  {
+    "name": "Software product lines"
+  },
+  {
+    "name": "Mathematical foundations of cryptography"
+  },
+  {
+    "name": "Numerical differentiation"
+  },
+  {
+    "name": "Modeling and parameter extraction"
+  },
+  {
+    "name": "Command and control languages"
+  },
+  {
+    "name": "Computer graphics"
+  },
+  {
+    "name": "Online auctions policy"
+  },
+  {
+    "name": "Surfacing"
+  },
+  {
+    "name": "Object oriented frameworks"
+  },
+  {
+    "name": "Event-driven architectures"
+  },
+  {
+    "name": "Implementation management"
+  },
+  {
+    "name": "Architecture (buildings)"
+  },
+  {
+    "name": "Cryptography"
+  },
+  {
+    "name": "Online analytical processing engines"
+  },
+  {
+    "name": "Shape modeling"
+  },
+  {
+    "name": "Algebraic algorithms"
+  },
+  {
+    "name": "Imperative languages"
+  },
+  {
+    "name": "Multidimensional range search"
+  },
+  {
+    "name": "Software as a service orchestration system"
+  },
+  {
+    "name": "Development frameworks and environments"
+  },
+  {
+    "name": "Antitrust and competition"
+  },
+  {
+    "name": "Human and societal aspects of security and privacy"
+  },
+  {
+    "name": "Technology audits"
+  },
+  {
+    "name": "Patient privacy"
+  },
+  {
+    "name": "Specification languages"
+  },
+  {
+    "name": "Motion processing"
+  },
+  {
+    "name": "Block and stream ciphers"
+  },
+  {
+    "name": "Evaluation of retrieval results"
+  },
+  {
+    "name": "Medical records"
+  },
+  {
+    "name": "Network access control"
+  },
+  {
+    "name": "Thesauri"
+  },
+  {
+    "name": "Natural language generation"
+  },
+  {
+    "name": "Query log analysis"
+  },
+  {
+    "name": "Semiconductor memory"
+  },
+  {
+    "name": "Web searching and information discovery"
+  },
+  {
+    "name": "Learning settings"
+  },
+  {
+    "name": "Perception"
+  },
+  {
+    "name": "Continuous mathematics"
+  },
+  {
+    "name": "Partially-observable Markov decision processes"
+  },
+  {
+    "name": "Computing industry"
+  },
+  {
+    "name": "Web search engines"
+  },
+  {
+    "name": "Record storage systems"
+  },
+  {
+    "name": "Integrated circuits"
+  },
+  {
+    "name": "Genetic information"
+  },
+  {
+    "name": "Computing equipment management"
+  },
+  {
+    "name": "Knowledge representation and reasoning"
+  },
+  {
+    "name": "IT governance"
+  },
+  {
+    "name": "Political speech"
+  },
+  {
+    "name": "Database performance evaluation"
+  },
+  {
+    "name": "Image processing"
+  },
+  {
+    "name": "Point-based models"
+  },
+  {
+    "name": "General programming languages"
+  },
+  {
+    "name": "Real-time simulation"
+  },
+  {
+    "name": "Dictionaries"
+  },
+  {
+    "name": "Network access restrictions"
+  },
+  {
+    "name": "Patterns"
+  },
+  {
+    "name": "Side-channel analysis and countermeasures"
+  },
+  {
+    "name": "Simulation theory"
+  },
+  {
+    "name": "Online advertising"
+  },
+  {
+    "name": "Ubiquitous and mobile computing design and evaluation methods"
+  },
+  {
+    "name": "Cognitive robotics"
+  },
+  {
+    "name": "Shape analysis"
+  },
+  {
+    "name": "Automatic differentiation"
+  },
+  {
+    "name": "Compilers"
+  },
+  {
+    "name": "Data access methods"
+  },
+  {
+    "name": "Systems analysis and design"
+  },
+  {
+    "name": "Walkthroughs"
+  },
+  {
+    "name": "Task models"
+  },
+  {
+    "name": "Social advertising"
+  },
+  {
+    "name": "Search methodologies"
+  },
+  {
+    "name": "Computations in finite fields"
+  },
+  {
+    "name": "Business process monitoring"
+  },
+  {
+    "name": "Entity resolution"
+  },
+  {
+    "name": "Treaties"
+  },
+  {
+    "name": "Portable media players"
+  },
+  {
+    "name": "Ubiquitous and mobile computing theory, concepts and paradigms"
+  },
+  {
+    "name": "Concurrent computing methodologies"
+  },
+  {
+    "name": "Solvers"
+  },
+  {
+    "name": "Agriculture"
+  },
+  {
+    "name": "Continuous functions"
+  },
+  {
+    "name": "Modeling and simulation"
+  },
+  {
+    "name": "Copyrights"
+  },
+  {
+    "name": "Broadband access"
+  },
+  {
+    "name": "Network operations"
+  },
+  {
+    "name": "Partial differential equations"
+  },
+  {
+    "name": "Topology"
+  },
+  {
+    "name": "Display advertising"
+  },
+  {
+    "name": "Enterprise computing"
+  },
+  {
+    "name": "Philosophical/theoretical foundations of artificial intelligence"
+  },
+  {
+    "name": "Network components"
+  },
+  {
+    "name": "Plasmonics"
+  },
+  {
+    "name": "Design languages"
+  },
+  {
+    "name": "Enterprise architecture management"
+  },
+  {
+    "name": "Database query processing"
+  },
+  {
+    "name": "Operating systems security"
+  },
+  {
+    "name": "Rare-event simulation"
+  },
+  {
+    "name": "Equation and inequality solving algorithms"
+  },
+  {
+    "name": "System management"
+  },
+  {
+    "name": "Cryptanalysis and other attacks"
+  },
+  {
+    "name": "Information retrieval"
+  },
+  {
+    "name": "Database administration"
+  },
+  {
+    "name": "Join algorithms"
+  },
+  {
+    "name": "Logic programming and answer set programming"
+  },
+  {
+    "name": "Enterprise computing infrastructures"
+  },
+  {
+    "name": "Reflectance modeling"
+  },
+  {
+    "name": "Networks"
+  },
+  {
+    "name": "Texturing"
+  },
+  {
+    "name": "Malicious design modifications"
+  },
+  {
+    "name": "Validation"
+  },
+  {
+    "name": "Integral equations"
+  },
+  {
+    "name": "Data dictionaries"
+  },
+  {
+    "name": "Search-based software engineering"
+  },
+  {
+    "name": "Digital switches"
+  },
+  {
+    "name": "Planning with abstraction and generalization"
+  },
+  {
+    "name": "Transaction logging"
+  },
+  {
+    "name": "Software management"
+  },
+  {
+    "name": "Collaborative learning"
+  },
+  {
+    "name": "Sound and music computing"
+  },
+  {
+    "name": "Interactive simulation"
+  },
+  {
+    "name": "Hardware security implementation"
+  },
+  {
+    "name": "Scripting languages"
+  },
+  {
+    "name": "Information storage systems"
+  },
+  {
+    "name": "Pseudonymity, anonymity and untraceability"
+  },
+  {
+    "name": "Privacy protections"
+  },
+  {
+    "name": "Autonomous database administration"
+  },
+  {
+    "name": "Software security engineering"
+  },
+  {
+    "name": "Robustness"
+  },
+  {
+    "name": "Artificial immune systems"
+  },
+  {
+    "name": "Symbolic and algebraic manipulation"
+  },
+  {
+    "name": "Approximation algorithms"
+  },
+  {
+    "name": "Software and application security"
+  },
+  {
+    "name": "Computing / technology policy"
+  },
+  {
+    "name": "Graph enumeration"
+  },
+  {
+    "name": "Parallel computing methodologies"
+  },
+  {
+    "name": "Formal methods and theory of security"
+  },
+  {
+    "name": "Programming by example"
+  },
+  {
+    "name": "Retrieval tasks and goals"
+  },
+  {
+    "name": "Learning management systems"
+  },
+  {
+    "name": "Graph coloring"
+  },
+  {
+    "name": "RAID"
+  },
+  {
+    "name": "Rasterization"
+  },
+  {
+    "name": "Project staffing"
+  },
+  {
+    "name": "Software configuration management and version control systems"
+  },
+  {
+    "name": "Linear logic"
+  },
+  {
+    "name": "XPath"
+  },
+  {
+    "name": "Automatic programming"
+  },
+  {
+    "name": "Estimation"
+  },
+  {
+    "name": "Social network security and privacy"
+  },
+  {
+    "name": "Causal reasoning and diagnostics"
+  },
+  {
+    "name": "Random network models"
+  },
+  {
+    "name": "Medical technologies"
+  },
+  {
+    "name": "Project management techniques"
+  },
+  {
+    "name": "Enterprise data management"
+  },
+  {
+    "name": "Interface definition languages"
+  },
+  {
+    "name": "Boolean algebra algorithms"
+  },
+  {
+    "name": "State based definitions"
+  },
+  {
+    "name": "General and reference"
+  },
+  {
+    "name": "Operations research"
+  },
+  {
+    "name": "Simulation by animation"
+  },
+  {
+    "name": "Design for manufacturability"
+  },
+  {
+    "name": "Language translation"
+  },
+  {
+    "name": "Authorization"
+  },
+  {
+    "name": "Search with partial observations"
+  },
+  {
+    "name": "Cross-organizational business processes"
+  },
+  {
+    "name": "Canonical correlation analysis"
+  },
+  {
+    "name": "Enterprise architectures"
+  },
+  {
+    "name": "Geometric topology"
+  },
+  {
+    "name": "Image manipulation"
+  },
+  {
+    "name": "Collaborative search"
+  },
+  {
+    "name": "Extraction, transformation and loading"
+  },
+  {
+    "name": "Tamper-proof and tamper-resistant designs"
+  },
+  {
+    "name": "Computer algebra systems"
+  },
+  {
+    "name": "Theory of mind"
+  },
+  {
+    "name": "Data mining"
+  },
+  {
+    "name": "Spatial and physical reasoning"
+  },
+  {
+    "name": "Arts and humanities"
+  },
+  {
+    "name": "Computer-managed instruction"
+  },
+  {
+    "name": "General conference proceedings"
+  },
+  {
+    "name": "Graphics systems and interfaces"
+  },
+  {
+    "name": "Medical information policy"
+  },
+  {
+    "name": "Accessibility"
+  },
+  {
+    "name": "Arbitrary-precision arithmetic"
+  },
+  {
+    "name": "Intelligent agents"
+  },
+  {
+    "name": "Aging of circuits and systems"
+  },
+  {
+    "name": "Differential equations"
+  },
+  {
+    "name": "Discourse, dialogue and pragmatics"
+  },
+  {
+    "name": "Non-photorealistic rendering"
+  },
+  {
+    "name": "Photonic and optical interconnect"
+  },
+  {
+    "name": "Web mining"
+  },
+  {
+    "name": "Visibility"
+  },
+  {
+    "name": "Web interfaces"
+  },
+  {
+    "name": "General literature"
+  },
+  {
+    "name": "Ensemble methods"
+  },
+  {
+    "name": "Regularization"
+  },
+  {
+    "name": "Cross-computing tools and techniques"
+  },
+  {
+    "name": "Email"
+  },
+  {
+    "name": "Distributed computing methodologies"
+  },
+  {
+    "name": "Law, social and behavioral sciences"
+  },
+  {
+    "name": "Main memory engines"
+  },
+  {
+    "name": "Empirical software validation"
+  },
+  {
+    "name": "Point-set topology"
+  },
+  {
+    "name": "Data locking"
+  },
+  {
+    "name": "XML query languages"
+  },
+  {
+    "name": "Language models"
+  },
+  {
+    "name": "Representation of polynomials"
+  },
+  {
+    "name": "Hardware reliability"
+  },
+  {
+    "name": "Database transaction processing"
+  },
+  {
+    "name": "Theory of computation"
+  },
+  {
+    "name": "Texting"
+  },
+  {
+    "name": "Computing education"
+  },
+  {
+    "name": "Symbolic calculus algorithms"
+  },
+  {
+    "name": "Graphics processors"
+  },
+  {
+    "name": "Ubiquitous and mobile computing"
+  },
+  {
+    "name": "Business process modeling"
+  },
+  {
+    "name": "Internet governance / domain names"
+  },
+  {
+    "name": "Information systems applications"
+  },
+  {
+    "name": "Software and its engineering"
+  },
+  {
+    "name": "Deduplication"
+  },
+  {
+    "name": "Browser security"
+  },
+  {
+    "name": "Systems theory"
+  },
+  {
+    "name": "Acceptance testing"
+  },
+  {
+    "name": "Computer crime"
+  },
+  {
+    "name": "Open source model"
+  },
+  {
+    "name": "Distributed artificial intelligence"
+  },
+  {
+    "name": "History of computing"
+  },
+  {
+    "name": "Media arts"
+  },
+  {
+    "name": "Query reformulation"
+  },
+  {
+    "name": "Hashed file organization"
+  },
+  {
+    "name": "Volumetric models"
+  },
+  {
+    "name": "Simulation types and techniques"
+  },
+  {
+    "name": "Data management systems"
+  },
+  {
+    "name": "Biographies"
+  },
+  {
+    "name": "Graphical / visual passwords"
+  },
+  {
+    "name": "Business rules"
+  },
+  {
+    "name": "Emerging technologies"
+  },
+  {
+    "name": "Similarity measures"
+  },
+  {
+    "name": "Data anonymization and sanitization"
+  },
+  {
+    "name": "Collaboration in software development"
+  },
+  {
+    "name": "Extensible languages"
+  },
+  {
+    "name": "Information accountability and usage control"
+  },
+  {
+    "name": "Centralization / decentralization"
+  },
+  {
+    "name": "Procedural animation"
+  },
+  {
+    "name": "Artificial intelligence"
+  },
+  {
+    "name": "Vagueness and fuzzy logic"
+  },
+  {
+    "name": "Key management"
+  },
+  {
+    "name": "Social aspects of security and privacy"
+  },
+  {
+    "name": "Reference works"
+  },
+  {
+    "name": "Corporate surveillance"
+  },
+  {
+    "name": "Top-k retrieval in databases"
+  },
+  {
+    "name": "Taxation"
+  },
+  {
+    "name": "Formal security models"
+  },
+  {
+    "name": "Information flow control"
+  },
+  {
+    "name": "Massively parallel and high-performance simulations"
+  },
+  {
+    "name": "Combinational circuits"
+  },
+  {
+    "name": "Malware and its mitigation"
+  },
+  {
+    "name": "Patents"
+  },
+  {
+    "name": "Natural language processing"
+  },
+  {
+    "name": "Process validation"
+  },
+  {
+    "name": "Distributed systems security"
+  },
+  {
+    "name": "Computation of transforms"
+  },
+  {
+    "name": "Representation of mathematical objects"
+  },
+  {
+    "name": "Dynamic programming for Markov decision processes"
+  },
+  {
+    "name": "Continuous models"
+  },
+  {
+    "name": "Cooperation and coordination"
+  },
+  {
+    "name": "Coroutines"
+  },
+  {
+    "name": "Business process management"
+  },
+  {
+    "name": "Functional languages"
+  },
+  {
+    "name": "Student assessment"
+  },
+  {
+    "name": "Simulation tools"
+  },
+  {
+    "name": "Nonmonotonic, default reasoning and belief revision"
+  },
+  {
+    "name": "Risk management"
+  },
+  {
+    "name": "Application specific development environments"
+  },
+  {
+    "name": "Assembly languages"
+  },
+  {
+    "name": "Software libraries and repositories"
+  },
+  {
+    "name": "Machine learning"
+  },
+  {
+    "name": "Physical simulation"
+  },
+  {
+    "name": "Domain-specific security and privacy architectures"
+  },
+  {
+    "name": "Stochastic games"
+  },
+  {
+    "name": "Heuristic function construction"
+  },
+  {
+    "name": "Computer vision"
+  },
+  {
+    "name": "Planning for deterministic actions"
+  },
+  {
+    "name": "Access control"
+  },
+  {
+    "name": "Applied computing"
+  },
+  {
+    "name": "Computing literacy"
+  },
+  {
+    "name": "Logic"
+  },
+  {
+    "name": "Hardware attacks and countermeasures"
+  },
+  {
+    "name": "Storage replication"
+  },
+  {
+    "name": "Machine learning approaches"
+  },
+  {
+    "name": "Software creation and management"
+  },
+  {
+    "name": "Camera calibration"
+  },
+  {
+    "name": "Object oriented languages"
+  },
+  {
+    "name": "Hardware"
+  },
+  {
+    "name": "Object oriented development"
+  },
+  {
+    "name": "Coding theory"
+  },
+  {
+    "name": "Macro languages"
+  },
+  {
+    "name": "Interactive learning environments"
+  },
+  {
+    "name": "Logic circuits"
+  },
+  {
+    "name": "Mathematical analysis"
+  },
+  {
+    "name": "Operational analysis"
+  },
+  {
+    "name": "Empirical studies"
+  },
+  {
+    "name": "Machine translation"
+  },
+  {
+    "name": "Interval arithmetic"
+  },
+  {
+    "name": "Software notations and tools"
+  },
+  {
+    "name": "Optimization algorithms"
+  },
+  {
+    "name": "Intrusion/anomaly detection and malware mitigation"
+  },
+  {
+    "name": "Fault tree analysis"
+  },
+  {
+    "name": "Intrusion detection systems"
+  },
+  {
+    "name": "Data assimilation"
+  },
+  {
+    "name": "Deep web"
+  },
+  {
+    "name": "Mesh geometry models"
+  },
+  {
+    "name": "Sequential circuits"
+  },
+  {
+    "name": "Information system economics"
+  },
+  {
+    "name": "Ubiquitous and mobile computing systems and tools"
+  },
+  {
+    "name": "Parametric curve and surface models"
+  },
+  {
+    "name": "Computing standards, RFCs and guidelines"
+  },
+  {
+    "name": "Trust frameworks"
+  },
+  {
+    "name": "Software verification and validation"
+  },
+  {
+    "name": "Users and interactive retrieval"
+  },
+  {
+    "name": "Information systems"
+  },
+  {
+    "name": "Authentication"
+  },
+  {
+    "name": "Information retrieval query processing"
+  },
+  {
+    "name": "Discrete calculus algorithms"
+  },
+  {
+    "name": "Rank aggregation"
+  },
+  {
+    "name": "Software defect analysis"
+  },
+  {
+    "name": "Image-based rendering"
+  },
+  {
+    "name": "Control methods"
+  },
+  {
+    "name": "Interconnect"
+  },
+  {
+    "name": "Remote replication"
+  },
+  {
+    "name": "Soft intellectual property"
+  },
+  {
+    "name": "Computing and business"
+  },
+  {
+    "name": "Formal language definitions"
+  },
+  {
+    "name": "Information theory"
+  },
+  {
+    "name": "Computing Classification System"
+  },
+  {
+    "name": "Static memory"
+  },
+  {
+    "name": "Informal education"
+  },
+  {
+    "name": "Acceptable use policy restrictions"
+  },
+  {
+    "name": "Distributed simulation"
+  },
+  {
+    "name": "Incentive schemes"
+  },
+  {
+    "name": "Query representation"
+  },
+  {
+    "name": "Indexed file organization"
+  },
+  {
+    "name": "Translator writing systems and compiler generators"
+  },
+  {
+    "name": "Web data description languages"
+  },
+  {
+    "name": "Concurrent programming structures"
+  },
+  {
+    "name": "Factorization methods"
+  },
+  {
+    "name": "Database and storage security"
+  },
+  {
+    "name": "Software development techniques"
+  },
+  {
+    "name": "Software development process management"
+  },
+  {
+    "name": "Browsers"
+  },
+  {
+    "name": "Internet communications tools"
+  },
+  {
+    "name": "Content analysis and feature selection"
+  },
+  {
+    "name": "Number theory algorithms"
+  },
+  {
+    "name": "Vulnerability scanners"
+  },
+  {
+    "name": "Learning linear models"
+  },
+  {
+    "name": "Quadrature"
+  },
+  {
+    "name": "Context specific languages"
+  },
+  {
+    "name": "Recommender systems"
+  },
+  {
+    "name": "Cognitive science"
+  },
+  {
+    "name": "Representation of Boolean functions"
+  },
+  {
+    "name": "Search interfaces"
+  },
+  {
+    "name": "Clustering and classification"
+  },
+  {
+    "name": "Multi-agent planning"
+  },
+  {
+    "name": "Query planning"
+  },
+  {
+    "name": "3D imaging"
+  },
+  {
+    "name": "Metrics"
+  },
+  {
+    "name": "Hyperspectral imaging"
+  },
+  {
+    "name": "Professional topics"
+  },
+  {
+    "name": "Mathematics of computing"
+  },
+  {
+    "name": "Simulation environments"
+  },
+  {
+    "name": "Hardware-based security protocols"
+  },
+  {
+    "name": "Surveys and overviews"
+  },
+  {
+    "name": "Nonalgebraic algorithms"
+  },
+  {
+    "name": "Computer vision representations"
+  },
+  {
+    "name": "Parsers"
+  },
+  {
+    "name": "Intellectual property"
+  },
+  {
+    "name": "Reusability"
+  },
+  {
+    "name": "Security in hardware"
+  },
+  {
+    "name": "Numerical analysis"
+  },
+  {
+    "name": "Web application security"
+  },
+  {
+    "name": "Data flow languages"
+  },
+  {
+    "name": "Separation logic"
+  },
+  {
+    "name": "Unified Modeling Language (UML)"
+  },
+  {
+    "name": "Ubiquitous and mobile devices"
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "child_name": "fresh seafood",
+    "parent_name": "seafood",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "chocolate cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "spekkoek",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "horseradish sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "paris buns",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "kuchen",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "marinade",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "quinoa",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "st. honoré cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tinned seafood",
+    "parent_name": "seafood",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "memela",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "khrenovina sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "fruit",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pastiera",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pasta sauces",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "changzhou sesame cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "tahini",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "torta alla monferrina",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cake",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sundae cones",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sherbet",
+    "parent_name": "frozen dessert",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hot sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bánh khoai mì",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pizza sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cereals",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cheez whiz",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cream",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "babka",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bánh tét",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "seafood",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "bakery",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "waffle",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "wine cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "cottage cheese",
+    "parent_name": "dairy product",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "sponge cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "pan de pascua",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "german chocolate cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "frozen dessert",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "hummingbird cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ice cream cones",
+    "parent_name": "bakery",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "dairy product",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "financier",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "millet",
+    "parent_name": "cereals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "condiment",
+    "parent_name": "food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "jewish apple cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "king cake",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "far breton",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "mi san dao",
+    "parent_name": "cake",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "satay sauce",
+    "parent_name": "condiment",
+    "relation_type": "IsA"
+  }
+]

@@ -1,0 +1,997 @@
+[
+  {
+    "child_name": "Duffel Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Planes",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Riding Toy Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Socks",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Balance Trainers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Noisemakers & Party Blowers",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Inversion Tables & Systems",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Earmuffs",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bra Accessories",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbags, Wallets & Cases",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skirts",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Play Equipment",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Robotic Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras & Optics",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Office Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optic Accessories",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Stopwatches",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sashes",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Game Timers",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Boot Liners",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Confetti",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Messenger Bags",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Covers",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Party Streamers & Curtains",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Maternity Belts & Support Bands",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music CDs",
+    "parent_name": "Music & Sound Recordings",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Drinking Straws & Stirrers",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Gloves & Mittens",
+    "parent_name": "Baby & Toddler Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "ATVs & UTVs",
+    "parent_name": "Off-Road and All-Terrain Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Weapons & Gadgets",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Beach & Sand Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Hockey Table Parts",
+    "parent_name": "Air Hockey",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Balloon Kits",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Spaceships",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles",
+    "parent_name": "Vehicles & Parts",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tie Clips",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skorts",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sippy Cups",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Weighted Clothing",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Swings",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yoga & Pilates Mats",
+    "parent_name": "Yoga & Pilates",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costumes & Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Recreational Vehicles",
+    "parent_name": "Motor Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Weight Lifting Gloves & Hand Supports",
+    "parent_name": "Weight Lifting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Media",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Vehicle Accessories",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motorcycle Suits",
+    "parent_name": "Motorcycle Protective Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys & Games",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gift Giving",
+    "parent_name": "Party & Celebration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toys",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ab Wheels & Rollers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Belt Buckles",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoe Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Hand Exercisers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby Transport",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Fresh Cut Flowers",
+    "parent_name": "Gift Giving",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Response Cards",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Weight Lifting",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Off-Road and All-Terrain Vehicles",
+    "parent_name": "Motor Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cocktail Decorations",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Flying Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Magazines & Newspapers",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Balaclavas",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Birthday Candles",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pogo Sticks",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Art & Drawing Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Train Accessories",
+    "parent_name": "Play Vehicle Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Free Weights",
+    "parent_name": "Weight Lifting",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jewelry",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sporting Goods",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Apparel & Accessories",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Event Tickets",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Medicine Balls",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suits",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Skirt Suits",
+    "parent_name": "Suits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Optics",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wooden & Pegged Puzzles",
+    "parent_name": "Puzzles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pretend Electronics",
+    "parent_name": "Pretend Play",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Reaction Balls",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Handbags",
+    "parent_name": "Handbags, Wallets & Cases",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Wooden Blocks",
+    "parent_name": "Building Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Sofas",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Underwear Slips",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Cars",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Suspension Trainers",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Helicopters",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motorcycle Protective Clothing",
+    "parent_name": "Activewear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Party & Celebration",
+    "parent_name": "Arts & Entertainment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Golf Carts",
+    "parent_name": "Motor Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Pom-Poms",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Button Studs",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Sprinkers",
+    "parent_name": "Water Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Luggage & Bags",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Party Favors",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Rangefinders",
+    "parent_name": "Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Tanks",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Underwear & Socks",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Cameras",
+    "parent_name": "Cameras & Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Leg Warmers",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yo-Yo Parts & Accessories",
+    "parent_name": "Activity Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Petticoats & Pettipants",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Camera & Optics Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Furniture",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise Balls",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Building Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gloves & Mittens",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Swimwear",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoelaces",
+    "parent_name": "Shoe Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pinback Buttons",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pretend Shopping & Grocery",
+    "parent_name": "Pretend Play",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Vehicles & Parts",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Kitchens & Play Food",
+    "parent_name": "Pretend Play",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Airplanes",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Costumes",
+    "parent_name": "Costumes & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trampoline Accessories",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ball & Cup Games",
+    "parent_name": "Activity Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Product Manuals",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Household Appliance Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Indoor Games",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Musical Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outfit Sets",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Briefcases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shorts",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futons",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Go Karts & Dune Buggies",
+    "parent_name": "Off-Road and All-Terrain Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Ottomans",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Spray String",
+    "parent_name": "Party Supplies",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bubble Blowing Toys",
+    "parent_name": "Activity Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bra Strap Pads",
+    "parent_name": "Bra Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Music & Sound Recordings",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Playhouses",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Air Hockey",
+    "parent_name": "Indoor Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Gliders",
+    "parent_name": "Flying Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Martial Arts Shorts",
+    "parent_name": "Activewear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Kitchens",
+    "parent_name": "Toy Kitchens & Play Food",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Party Supplies",
+    "parent_name": "Party & Celebration",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Visual Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Power Tool & Equipment Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Decorative Fans",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yoga & Pilates Blocks",
+    "parent_name": "Yoga & Pilates",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Food, Beverages & Tobacco",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Activewear",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Surveillance Cameras",
+    "parent_name": "Cameras",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Monoculars",
+    "parent_name": "Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Arts & Entertainment",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Masks",
+    "parent_name": "Costumes & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Race Car & Track Accessories",
+    "parent_name": "Play Vehicle Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Binoculars",
+    "parent_name": "Optics",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Motorcycles",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Futon Frames",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Webcams",
+    "parent_name": "Cameras",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motor Vehicles",
+    "parent_name": "Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Clothing Accessories",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yoga & Pilates",
+    "parent_name": "Exercise & Fitness",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "American Football Pants",
+    "parent_name": "Activewear",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dresses",
+    "parent_name": "Clothing",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Money & Banking",
+    "parent_name": "Pretend Play",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Trains & Train Sets",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Belts",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Puzzles",
+    "parent_name": "Toys & Games",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Gift Baskets",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Remote Control Airships & Blimps",
+    "parent_name": "Remote Control Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Lingerie",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Trail Cameras",
+    "parent_name": "Cameras",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Nursing & Feeding",
+    "parent_name": "Baby & Toddler",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gift Cards & Certificates",
+    "parent_name": "Gift Giving",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bracelets",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Carpentry & Woodworking Project Plans",
+    "parent_name": "Media",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pilates Machines",
+    "parent_name": "Yoga & Pilates",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Water Play Equipment",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Motorcycles",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Watches",
+    "parent_name": "Jewelry",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Dry Boxes",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Health & Beauty",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Electronics Manuals",
+    "parent_name": "Product Manuals",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Activity Toys",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Toy Trucks & Construction Vehicles",
+    "parent_name": "Play Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Play Vehicles",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Undershirts",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pretend Play",
+    "parent_name": "Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shelving",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Shoes",
+    "parent_name": "Apparel & Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Bottle Warmers & Sterilizers",
+    "parent_name": "Nursing & Feeding",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Mechanical Puzzles",
+    "parent_name": "Puzzles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Pant Suits",
+    "parent_name": "Suits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Software",
+    "parent_name": "Google Product Taxonomy",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Baby & Toddler Clothing Accessories",
+    "parent_name": "Clothing Accessories",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Exercise & Fitness",
+    "parent_name": "Sporting Goods",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Gift Wrapping",
+    "parent_name": "Gift Giving",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "See Saws",
+    "parent_name": "Outdoor Play Equipment",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Tuxedos",
+    "parent_name": "Suits",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Train Cases",
+    "parent_name": "Luggage & Bags",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Outdoor Furniture Accessories",
+    "parent_name": "Furniture",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Motorcycles & Scooters",
+    "parent_name": "Motor Vehicles",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Yo-Yos",
+    "parent_name": "Activity Toys",
+    "relation_type": "IsA"
+  },
+  {
+    "child_name": "Jock Straps",
+    "parent_name": "Underwear & Socks",
+    "relation_type": "IsA"
+  }
+]

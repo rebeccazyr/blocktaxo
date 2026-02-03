@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "Mathematical software"
+  },
+  {
+    "name": "Telecommunications"
+  },
+  {
+    "name": "VLSI packaging"
+  },
+  {
+    "name": "Models of computation"
+  },
+  {
+    "name": "Sorting and searching"
+  },
+  {
+    "name": "Decision analysis"
+  },
+  {
+    "name": "Simulation languages"
+  },
+  {
+    "name": "Sketching and sampling"
+  },
+  {
+    "name": "Proteomics"
+  },
+  {
+    "name": "Distance learning"
+  },
+  {
+    "name": "Database query languages (principles)"
+  },
+  {
+    "name": "Equational logic and rewriting"
+  },
+  {
+    "name": "Network algorithms"
+  },
+  {
+    "name": "Algorithmic game theory"
+  },
+  {
+    "name": "Human-centered computing"
+  },
+  {
+    "name": "Enterprise architecture frameworks"
+  },
+  {
+    "name": "Recursive functions"
+  },
+  {
+    "name": "Security and privacy"
+  },
+  {
+    "name": "Computer forensics"
+  },
+  {
+    "name": "Text editing"
+  },
+  {
+    "name": "Hybrid symbolic-numeric methods"
+  },
+  {
+    "name": "Packing and covering problems"
+  },
+  {
+    "name": "Environmental sciences"
+  },
+  {
+    "name": "Application-specific VLSI designs"
+  },
+  {
+    "name": "Test-pattern generation and fault simulation"
+  },
+  {
+    "name": "Object oriented constructs"
+  },
+  {
+    "name": "Mesh models"
+  },
+  {
+    "name": "Online social networks"
+  },
+  {
+    "name": "Governmental surveillance"
+  },
+  {
+    "name": "Home networks"
+  },
+  {
+    "name": "Streaming, sublinear and near linear time algorithms"
+  },
+  {
+    "name": "Education"
+  },
+  {
+    "name": "Electromechanical systems"
+  },
+  {
+    "name": "Power and energy"
+  },
+  {
+    "name": "File system security"
+  },
+  {
+    "name": "Hardware accelerators"
+  },
+  {
+    "name": "High-level and register-transfer level synthesis"
+  },
+  {
+    "name": "Graph theory"
+  },
+  {
+    "name": "Collaborative and social computing"
+  },
+  {
+    "name": "Concurrency"
+  },
+  {
+    "name": "Process calculi"
+  },
+  {
+    "name": "Management and querying of encrypted data"
+  },
+  {
+    "name": "Inductive inference"
+  },
+  {
+    "name": "Mathematics and statistics"
+  },
+  {
+    "name": "Transition-based timing analysis"
+  },
+  {
+    "name": "Simulation support systems"
+  },
+  {
+    "name": "Interaction design process and methods"
+  },
+  {
+    "name": "Semi-supervised learning"
+  },
+  {
+    "name": "Hybrid networks"
+  },
+  {
+    "name": "Very long-range networks"
+  },
+  {
+    "name": "Facility location and clustering"
+  },
+  {
+    "name": "Image compression"
+  },
+  {
+    "name": "Public key (asymmetric) techniques"
+  },
+  {
+    "name": "Discrete mathematics"
+  },
+  {
+    "name": "Trusted computing"
+  },
+  {
+    "name": "Mobile platform security"
+  },
+  {
+    "name": "Numeric approximation algorithms"
+  },
+  {
+    "name": "Systems security"
+  },
+  {
+    "name": "Security services"
+  },
+  {
+    "name": "Electronic design automation"
+  },
+  {
+    "name": "Health information exchanges"
+  },
+  {
+    "name": "Digital signatures"
+  },
+  {
+    "name": "Network structure"
+  },
+  {
+    "name": "Carbon based electronics"
+  },
+  {
+    "name": "Business-IT alignment"
+  },
+  {
+    "name": "Modal and temporal logics"
+  },
+  {
+    "name": "Data structures design and analysis"
+  },
+  {
+    "name": "Linear algebra algorithms"
+  },
+  {
+    "name": "Surveillance mechanisms"
+  },
+  {
+    "name": "Layering"
+  },
+  {
+    "name": "Database protection laws"
+  },
+  {
+    "name": "Analog, mixed-signal and radio frequency test"
+  },
+  {
+    "name": "Error-correcting codes"
+  },
+  {
+    "name": "Data integration"
+  },
+  {
+    "name": "Unsupervised learning"
+  },
+  {
+    "name": "Experimentation"
+  },
+  {
+    "name": "Predecessor queries"
+  },
+  {
+    "name": "Life and medical sciences"
+  },
+  {
+    "name": "Ad hoc networks"
+  },
+  {
+    "name": "Transient errors and upsets"
+  },
+  {
+    "name": "Social and professional topics"
+  },
+  {
+    "name": "Random order and robust communication complexity"
+  },
+  {
+    "name": "Network architectures"
+  },
+  {
+    "name": "Animation"
+  },
+  {
+    "name": "Law"
+  },
+  {
+    "name": "Commerce policy"
+  },
+  {
+    "name": "Network reliability"
+  },
+  {
+    "name": "Interaction design"
+  },
+  {
+    "name": "Hardware validation"
+  },
+  {
+    "name": "Fuel-based energy"
+  },
+  {
+    "name": "Computing methodologies"
+  },
+  {
+    "name": "System-level fault tolerance"
+  },
+  {
+    "name": "Surveillance"
+  },
+  {
+    "name": "Randomness, geometry and discrete structures"
+  },
+  {
+    "name": "Computers in other domains"
+  },
+  {
+    "name": "E-learning"
+  },
+  {
+    "name": "Document types"
+  },
+  {
+    "name": "Market equilibria"
+  },
+  {
+    "name": "Program reasoning"
+  },
+  {
+    "name": "Enterprise modeling"
+  },
+  {
+    "name": "Vulnerability management"
+  },
+  {
+    "name": "Topic modeling"
+  },
+  {
+    "name": "Token ring networks"
+  },
+  {
+    "name": "Theory of database privacy and security"
+  },
+  {
+    "name": "Symbolic and algebraic algorithms"
+  },
+  {
+    "name": "Automated reasoning"
+  },
+  {
+    "name": "Rendering"
+  },
+  {
+    "name": "Social media networks"
+  },
+  {
+    "name": "Modeling methodologies"
+  },
+  {
+    "name": "Usability in security and privacy"
+  },
+  {
+    "name": "Mathematical foundations of cryptography"
+  },
+  {
+    "name": "Online algorithms"
+  },
+  {
+    "name": "Denotational semantics"
+  },
+  {
+    "name": "Abstract machines"
+  },
+  {
+    "name": "Proof theory"
+  },
+  {
+    "name": "Mixture modeling"
+  },
+  {
+    "name": "Document scanning"
+  },
+  {
+    "name": "Computer graphics"
+  },
+  {
+    "name": "Event-driven architectures"
+  },
+  {
+    "name": "Architecture (buildings)"
+  },
+  {
+    "name": "Online auctions policy"
+  },
+  {
+    "name": "Electronics"
+  },
+  {
+    "name": "Cryptography"
+  },
+  {
+    "name": "Learning paradigms"
+  },
+  {
+    "name": "Document capture"
+  },
+  {
+    "name": "Shape modeling"
+  },
+  {
+    "name": "Visual content-based indexing and retrieval"
+  },
+  {
+    "name": "Chemistry"
+  },
+  {
+    "name": "Biology-related information processing"
+  },
+  {
+    "name": "Algebraic algorithms"
+  },
+  {
+    "name": "Bayesian analysis"
+  },
+  {
+    "name": "Logic and databases"
+  },
+  {
+    "name": "Antitrust and competition"
+  },
+  {
+    "name": "Online learning theory"
+  },
+  {
+    "name": "Human and societal aspects of security and privacy"
+  },
+  {
+    "name": "Programming logic"
+  },
+  {
+    "name": "Interconnect power issues"
+  },
+  {
+    "name": "Motion processing"
+  },
+  {
+    "name": "Multi-task learning"
+  },
+  {
+    "name": "Medical records"
+  },
+  {
+    "name": "Input / output circuits"
+  },
+  {
+    "name": "Deep packet inspection"
+  },
+  {
+    "name": "Document management"
+  },
+  {
+    "name": "Learning settings"
+  },
+  {
+    "name": "Continuous mathematics"
+  },
+  {
+    "name": "Emerging interfaces"
+  },
+  {
+    "name": "Astronomy"
+  },
+  {
+    "name": "Anomaly detection"
+  },
+  {
+    "name": "Network monitoring"
+  },
+  {
+    "name": "Invariants"
+  },
+  {
+    "name": "Integrated circuits"
+  },
+  {
+    "name": "Genetic information"
+  },
+  {
+    "name": "Online learning algorithms"
+  },
+  {
+    "name": "Image processing"
+  },
+  {
+    "name": "Point-based models"
+  },
+  {
+    "name": "Mobile ad hoc networks"
+  },
+  {
+    "name": "Psychology"
+  },
+  {
+    "name": "Virtualization and security"
+  },
+  {
+    "name": "Simulation theory"
+  },
+  {
+    "name": "Preconditioning"
+  },
+  {
+    "name": "Random walks and Markov chains"
+  },
+  {
+    "name": "Expander graphs and randomness extractors"
+  },
+  {
+    "name": "Mobile agents"
+  },
+  {
+    "name": "Ray tracing"
+  },
+  {
+    "name": "Information integration and interoperability"
+  },
+  {
+    "name": "Branch-and-bound"
+  },
+  {
+    "name": "Shape analysis"
+  },
+  {
+    "name": "Finite Model Theory"
+  },
+  {
+    "name": "Design reuse and communication-based design"
+  },
+  {
+    "name": "Model verification and validation"
+  },
+  {
+    "name": "Design and analysis of algorithms"
+  },
+  {
+    "name": "Adversary models"
+  },
+  {
+    "name": "Network games"
+  },
+  {
+    "name": "Star networks"
+  },
+  {
+    "name": "Application specific processors"
+  },
+  {
+    "name": "Theory and algorithms for application domains"
+  },
+  {
+    "name": "Ubiquitous and mobile computing theory, concepts and paradigms"
+  },
+  {
+    "name": "Turing machines"
+  },
+  {
+    "name": "Automata over infinite objects"
+  },
+  {
+    "name": "Pseudorandomness and derandomization"
+  },
+  {
+    "name": "Application specific instruction set processors"
+  },
+  {
+    "name": "Concurrent computing methodologies"
+  },
+  {
+    "name": "Verification by model checking"
+  },
+  {
+    "name": "Continuous functions"
+  },
+  {
+    "name": "Modeling and simulation"
+  },
+  {
+    "name": "Full-custom circuits"
+  },
+  {
+    "name": "Representations of games and their complexity"
+  },
+  {
+    "name": "Enterprise computing"
+  },
+  {
+    "name": "Tunneling devices"
+  },
+  {
+    "name": "Graph algorithms analysis"
+  },
+  {
+    "name": "Personal health records"
+  },
+  {
+    "name": "Flexible and printable circuits"
+  },
+  {
+    "name": "Philosophical/theoretical foundations of artificial intelligence"
+  },
+  {
+    "name": "Plasmonics"
+  },
+  {
+    "name": "Enterprise architecture management"
+  },
+  {
+    "name": "Power networks"
+  },
+  {
+    "name": "Operating systems security"
+  },
+  {
+    "name": "Pattern matching"
+  },
+  {
+    "name": "Random graphs"
+  },
+  {
+    "name": "Equation and inequality solving algorithms"
+  },
+  {
+    "name": "Printed circuit boards"
+  },
+  {
+    "name": "Fixed parameter tractability"
+  },
+  {
+    "name": "Antialiasing"
+  },
+  {
+    "name": "Enterprise computing infrastructures"
+  },
+  {
+    "name": "Networks"
+  },
+  {
+    "name": "Aerospace"
+  },
+  {
+    "name": "Earth and atmospheric sciences"
+  },
+  {
+    "name": "Service-oriented architectures"
+  },
+  {
+    "name": "Supply chain management"
+  },
+  {
+    "name": "Sound and music computing"
+  },
+  {
+    "name": "Collaborative learning"
+  },
+  {
+    "name": "Network simulations"
+  },
+  {
+    "name": "Point-to-point networks"
+  },
+  {
+    "name": "Nearest neighbor algorithms"
+  },
+  {
+    "name": "Interactive simulation"
+  },
+  {
+    "name": "Algorithmic game theory and mechanism design"
+  },
+  {
+    "name": "Hardware security implementation"
+  },
+  {
+    "name": "Software tools for EDA"
+  },
+  {
+    "name": "Data center networks"
+  },
+  {
+    "name": "Multi-criterion optimization and decision-making"
+  },
+  {
+    "name": "Theory of randomized search heuristics"
+  },
+  {
+    "name": "Design for testability"
+  },
+  {
+    "name": "Performing arts"
+  },
+  {
+    "name": "Electromagnetic interference and compatibility"
+  },
+  {
+    "name": "Pseudonymity, anonymity and untraceability"
+  },
+  {
+    "name": "Robustness"
+  },
+  {
+    "name": "Document metadata"
+  },
+  {
+    "name": "Symbolic and algebraic manipulation"
+  },
+  {
+    "name": "Business process management systems"
+  },
+  {
+    "name": "Computing / technology policy"
+  },
+  {
+    "name": "Model development and analysis"
+  },
+  {
+    "name": "Failure recovery, maintenance and self-repair"
+  },
+  {
+    "name": "Local area networks"
+  },
+  {
+    "name": "Accessibility technologies"
+  },
+  {
+    "name": "Formal methods and theory of security"
+  },
+  {
+    "name": "Machine learning theory"
+  },
+  {
+    "name": "Power estimation and optimization"
+  },
+  {
+    "name": "Computability"
+  },
+  {
+    "name": "Learning management systems"
+  },
+  {
+    "name": "Control path algorithms"
+  },
+  {
+    "name": "Higher order logic"
+  },
+  {
+    "name": "Program specifications"
+  },
+  {
+    "name": "Parameterized complexity and exact algorithms"
+  },
+  {
+    "name": "Linear logic"
+  },
+  {
+    "name": "Network types"
+  },
+  {
+    "name": "Packet-switching networks"
+  },
+  {
+    "name": "Quantum technologies"
+  },
+  {
+    "name": "Network mobility"
+  },
+  {
+    "name": "Random network models"
+  },
+  {
+    "name": "Functional constructs"
+  },
+  {
+    "name": "Enterprise data management"
+  },
+  {
+    "name": "Sample complexity and generalization bounds"
+  },
+  {
+    "name": "Network manageability"
+  },
+  {
+    "name": "User characteristics"
+  },
+  {
+    "name": "Boolean algebra algorithms"
+  },
+  {
+    "name": "Rounding techniques"
+  },
+  {
+    "name": "Standard cell libraries"
+  },
+  {
+    "name": "General and reference"
+  },
+  {
+    "name": "Operations research"
+  },
+  {
+    "name": "Simulation by animation"
+  },
+  {
+    "name": "Control primitives"
+  },
+  {
+    "name": "Language translation"
+  },
+  {
+    "name": "Authorization"
+  },
+  {
+    "name": "Cross-organizational business processes"
+  },
+  {
+    "name": "Algebraic language theory"
+  },
+  {
+    "name": "Analysis and design of emerging devices and systems"
+  },
+  {
+    "name": "Reconfigurable logic and FPGAs"
+  },
+  {
+    "name": "Enterprise architectures"
+  },
+  {
+    "name": "Image manipulation"
+  },
+  {
+    "name": "Program semantics"
+  },
+  {
+    "name": "Tamper-proof and tamper-resistant designs"
+  },
+  {
+    "name": "Temperature monitoring"
+  },
+  {
+    "name": "Convergence and learning in games"
+  },
+  {
+    "name": "Computer algebra systems"
+  },
+  {
+    "name": "Online learning settings"
+  },
+  {
+    "name": "Enterprise ontologies, taxonomies and vocabularies"
+  },
+  {
+    "name": "Race and ethnicity"
+  },
+  {
+    "name": "Arts and humanities"
+  },
+  {
+    "name": "Computer-managed instruction"
+  },
+  {
+    "name": "VLSI design manufacturing considerations"
+  },
+  {
+    "name": "Switching devices power issues"
+  },
+  {
+    "name": "Medical information policy"
+  },
+  {
+    "name": "Accessibility"
+  },
+  {
+    "name": "Topology analysis and generation"
+  },
+  {
+    "name": "Data recovery"
+  },
+  {
+    "name": "Enterprise architecture modeling"
+  },
+  {
+    "name": "Design rules"
+  },
+  {
+    "name": "Timing analysis"
+  },
+  {
+    "name": "Public Internet"
+  },
+  {
+    "name": "Aging of circuits and systems"
+  },
+  {
+    "name": "Post-manufacture validation and debug"
+  },
+  {
+    "name": "Programmable logic elements"
+  },
+  {
+    "name": "Energy metering"
+  },
+  {
+    "name": "Automata extensions"
+  },
+  {
+    "name": "Interface design prototyping"
+  },
+  {
+    "name": "General literature"
+  },
+  {
+    "name": "Theorem proving algorithms"
+  },
+  {
+    "name": "Online handwriting recognition"
+  },
+  {
+    "name": "Cross-computing tools and techniques"
+  },
+  {
+    "name": "Type theory"
+  },
+  {
+    "name": "Distributed computing methodologies"
+  },
+  {
+    "name": "Law, social and behavioral sciences"
+  },
+  {
+    "name": "Packet scheduling"
+  },
+  {
+    "name": "Circuit substrates"
+  },
+  {
+    "name": "Privacy policies"
+  },
+  {
+    "name": "Enterprise interoperability"
+  },
+  {
+    "name": "Licensing"
+  },
+  {
+    "name": "Document analysis"
+  },
+  {
+    "name": "Online test and diagnostics"
+  },
+  {
+    "name": "Resource binding and sharing"
+  },
+  {
+    "name": "Formal languages and automata theory"
+  },
+  {
+    "name": "Network design principles"
+  },
+  {
+    "name": "Metropolitan area networks"
+  },
+  {
+    "name": "Hardware reliability"
+  },
+  {
+    "name": "Hoare logic"
+  },
+  {
+    "name": "Theory of computation"
+  },
+  {
+    "name": "Stochastic approximation"
+  },
+  {
+    "name": "Emerging optical and photonic technologies"
+  },
+  {
+    "name": "Computing education"
+  },
+  {
+    "name": "Ubiquitous and mobile computing"
+  },
+  {
+    "name": "Parallel computing models"
+  },
+  {
+    "name": "K-server algorithms"
+  },
+  {
+    "name": "Software and its engineering"
+  },
+  {
+    "name": "Browser security"
+  },
+  {
+    "name": "Cyber-physical networks"
+  },
+  {
+    "name": "Grammars and context-free languages"
+  },
+  {
+    "name": "III-V compounds"
+  },
+  {
+    "name": "Application specific integrated circuits"
+  },
+  {
+    "name": "Energy generation and storage"
+  },
+  {
+    "name": "Divide and conquer"
+  },
+  {
+    "name": "Distributed artificial intelligence"
+  },
+  {
+    "name": "Incomplete, inconsistent, and uncertain databases"
+  },
+  {
+    "name": "Media arts"
+  },
+  {
+    "name": "Volumetric models"
+  },
+  {
+    "name": "Simulation types and techniques"
+  },
+  {
+    "name": "Programmable networks"
+  },
+  {
+    "name": "Consumer products policy"
+  },
+  {
+    "name": "Biographies"
+  },
+  {
+    "name": "Graphical / visual passwords"
+  },
+  {
+    "name": "Algorithm design techniques"
+  },
+  {
+    "name": "Business rules"
+  },
+  {
+    "name": "Emerging technologies"
+  },
+  {
+    "name": "Network performance evaluation"
+  },
+  {
+    "name": "Motif discovery"
+  },
+  {
+    "name": "Reusable energy storage"
+  },
+  {
+    "name": "Data anonymization and sanitization"
+  },
+  {
+    "name": "Engineering"
+  },
+  {
+    "name": "Model-order reduction"
+  },
+  {
+    "name": "Information accountability and usage control"
+  },
+  {
+    "name": "Vision for robotics"
+  },
+  {
+    "name": "Contextual design"
+  },
+  {
+    "name": "Packet classification"
+  },
+  {
+    "name": "Multi-factor authentication"
+  },
+  {
+    "name": "Network forensics"
+  },
+  {
+    "name": "Artificial intelligence"
+  },
+  {
+    "name": "Hardware-software codesign"
+  },
+  {
+    "name": "Network experimentation"
+  },
+  {
+    "name": "Key management"
+  },
+  {
+    "name": "Systems biology"
+  },
+  {
+    "name": "Computer-assisted instruction"
+  },
+  {
+    "name": "Reference works"
+  },
+  {
+    "name": "Corporate surveillance"
+  },
+  {
+    "name": "Communication hardware, interfaces and storage"
+  },
+  {
+    "name": "Taxation"
+  },
+  {
+    "name": "Database theory"
+  },
+  {
+    "name": "Formal security models"
+  },
+  {
+    "name": "IT architectures"
+  },
+  {
+    "name": "Combinational circuits"
+  },
+  {
+    "name": "Security requirements"
+  },
+  {
+    "name": "Document management and text processing"
+  },
+  {
+    "name": "Geographic characteristics"
+  },
+  {
+    "name": "Very large scale integration design"
+  },
+  {
+    "name": "Malware and its mitigation"
+  },
+  {
+    "name": "Patents"
+  },
+  {
+    "name": "Mathematical software performance"
+  },
+  {
+    "name": "Distributed systems security"
+  },
+  {
+    "name": "Representation of mathematical objects"
+  },
+  {
+    "name": "Memory and dense storage"
+  },
+  {
+    "name": "Business process management"
+  },
+  {
+    "name": "Simulation tools"
+  },
+  {
+    "name": "Student assessment"
+  },
+  {
+    "name": "Generating random combinatorial structures"
+  },
+  {
+    "name": "Economics of chip design and manufacturing"
+  },
+  {
+    "name": "Thermal issues"
+  },
+  {
+    "name": "Routing and network design problems"
+  },
+  {
+    "name": "Computer vision tasks"
+  },
+  {
+    "name": "Timed and hybrid models"
+  },
+  {
+    "name": "Machine learning"
+  },
+  {
+    "name": "Platform-based design"
+  },
+  {
+    "name": "Fault tolerance"
+  },
+  {
+    "name": "Computer vision"
+  },
+  {
+    "name": "Solution concepts in game theory"
+  },
+  {
+    "name": "Access control"
+  },
+  {
+    "name": "Applied computing"
+  },
+  {
+    "name": "Memory test and repair"
+  },
+  {
+    "name": "Privacy-preserving protocols"
+  },
+  {
+    "name": "Algebraic semantics"
+  },
+  {
+    "name": "Physical sciences and engineering"
+  },
+  {
+    "name": "Government technology policy"
+  },
+  {
+    "name": "Regular languages"
+  },
+  {
+    "name": "Logic"
+  },
+  {
+    "name": "Network range"
+  },
+  {
+    "name": "Semantics and reasoning"
+  },
+  {
+    "name": "Hardware attacks and countermeasures"
+  },
+  {
+    "name": "Program schemes"
+  },
+  {
+    "name": "Lifelong machine learning"
+  },
+  {
+    "name": "Formalisms"
+  },
+  {
+    "name": "Software creation and management"
+  },
+  {
+    "name": "On-chip sensors"
+  },
+  {
+    "name": "Datapath optimization"
+  },
+  {
+    "name": "Information-theoretic techniques"
+  },
+  {
+    "name": "Ambient intelligence"
+  },
+  {
+    "name": "Computer-aided manufacturing"
+  },
+  {
+    "name": "Hardware"
+  },
+  {
+    "name": "Marketing"
+  },
+  {
+    "name": "User interface design"
+  },
+  {
+    "name": "Evidence collection, storage and analysis"
+  },
+  {
+    "name": "Evaluation"
+  },
+  {
+    "name": "Industry and manufacturing"
+  },
+  {
+    "name": "Methodologies for EDA"
+  },
+  {
+    "name": "Genetics"
+  },
+  {
+    "name": "Interactive learning environments"
+  },
+  {
+    "name": "Logic circuits"
+  },
+  {
+    "name": "Hardware reliability screening"
+  },
+  {
+    "name": "Database constraints theory"
+  },
+  {
+    "name": "Statistical software"
+  },
+  {
+    "name": "Optimization algorithms"
+  },
+  {
+    "name": "Hard and soft IP"
+  },
+  {
+    "name": "Intrusion/anomaly detection and malware mitigation"
+  },
+  {
+    "name": "Data assimilation"
+  },
+  {
+    "name": "Mesh geometry models"
+  },
+  {
+    "name": "Bio-embedded electronics"
+  },
+  {
+    "name": "Ubiquitous and mobile computing systems and tools"
+  },
+  {
+    "name": "Program verification"
+  },
+  {
+    "name": "Computing standards, RFCs and guidelines"
+  },
+  {
+    "name": "Trust frameworks"
+  },
+  {
+    "name": "Parametric curve and surface models"
+  },
+  {
+    "name": "Active learning"
+  },
+  {
+    "name": "Energy distribution"
+  },
+  {
+    "name": "Authentication"
+  },
+  {
+    "name": "Action semantics"
+  },
+  {
+    "name": "Discrete calculus algorithms"
+  },
+  {
+    "name": "Neural systems"
+  },
+  {
+    "name": "Single electron devices"
+  },
+  {
+    "name": "Dynamic programming"
+  },
+  {
+    "name": "Reference models"
+  },
+  {
+    "name": "Image-based rendering"
+  },
+  {
+    "name": "W hierarchy"
+  },
+  {
+    "name": "Program analysis"
+  },
+  {
+    "name": "Interconnect"
+  },
+  {
+    "name": "Soft intellectual property"
+  },
+  {
+    "name": "Streaming models"
+  },
+  {
+    "name": "Short-range networks"
+  },
+  {
+    "name": "Information theory"
+  },
+  {
+    "name": "Exact and approximate computation of equilibria"
+  },
+  {
+    "name": "Accessibility systems and tools"
+  },
+  {
+    "name": "Computing Classification System"
+  },
+  {
+    "name": "Program constructs"
+  },
+  {
+    "name": "Computing education programs"
+  },
+  {
+    "name": "VLSI system specification and constraints"
+  },
+  {
+    "name": "Gender"
+  },
+  {
+    "name": "Hardware test"
+  },
+  {
+    "name": "Cross-validation"
+  },
+  {
+    "name": "Health care information systems"
+  },
+  {
+    "name": "Special-purpose algebraic systems"
+  },
+  {
+    "name": "Physical design (EDA)"
+  },
+  {
+    "name": "Database and storage security"
+  },
+  {
+    "name": "Number theory algorithms"
+  },
+  {
+    "name": "Network properties"
+  },
+  {
+    "name": "Probabilistic computation"
+  },
+  {
+    "name": "Vulnerability scanners"
+  },
+  {
+    "name": "Defect-based test"
+  },
+  {
+    "name": "Wired access networks"
+  },
+  {
+    "name": "Mobile networks"
+  },
+  {
+    "name": "Visualization"
+  },
+  {
+    "name": "Quantitative automata"
+  },
+  {
+    "name": "Interactive computation"
+  },
+  {
+    "name": "Ring networks"
+  },
+  {
+    "name": "Constructive mathematics"
+  },
+  {
+    "name": "Data path algorithms"
+  },
+  {
+    "name": "Logical / virtual topologies"
+  },
+  {
+    "name": "Pre- and post-conditions"
+  },
+  {
+    "name": "Professional topics"
+  },
+  {
+    "name": "Mathematics of computing"
+  },
+  {
+    "name": "Network topology types"
+  },
+  {
+    "name": "Network services"
+  },
+  {
+    "name": "Cellular neural networks"
+  },
+  {
+    "name": "Hardware-based security protocols"
+  },
+  {
+    "name": "Circuits power issues"
+  },
+  {
+    "name": "Surveys and overviews"
+  },
+  {
+    "name": "Physics"
+  },
+  {
+    "name": "Overlay and other logical network structures"
+  },
+  {
+    "name": "Nonalgebraic algorithms"
+  },
+  {
+    "name": "Computer vision representations"
+  },
+  {
+    "name": "Tree languages"
+  },
+  {
+    "name": "Intellectual property"
+  },
+  {
+    "name": "Security in hardware"
+  },
+  {
+    "name": "Population genetics"
+  },
+  {
+    "name": "Separation logic"
+  },
+  {
+    "name": "Approximation algorithms analysis"
+  }
+]

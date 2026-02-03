@@ -1,0 +1,14 @@
+{
+  "taxonomy_id": "food_fewshot_size10_sample0",
+  "domain": "Food",
+  "num_nodes": 10,
+  "num_edges": 9,
+  "root_node": "1587",
+  "root_node_name": "food",
+  "extraction_method": "fewshot_from_pool",
+  "source_type": "taxo",
+  "source_path": {
+    "terms_file": "TExEval-2_testdata_1.2 2/food_en_cleaned.terms",
+    "taxo_file": "TExEval-2_testdata_1.2 2/food_en_cleaned.taxo"
+  }
+}
