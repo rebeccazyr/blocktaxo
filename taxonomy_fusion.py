@@ -432,7 +432,7 @@ def resolve_parent(
     top_k: int,
     llm_client: Optional[LLMClient],
     query_children: Optional[List[str]] = None,
-    root_label: str = "Computing Classification System",
+    root_label: str = "ROOT",
     original_had_parent: bool = False,
 ) -> Tuple[Optional[str], str]:
     ordered = dict.fromkeys(candidate_ids or [])
@@ -582,35 +582,6 @@ def resolve_parent(
                             print(f"    [resolve_parent] LLM chose ROOT")
                             return None, "llm-root"
                     elif selected in {cid for cid, _ in top_candidates}:
-                        # Validation: Check if selected parent makes semantic sense
-                        # If query has broad/diverse children, validate they fit under selected parent
-                        if query_children and len(query_children) >= 3:
-                            selected_node = canonical_nodes[selected]
-                            selected_label_lower = selected_node.label.lower()
-                            
-                            # Check for obvious mismatches
-                            # e.g., "Applied computing" with diverse children under "Mathematics of computing"
-                            mismatched_children = []
-                            for child in query_children[:5]:  # Check first 5 children
-                                child_lower = child.lower()
-                                # Heuristic: if child is very different domain from parent label
-                                if ("mathematics" in selected_label_lower or "math" in selected_label_lower):
-                                    if any(domain in child_lower for domain in ["aerospace", "robotics", "electronics", "industrial", "mechanical"]):
-                                        mismatched_children.append(child)
-                                elif ("computing" in selected_label_lower and "applied" not in selected_label_lower):
-                                    # General computing categories might be OK
-                                    pass
-                            
-                            if len(mismatched_children) >= 2:  # At least 2 mismatched children
-                                print(f"    [resolve_parent] VALIDATION FAILED: Selected parent '{selected_node.label}' has semantic mismatch")
-                                print(f"      Mismatched children: {mismatched_children}")
-                                print(f"      This suggests query should be at ROOT level - overriding LLM decision")
-                                if not original_had_parent:
-                                    print(f"      Placing at ROOT instead")
-                                    return None, "validation-override-root"
-                                else:
-                                    print(f"      But node had parent originally, falling back to similarity")
-                        
                         return selected, "llm"
                     else:
                         print(f"    [resolve_parent] LLM selection '{selected}' not in candidates, falling back")
@@ -635,7 +606,7 @@ def determine_sibling_or_parent_relationship(
     children_map: Dict[str, List[str]],
     node_paths: Dict[str, List[str]],
     llm_client: Optional[LLMClient],
-    root_label: str = "Computing Classification System",
+    root_label: str = "ROOT",
 ) -> Tuple[str, List[str], str]:
     """Determine if query node should be sibling or parent of existing children.
     
@@ -802,7 +773,7 @@ def build_fused_hierarchy(
     embeddings: np.ndarray,
     top_k: int,
     llm_client: Optional[LLMClient],
-    root_label: str = "Computing Classification System",
+    root_label: str = "ROOT",
 ) -> Tuple[Dict[str, CanonicalNode], Dict[str, Optional[str]], Dict[str, List[str]], Dict[str, List[str]]]:
     node_embeddings: Dict[str, np.ndarray] = {}
     for idx, record in enumerate(node_records):
