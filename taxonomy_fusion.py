@@ -1044,37 +1044,30 @@ def build_fused_hierarchy(
             print(f"  - Path: {' > '.join(record.path)}")
             
             parent_canonical = None
-            force_root_parent = False
             if parent_is_root_label:
-                force_root_parent = True
+                print(f"  - Parent matches virtual root '{root_label}'; allowing free parent search")
             else:
                 parent_canonical = store.node_to_canonical.get(record.parent_id) if record.parent_id else None
             if parent_canonical:
                 print(f"  - Parent canonical: {parent_canonical} ('{store.canonical_nodes[parent_canonical].label}')")
                 print(f"  - Parent in placed set: {parent_canonical in placed}")
             else:
-                if force_root_parent:
+                if parent_is_root_label:
                     print(f"  - Parent canonical: None (parent matches virtual root '{root_label}')")
                 elif record.parent_id:
                     print(f"  - Parent canonical: None (parent not yet placed)")
                 else:
                     print(f"  - Parent canonical: None (original node was root in its block)")
 
-            if force_root_parent:
-                candidates = []
-                print("  - Parent is virtual ROOT; forcing ROOT placement")
-            else:
-                candidates = candidate_pool(parent_canonical)
-                print(f"  - Candidate pool size: {len(candidates)}")
-                if candidates:
-                    candidate_labels = [f"{cid} ('{store.canonical_nodes[cid].label}')" for cid in candidates[:3]]
-                    print(f"  - Candidates: {candidate_labels}")
+            candidates = candidate_pool(parent_canonical)
+            print(f"  - Candidate pool size: {len(candidates)}")
+            if candidates:
+                candidate_labels = [f"{cid} ('{store.canonical_nodes[cid].label}')" for cid in candidates[:3]]
+                print(f"  - Candidates: {candidate_labels}")
 
             chosen_parent: Optional[str] = None
             strategy = "no-candidates"
-            if force_root_parent:
-                strategy = "virtual-root-merge"
-            elif parent_canonical and parent_canonical in placed:
+            if parent_canonical and parent_canonical in placed:
                 existing_children_ids = children_map.get(parent_canonical, [])
                 if existing_children_ids:
                     same_block_children = True
@@ -1094,7 +1087,7 @@ def build_fused_hierarchy(
             elif chosen_parent is None and candidates:
                 print(f"  - Resolving parent via embeddings/LLM...")
                 # Determine if original node had a parent
-                original_had_parent = record.parent_id is not None
+                original_had_parent = record.parent_id is not None and not parent_is_root_label
                 # Provide the query node's child labels to the LLM to give context about its local subtree
                 query_child_labels = [
                     record_lookup[cid].label for cid in record.children_ids if cid in record_lookup
@@ -1117,7 +1110,7 @@ def build_fused_hierarchy(
                 else:
                     print(f"  - Resolved parent: None (no suitable candidate found)")
             
-            if chosen_parent is None and not force_root_parent:
+            if chosen_parent is None:
                 if parent_canonical and parent_canonical in placed:
                     chosen_parent = parent_canonical
                     strategy = "direct-parent"
@@ -1132,99 +1125,102 @@ def build_fused_hierarchy(
                         print(f"    Reason: Node was root in original block, no other suitable parent found")
             
             # Determine if query node should be sibling or parent of existing children
-            if chosen_parent is None and force_root_parent and llm_client:
-                relationship, affected_children, rel_reasoning = determine_root_relationship(
-                    store.canonical_nodes[canonical_id],
-                    record.block_id,
-                    store.canonical_nodes,
-                    children_map,
-                    parent_map,
-                    node_paths,
-                    llm_client,
-                    root_label,
-                )
+            if llm_client:
+                if chosen_parent is None:
+                    root_children_ids = [cid for cid, parent in parent_map.items() if parent is None]
+                    relationship, affected_children, rel_reasoning = determine_sibling_or_parent_relationship(
+                        store.canonical_nodes[canonical_id],
+                        record.block_id,
+                        None,
+                        store.canonical_nodes,
+                        children_map,
+                        node_paths,
+                        llm_client,
+                        root_label,
+                        root_children_ids,
+                    )
 
-                if relationship == "parent" and affected_children:
-                    print(f"  - Relationship decision: PARENT of {len(affected_children)} ROOT children")
-                    print(f"  - Affected children: {[store.canonical_nodes[cid].label for cid in affected_children]}")
+                    if relationship == "parent" and affected_children:
+                        print(f"  - Relationship decision: PARENT of {len(affected_children)} ROOT children")
+                        print(f"  - Affected children: {[store.canonical_nodes[cid].label for cid in affected_children]}")
 
-                    attach_node(canonical_id, None, f"{strategy}+parent-layer")
+                        attach_node(canonical_id, None, f"{strategy}+parent-layer")
 
-                    for child_id in affected_children:
-                        if parent_map.get(child_id) is None:
-                            parent_map[child_id] = canonical_id
-                            if canonical_id not in children_map:
-                                children_map[canonical_id] = []
-                            if child_id not in children_map[canonical_id]:
-                                children_map[canonical_id].append(child_id)
-                            base = node_paths.get(canonical_id, [store.canonical_nodes[canonical_id].label])
-                            node_paths[child_id] = base + [store.canonical_nodes[child_id].label]
-                            print(f"    [Stage2-Restructure] Moved {child_id} ('{store.canonical_nodes[child_id].label}') under {canonical_id}")
+                        for child_id in affected_children:
+                            if parent_map.get(child_id) is None:
+                                parent_map[child_id] = canonical_id
+                                if canonical_id not in children_map:
+                                    children_map[canonical_id] = []
+                                if child_id not in children_map[canonical_id]:
+                                    children_map[canonical_id].append(child_id)
+                                base = node_paths.get(canonical_id, [store.canonical_nodes[canonical_id].label])
+                                node_paths[child_id] = base + [store.canonical_nodes[child_id].label]
+                                print(f"    [Stage2-Restructure] Moved {child_id} ('{store.canonical_nodes[child_id].label}') under {canonical_id}")
+                    else:
+                        print(f"  - Relationship decision: SIBLING of ROOT children")
+                        attach_node(canonical_id, None, f"{strategy}+sibling")
                 else:
-                    print(f"  - Relationship decision: SIBLING of ROOT children")
-                    attach_node(canonical_id, None, f"{strategy}+sibling")
-            elif chosen_parent is not None and llm_client:
-                existing_children_ids = children_map.get(chosen_parent, [])
-                if not existing_children_ids:
-                    relationship = "sibling"
-                    affected_children = []
-                    rel_reasoning = "parent-has-no-children"
-                    print("  - Skipping sibling/parent decision (parent has no children)")
-                else:
-                    all_same_block = True
-                    for cid in existing_children_ids:
-                        child_blocks = set(store.canonical_nodes[cid].source_blocks)
-                        if child_blocks != {record.block_id}:
-                            all_same_block = False
-                            break
-                    if all_same_block:
+                    existing_children_ids = children_map.get(chosen_parent, [])
+                    if not existing_children_ids:
                         relationship = "sibling"
                         affected_children = []
-                        rel_reasoning = "same-block-children"
-                        print("  - Skipping sibling/parent decision (children from same block)")
+                        rel_reasoning = "parent-has-no-children"
+                        print("  - Skipping sibling/parent decision (parent has no children)")
                     else:
-                        relationship, affected_children, rel_reasoning = determine_sibling_or_parent_relationship(
-                            store.canonical_nodes[canonical_id],
-                            record.block_id,
-                            chosen_parent,
-                            store.canonical_nodes,
-                            children_map,
-                            node_paths,
-                            llm_client,
-                            root_label,
-                        )
-                
-                if relationship == "parent" and affected_children:
-                    # Query node should become parent of some existing children
-                    print(f"  - Relationship decision: PARENT of {len(affected_children)} existing children")
-                    print(f"  - Affected children: {[store.canonical_nodes[cid].label for cid in affected_children]}")
+                        all_same_block = True
+                        for cid in existing_children_ids:
+                            child_blocks = set(store.canonical_nodes[cid].source_blocks)
+                            if child_blocks != {record.block_id}:
+                                all_same_block = False
+                                break
+                        if all_same_block:
+                            relationship = "sibling"
+                            affected_children = []
+                            rel_reasoning = "same-block-children"
+                            print("  - Skipping sibling/parent decision (children from same block)")
+                        else:
+                            relationship, affected_children, rel_reasoning = determine_sibling_or_parent_relationship(
+                                store.canonical_nodes[canonical_id],
+                                record.block_id,
+                                chosen_parent,
+                                store.canonical_nodes,
+                                children_map,
+                                node_paths,
+                                llm_client,
+                                root_label,
+                            )
                     
-                    # First attach query node to the selected parent
-                    attach_node(canonical_id, chosen_parent, f"{strategy}+parent-layer")
-                    
-                    # Then re-attach affected children under query node
-                    for child_id in affected_children:
-                        if child_id in children_map.get(chosen_parent, []):
-                            # Remove from old parent's children
-                            children_map[chosen_parent].remove(child_id)
-                            # Update parent map
-                            parent_map[child_id] = canonical_id
-                            # Add to new parent's children
-                            if canonical_id not in children_map:
-                                children_map[canonical_id] = []
-                            if child_id not in children_map[canonical_id]:
-                                children_map[canonical_id].append(child_id)
-                            # Update path
-                            base = node_paths.get(canonical_id, [store.canonical_nodes[canonical_id].label])
-                            node_paths[child_id] = base + [store.canonical_nodes[child_id].label]
-                            
-                            print(f"    [Stage2-Restructure] Moved {child_id} ('{store.canonical_nodes[child_id].label}') under {canonical_id}")
-                else:
-                    # Query node is a sibling
-                    print(f"  - Relationship decision: SIBLING of existing children")
-                    attach_node(canonical_id, chosen_parent, f"{strategy}+sibling")
+                    if relationship == "parent" and affected_children:
+                        # Query node should become parent of some existing children
+                        print(f"  - Relationship decision: PARENT of {len(affected_children)} existing children")
+                        print(f"  - Affected children: {[store.canonical_nodes[cid].label for cid in affected_children]}")
+                        
+                        # First attach query node to the selected parent
+                        attach_node(canonical_id, chosen_parent, f"{strategy}+parent-layer")
+                        
+                        # Then re-attach affected children under query node
+                        for child_id in affected_children:
+                            if child_id in children_map.get(chosen_parent, []):
+                                # Remove from old parent's children
+                                children_map[chosen_parent].remove(child_id)
+                                # Update parent map
+                                parent_map[child_id] = canonical_id
+                                # Add to new parent's children
+                                if canonical_id not in children_map:
+                                    children_map[canonical_id] = []
+                                if child_id not in children_map[canonical_id]:
+                                    children_map[canonical_id].append(child_id)
+                                # Update path
+                                base = node_paths.get(canonical_id, [store.canonical_nodes[canonical_id].label])
+                                node_paths[child_id] = base + [store.canonical_nodes[child_id].label]
+                                
+                                print(f"    [Stage2-Restructure] Moved {child_id} ('{store.canonical_nodes[child_id].label}') under {canonical_id}")
+                    else:
+                        # Query node is a sibling
+                        print(f"  - Relationship decision: SIBLING of existing children")
+                        attach_node(canonical_id, chosen_parent, f"{strategy}+sibling")
             else:
-                # No LLM or no parent - just attach directly
+                # No LLM - just attach directly
                 attach_node(canonical_id, chosen_parent, strategy)
 
     # Sort children for deterministic output
